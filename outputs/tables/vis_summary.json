@@ -1,0 +1,104 @@
+{
+  "stock": {
+    "negative_sales_cells_clipped": 3386,
+    "units_delivered_after_week12_excluded": 62711,
+    "product_shops": 106850,
+    "products": 5355,
+    "shops": 110,
+    "seasons": [
+      "AW17",
+      "AW18",
+      "AW19",
+      "SS17",
+      "SS18",
+      "SS19"
+    ],
+    "share_shop_weeks_ending_at_zero_stock": 0.01981828107939479,
+    "share_product_shops_ever_stocked_out_12w": 0.07421619092185307,
+    "units_delivered_12w": 2334430.0,
+    "units_sold_12w": 1602545.0,
+    "leftover_units_12w_product_shop": 736546.0,
+    "leftover_share_of_delivered": 0.3155142797171044,
+    "median_product_sell_through": 0.7186440677966102,
+    "share_products_sell_through_below_60pct": 0.15779645191409897,
+    "share_products_short_lived": 0.05322128851540616,
+    "short_lived_post_peak_shop_weeks_with_stock_available": 0.9385867196202838,
+    "short_lived_leftover_share": 0.22914755101149123,
+    "other_leftover_share": 0.31535713536678295,
+    "spearman_time_to_peak_vs_leftover_share": -0.02242521090808255,
+    "spearman_time_to_peak_p_value": 0.10111495571754522,
+    "share_products_marked_down_15pct_12w": 0.5704948646125116,
+    "median_first_markdown_week_1based": 8.0,
+    "short_lived_marked_down_after_demand_halved": 0.5192307692307693,
+    "other_marked_down_after_demand_halved": 0.42014487754398067
+  },
+  "uplift": {
+    "beta_fe": 0.8815168241616663,
+    "se_fe_cluster": 0.004943773683628768,
+    "beta_fd": 1.2809545260974198,
+    "uplift_per_10pp_fe": 0.09215376998759583,
+    "uplift_per_10pp_fd": 0.1366614948251239
+  },
+  "forecast_best_model": "Gradient boosting (no Google Trends)",
+  "forecast_best_weekly_wape": 0.3885848542487297,
+  "forecast_naive_weekly_wape": 0.6016814415108884,
+  "forecast_best_remaining_total_wape": 0.2607139642789675,
+  "forecast_best_bias": 0.17737552638973628,
+  "leftover_prediction": {
+    "model": "Gradient boosting (no Google Trends)",
+    "test_products": 1900,
+    "leftover_wape": 0.39177383224550044,
+    "leftover_total_actual": 279742.0,
+    "leftover_total_predicted": 211647.10059268982,
+    "corr_pred_vs_actual_leftover": 0.88880396286887,
+    "high_leftover_products_actual_share": 0.1036842105263158,
+    "high_leftover_precision": 0.5647668393782384,
+    "high_leftover_recall": 0.5532994923857868,
+    "flagged_share_of_actual_leftover_units": 0.19819691000993772,
+    "corr_pred_vs_actual_sell_through": 0.6433628328288364,
+    "naive_corr_sell_through": 0.3689393900039026,
+    "naive_flag_recall": 0.3401015228426396,
+    "naive_flag_precision": 0.2518796992481203,
+    "plan_only_corr_leftover_units": 0.9547471308314489
+  },
+  "markdown_trigger": {
+    "median_recommended_week": 8.0,
+    "median_actual_first_markdown_week": 8.0,
+    "share_recommended_earlier_than_actual": 0.19052631578947368
+  },
+  "simulation_baseline_test_leftover_units": 281612.0,
+  "simulation_main_scenario": {
+    "flag_threshold_pred_sell_through": 0.6,
+    "share_products_flagged": 0.10157894736842105,
+    "uplift_estimate": "FE (conservative)",
+    "policy": "A+B",
+    "delivery_cut": 0.3,
+    "markdown_level": 0.2,
+    "leftover_units": 248027.17995397042,
+    "leftover_change": -0.11925919366372728,
+    "sold_change": 0.008104641079829111,
+    "revenue_change": -0.006718600604728064,
+    "delivered_change": -0.030760945417033336,
+    "units_leftover_avoided": 33584.82004602958,
+    "breakeven_cost_to_price": 0.13792467958706733
+  },
+  "simulation_main_impact": {
+    "units": 33584.82004602958,
+    "tonnes_textile_low": 8.396205011507394,
+    "tonnes_textile_high": 16.79241002301479,
+    "tonnes_co2e_low": 26.60757368146693,
+    "tonnes_co2e_high": 419.8102505753697
+  },
+  "env_factors": {
+    "garment_kg": {
+      "low": 0.25,
+      "high": 0.5,
+      "source": "Assumption for women's fashion items (tops, dresses, skirts, knitwear, light coats), consistent with practical garment-weight guides, e.g. ~5 T-shirts or 2-4 shirts per kg (https://www.indetexx.com/how-much-is-a-kg-of-clothes-garments-weight-guide/)."
+    },
+    "co2e_per_kg": {
+      "low": 3.169,
+      "high": 25.0,
+      "source": "Low: EU estimate of CO2 saved per kg of clothing reused (3.169 kg), as cited by UPC-INTEXTER; High: UPC-INTEXTER literature review, 25 kg CO2 saved per kg of clothing reused (2022), https://www.upc.edu/en/press-room/news/reusing-1-kg-of-clothing-saves-25-kg-of-co2-according-to-a-study-by-intexter . Context: WRAP (2017) puts UK clothing's whole-life footprint at 23.2 t CO2e per tonne (2016), https://www.wrap.ngo/sites/default/files/2020-10/WRAP-valuing-our-clothes-the-cost-of-uk-fashion_WRAP.pdf"
+    }
+  }
+}

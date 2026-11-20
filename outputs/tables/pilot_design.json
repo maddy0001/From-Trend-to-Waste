@@ -1,0 +1,17 @@
+{
+  "base_leftover_share_test_shops_mean": 0.30532743177052707,
+  "expected_effect_pp": 2.817043342222237,
+  "between_shop_sd_pp": 4.639063890307797,
+  "prior_season_correlation": 0.1559423627614186,
+  "sd_after_ancova_pp": 4.582310307676588,
+  "shops_per_arm_full_effect_simple": 44,
+  "shops_per_arm_full_effect_ancova": 43,
+  "shops_per_arm_half_effect_ancova": 168,
+  "product_design_effect_pp": 14.055199948554725,
+  "product_design_sd_pp": 9.123789672344367,
+  "products_per_arm_full_effect": 8,
+  "products_per_arm_half_effect": 28,
+  "flagged_products_per_season": 96,
+  "shops_available_per_season": 96,
+  "share_shops_improving": 0.9850746268656716
+}

@@ -1,0 +1,169 @@
+{
+ "block": {
+  "x": 0,
+  "y": 0,
+  "w": 1440,
+  "h": 2268.09375
+ },
+ "panel": {
+  "x": 80,
+  "y": 285.578125,
+  "w": 1280,
+  "h": 1822.515625
+ },
+ "tablist": {
+  "x": 80,
+  "y": 245.578125,
+  "w": 1280,
+  "h": 40
+ },
+ "title": {
+  "x": 80,
+  "y": 96,
+  "w": 1280,
+  "h": 88.796875
+ },
+ "elements": [
+  {
+   "testid": "stHeading",
+   "text": "Score a new product before launch",
+   "x": 80,
+   "y": 301.578125,
+   "w": 1280,
+   "h": 61.59375
+  },
+  {
+   "testid": "stAlert",
+   "text": "Who uses it: buyers and merchandise planners\nDecision it supports: how deep the first order for a new product should be",
+   "x": 80,
+   "y": 363.171875,
+   "w": 1280,
+   "h": 80
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "Logistic regression trained on the 2017-2018 seasons and tested on 2019. It predicts the chance that a product ends with high leftover (under 60% of its stock s",
+   "x": 80,
+   "y": 459.171875,
+   "w": 1280,
+   "h": 51.1875
+  },
+  {
+   "testid": "stSelectbox",
+   "text": "Category",
+   "x": 80,
+   "y": 526.359375,
+   "w": 308,
+   "h": 68
+  },
+  {
+   "testid": "stSelectbox",
+   "text": "Colour",
+   "x": 404,
+   "y": 526.359375,
+   "w": 308,
+   "h": 68
+  },
+  {
+   "testid": "stSelectbox",
+   "text": "Fabric",
+   "x": 728,
+   "y": 526.359375,
+   "w": 308,
+   "h": 68
+  },
+  {
+   "testid": "stSelectbox",
+   "text": "Season (SS = spring-summer, AW = autumn-winter)",
+   "x": 1052,
+   "y": 526.359375,
+   "w": 308,
+   "h": 68
+  },
+  {
+   "testid": "stSlider",
+   "text": "Price position within its category (0 = cheapest, 1 = priciest)\n\n0.90\n\n0.00\n\n1.00",
+   "x": 80,
+   "y": 610.359375,
+   "w": 308,
+   "h": 88.78125
+  },
+  {
+   "testid": "stSelectbox",
+   "text": "Release month",
+   "x": 404,
+   "y": 610.359375,
+   "w": 308,
+   "h": 68
+  },
+  {
+   "testid": "stSlider",
+   "text": "Number of shops\n\n14\n\n1\n\n110",
+   "x": 728,
+   "y": 610.359375,
+   "w": 308,
+   "h": 68
+  },
+  {
+   "testid": "stSlider",
+   "text": "Initial units per shop (the first delivery)\n\n12.00\n\n1.00\n\n20.00",
+   "x": 1052,
+   "y": 610.359375,
+   "w": 308,
+   "h": 68
+  },
+  {
+   "testid": "stMetric",
+   "text": "Probability this product ends with high leftover\n\n75%\n\n+300% vs average product",
+   "x": 80,
+   "y": 715.140625,
+   "w": 1280,
+   "h": 103
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "Suggested action: buy a shallow first order and plan replenishment only on strong week-1-2 sales.",
+   "x": 80,
+   "y": 834.140625,
+   "w": 1280,
+   "h": 25.59375
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "What raises or lowers the risk (odds ratios vs a black long sleeve in georgette, spring-summer, middle price and depth; significant at 5%)",
+   "x": 80,
+   "y": 875.734375,
+   "w": 1280,
+   "h": 25.59375
+  },
+  {
+   "testid": "stDataFrame",
+   "text": "",
+   "x": 80,
+   "y": 917.328125,
+   "w": 1280,
+   "h": 387
+  },
+  {
+   "testid": "stImage",
+   "text": "",
+   "x": 80,
+   "y": 1327.921875,
+   "w": 1280,
+   "h": 780.171875
+  }
+ ],
+ "scale": 2,
+ "width": 1440,
+ "height": 2308.09375,
+ "params": {
+  "category": "culottes",
+  "color": "yellow",
+  "fabric": "scuba crepe",
+  "season_type": "SS",
+  "price_tier": "0.9",
+  "release_month": "3",
+  "n_shops": "14",
+  "initial_per_shop": "12"
+ }
+}

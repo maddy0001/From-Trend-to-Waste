@@ -1,0 +1,63 @@
+{
+  "products_total": 5355,
+  "products_in_sample": 4687,
+  "units_in_sample": 1591465.0,
+  "min_units": 30,
+  "k_chosen": 4,
+  "silhouette_by_k": {
+    "3": 0.144593089042733,
+    "4": 0.13539485941453314,
+    "5": 0.12144569805368426,
+    "6": 0.10542976205871259,
+    "7": 0.0982673836108445
+  },
+  "cluster_names": {
+    "0": "Late bloomer",
+    "1": "Steady decline",
+    "2": "Mid-season peak",
+    "3": "Fast fade"
+  },
+  "cluster_shares": {
+    "Steady decline": 0.25197354384467674,
+    "Fast fade": 0.26008107531470026,
+    "Mid-season peak": 0.27032216769788775,
+    "Late bloomer": 0.21762321314273522
+  },
+  "short_lived_definition": "falls below 25% of peak within 4 weeks of it AND weeks 7-12 < 20% of 12-week units",
+  "share_short_lived": 0.03755067207168765,
+  "short_lived_products": 176,
+  "short_lived_median_weeks_peak_to_half": 2.0,
+  "short_lived_median_peak_week": 4.0,
+  "other_median_weeks_peak_to_half": 3.0,
+  "share_marked_down_12w": 0.5600597397055685,
+  "share_units_on_markdown": 0.20403024885875592,
+  "markdown_sensitivity": {
+    "10pct": {
+      "share_products_marked_down_12w": 0.6443353957755494,
+      "share_units_sold_on_markdown": 0.2577266857895084
+    },
+    "15pct": {
+      "share_products_marked_down_12w": 0.5600597397055685,
+      "share_units_sold_on_markdown": 0.20403024885875592
+    },
+    "20pct": {
+      "share_products_marked_down_12w": 0.5090676338809473,
+      "share_units_sold_on_markdown": 0.1788264272227162
+    }
+  },
+  "short_lived_marked_down_after_demand_halved": 0.5930232558139535,
+  "other_marked_down_after_demand_halved": 0.43087829854273335,
+  "short_lived_median_weeks_peak_to_markdown": 3.0,
+  "other_median_weeks_peak_to_markdown": 6.0,
+  "short_lived_median_first_markdown_week": 6.0,
+  "all_products_markdown": {
+    "marked_down_after_demand_halved": 0.4361904761904762,
+    "median_demand_at_markdown_vs_peak": 0.5333333333333333,
+    "median_first_markdown_week": 8.0,
+    "median_weeks_peak_to_markdown": 6.0,
+    "median_peak_week": 1.0,
+    "share_peak_in_first_3_weeks": 0.6970343503307019
+  },
+  "short_lived_sell_through_median": 0.7754726171268531,
+  "other_sell_through_median": 0.7164723032069971
+}

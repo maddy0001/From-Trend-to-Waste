@@ -1,0 +1,232 @@
+{
+ "block": {
+  "x": 0,
+  "y": 0,
+  "w": 1440,
+  "h": 4057.203125
+ },
+ "panel": {
+  "x": 80,
+  "y": 285.578125,
+  "w": 1280,
+  "h": 3611.625
+ },
+ "tablist": {
+  "x": 80,
+  "y": 245.578125,
+  "w": 1280,
+  "h": 40
+ },
+ "title": {
+  "x": 80,
+  "y": 96,
+  "w": 1280,
+  "h": 88.796875
+ },
+ "elements": [
+  {
+   "testid": "stHeading",
+   "text": "Who buys? Loyalty-card customers (Dec 2016 - Feb 2020)",
+   "x": 80,
+   "y": 301.578125,
+   "w": 1280,
+   "h": 61.59375
+  },
+  {
+   "testid": "stAlert",
+   "text": "Who uses it: CRM / marketing and sustainability teams\nDecision it supports: which customers to reach first with new products, and what consumers value",
+   "x": 80,
+   "y": 363.171875,
+   "w": 1280,
+   "h": 80
+  },
+  {
+   "testid": "stMetric",
+   "text": "Customers\n\n657,813",
+   "x": 80,
+   "y": 459.171875,
+   "w": 308,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Units bought by the top 20%\n\n61%",
+   "x": 404,
+   "y": 459.171875,
+   "w": 308,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Bought on markdown\n\n27%",
+   "x": 728,
+   "y": 459.171875,
+   "w": 308,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Bought on a single day only\n\n55%",
+   "x": 1052,
+   "y": 459.171875,
+   "w": 308,
+   "h": 76
+  },
+  {
+   "testid": "stDataFrame",
+   "text": "",
+   "x": 80,
+   "y": 551.171875,
+   "w": 1280,
+   "h": 177
+  },
+  {
+   "testid": "stImage",
+   "text": "",
+   "x": 80,
+   "y": 751.765625,
+   "w": 632,
+   "h": 193.484375
+  },
+  {
+   "testid": "stImage",
+   "text": "",
+   "x": 728,
+   "y": 751.765625,
+   "w": 632,
+   "h": 336.109375
+  },
+  {
+   "testid": "stHeading",
+   "text": "Consumer survey",
+   "x": 80,
+   "y": 1103.875,
+   "w": 1280,
+   "h": 61.59375
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "122 real responses, a convenience sample in India (74% aged 18-24). Stated behaviour, compared with Nuna Lie's customers by group only.",
+   "x": 80,
+   "y": 1165.46875,
+   "w": 1280,
+   "h": 22.390625
+  },
+  {
+   "testid": "stMetric",
+   "text": "Years a garment is kept\n\n2.3",
+   "x": 80,
+   "y": 1203.859375,
+   "w": 308,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Wear a fast-fashion item \u226410 times\n\n36%",
+   "x": 404,
+   "y": 1203.859375,
+   "w": 308,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Wardrobe unworn last year\n\n25%",
+   "x": 728,
+   "y": 1203.859375,
+   "w": 308,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Never resell\n\n53%",
+   "x": 1052,
+   "y": 1203.859375,
+   "w": 308,
+   "h": 76
+  },
+  {
+   "testid": "stImage",
+   "text": "",
+   "x": 80,
+   "y": 1295.859375,
+   "w": 1280,
+   "h": 461.8125
+  },
+  {
+   "testid": "stImage",
+   "text": "",
+   "x": 80,
+   "y": 1773.671875,
+   "w": 1191,
+   "h": 628
+  },
+  {
+   "testid": "stImage",
+   "text": "",
+   "x": 80,
+   "y": 2417.671875,
+   "w": 1280,
+   "h": 474.203125
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "What would they buy? Conjoint (price \u00d7 style \u00d7 lifespan \u00d7 label)",
+   "x": 80,
+   "y": 2907.875,
+   "w": 1280,
+   "h": 25.59375
+  },
+  {
+   "testid": "stImage",
+   "text": "",
+   "x": 80,
+   "y": 2949.46875,
+   "w": 1280,
+   "h": 456.765625
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "Willingness to pay for a 3+ year lifespan: about Rs 1,065 (95% CI Rs 775-1,450). Stated preference; values above the Rs 700 price gap tested are extrapolation.",
+   "x": 80,
+   "y": 3422.234375,
+   "w": 1280,
+   "h": 25.59375
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "Shopper groups (k-means on purchase motives)",
+   "x": 80,
+   "y": 3463.828125,
+   "w": 1280,
+   "h": 25.59375
+  },
+  {
+   "testid": "stDataFrame",
+   "text": "",
+   "x": 80,
+   "y": 3505.421875,
+   "w": 1280,
+   "h": 142
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "Survey and Nuna Lie customers, by buying frequency (group level; different people and countries)",
+   "x": 80,
+   "y": 3671.015625,
+   "w": 1280,
+   "h": 25.59375
+  },
+  {
+   "testid": "stDataFrame",
+   "text": "",
+   "x": 80,
+   "y": 3712.609375,
+   "w": 1280,
+   "h": 177
+  }
+ ],
+ "scale": 2,
+ "width": 1440,
+ "height": 4097.203125,
+ "params": {}
+}

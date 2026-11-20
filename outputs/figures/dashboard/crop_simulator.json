@@ -1,0 +1,32 @@
+{
+ "aspect": 2.1228893995404134,
+ "markers": [
+  {
+   "fx": 0.018072289156626505,
+   "fy": 0.36062543710660405,
+   "fw": 0.2319277108433735,
+   "fh": 0.10870216804875613,
+   "text": "Flag if predicted sell-through below"
+  },
+  {
+   "fx": 0.018072289156626505,
+   "fy": 0.629183734638825,
+   "fw": 0.2319277108433735,
+   "fh": 0.12149065840743331,
+   "text": "Unsold stock\n\n-11.9%"
+  },
+  {
+   "fx": 0.018072289156626505,
+   "fy": 0.7762513737636128,
+   "fw": 0.963855421686747,
+   "fh": 0.040913178139674294,
+   "text": "\u2248 8-17 tonnes of textiles kept out of the unsold pile and 27-420 t CO\u2082e (estimate range: 0.25-0.5 kg per garment \u00d7 3.169-25.0 kg CO\u2082e per kg)."
+  }
+ ],
+ "metrics": [
+  "Unsold stock\n\n-11.9%",
+  "Units sold\n\n0.8%",
+  "Revenue\n\n-0.7%",
+  "Units kept out of leftover\n\n33,585"
+ ]
+}

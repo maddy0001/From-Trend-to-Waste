@@ -1,0 +1,3 @@
+short_lived,products_marked_down,median_peak_week,median_first_markdown_week,median_weeks_peak_to_markdown,median_demand_at_markdown_vs_peak,share_marked_down_after_demand_halved
+False,2539,1.0,8.0,6.0,0.5384615384615384,0.43087829854273335
+True,86,4.0,6.0,3.0,0.3356643356643357,0.5930232558139535

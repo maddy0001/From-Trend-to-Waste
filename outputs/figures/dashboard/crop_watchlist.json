@@ -1,0 +1,31 @@
+{
+ "aspect": 1.3747856750024263,
+ "markers": [
+  {
+   "fx": 0.018072289156626505,
+   "fy": 0.23354145773349294,
+   "fw": 0.963855421686747,
+   "fh": 0.07039565203325678,
+   "text": "Flag products whose predicted 12-week sell-through is below\n\n60%\n\n30%\n\n90%"
+  },
+  {
+   "fx": 0.018072289156626505,
+   "fy": 0.40746012746271554,
+   "fw": 0.3132530120481928,
+   "fh": 0.07867749344893403,
+   "text": "Products flagged\n\n193 of 1,900"
+  },
+  {
+   "fx": 0.018072289156626505,
+   "fy": 0.5027013037430041,
+   "fw": 0.963855421686747,
+   "fh": 0.41409207078386334,
+   "text": ""
+  }
+ ],
+ "metrics": [
+  "Products flagged\n\n193 of 1,900",
+  "Predicted unsold units (flagged)\n\n69,293",
+  "Actual unsold units (flagged)\n\n55,444"
+ ]
+}

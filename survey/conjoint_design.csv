@@ -1,0 +1,9 @@
+profile,price,style,lifespan,label,price_high,trendy,long_life,certified
+P1,Rs 799,Timeless,1 season (about 20 wears),No label,0,0,0,0
+P2,Rs 1499,Timeless,1 season (about 20 wears),Certified sustainable,1,0,0,1
+P3,Rs 799,Trendy,1 season (about 20 wears),Certified sustainable,0,1,0,1
+P4,Rs 1499,Trendy,1 season (about 20 wears),No label,1,1,0,0
+P5,Rs 799,Timeless,3+ years (100+ wears),Certified sustainable,0,0,1,1
+P6,Rs 1499,Timeless,3+ years (100+ wears),No label,1,0,1,0
+P7,Rs 799,Trendy,3+ years (100+ wears),No label,0,1,1,0
+P8,Rs 1499,Trendy,3+ years (100+ wears),Certified sustainable,1,1,1,1

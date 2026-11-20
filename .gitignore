@@ -1,0 +1,28 @@
+# ---- Licensed / private data: NEVER commit -------------------------------
+# VISUELLE 2.0 raw files (used under its request-form licence; redistribution not allowed)
+visuelle2/
+# Survey responses (personal data) and processed tables derived from the licensed data
+data/
+# Colab pack bundles the raw VISUELLE files + survey responses
+deliverables/colab/*_colab_pack.zip
+*_colab_pack.zip
+
+# ---- Python ---------------------------------------------------------------
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---- OS / editor clutter ----------------------------------------------------
+.DS_Store
+__MACOSX/
+._*
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# ---- Streamlit local secrets ----------------------------------------------
+.streamlit/secrets.toml

@@ -1,0 +1,128 @@
+{
+ "block": {
+  "x": 0,
+  "y": 0,
+  "w": 1440,
+  "h": 2166.4375
+ },
+ "panel": {
+  "x": 80,
+  "y": 285.578125,
+  "w": 1280,
+  "h": 1720.859375
+ },
+ "tablist": {
+  "x": 80,
+  "y": 245.578125,
+  "w": 1280,
+  "h": 40
+ },
+ "title": {
+  "x": 80,
+  "y": 96,
+  "w": 1280,
+  "h": 88.796875
+ },
+ "elements": [
+  {
+   "testid": "stAlert",
+   "text": "Who uses it: management, buying, finance and sustainability teams\nDecision it supports: how big the excess-stock problem is, and whether acting early is worth i",
+   "x": 80,
+   "y": 301.578125,
+   "w": 1280,
+   "h": 80
+  },
+  {
+   "testid": "stMetric",
+   "text": "Stock unsold after 12 weeks\n\n31.6%",
+   "x": 80,
+   "y": 397.578125,
+   "w": 308,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Products peaking in weeks 1-3\n\n70%",
+   "x": 404,
+   "y": 397.578125,
+   "w": 308,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Median first markdown week\n\nweek 8",
+   "x": 728,
+   "y": 397.578125,
+   "w": 308,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Forecast error after 2 weeks (WAPE)\n\n39%\n\n-21 pts vs naive",
+   "x": 1052,
+   "y": 397.578125,
+   "w": 308,
+   "h": 103
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "Key insights",
+   "x": 80,
+   "y": 516.578125,
+   "w": 1280,
+   "h": 25.59375
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "A third of stock is left over. 31.6% of delivered units were still unsold after 12 weeks, although shelves rarely ran empty (2.0% of shop-weeks).\nDemand peaks e",
+   "x": 80,
+   "y": 558.171875,
+   "w": 1280,
+   "h": 169.5
+  },
+  {
+   "testid": "stImage",
+   "text": "",
+   "x": 80,
+   "y": 743.671875,
+   "w": 632,
+   "h": 374.125
+  },
+  {
+   "testid": "stImage",
+   "text": "",
+   "x": 80,
+   "y": 1133.796875,
+   "w": 632,
+   "h": 332.625
+  },
+  {
+   "testid": "stImage",
+   "text": "",
+   "x": 728,
+   "y": 743.671875,
+   "w": 632,
+   "h": 374.125
+  },
+  {
+   "testid": "stImage",
+   "text": "",
+   "x": 728,
+   "y": 1133.796875,
+   "w": 632,
+   "h": 337.640625
+  },
+  {
+   "testid": "stImage",
+   "text": "",
+   "x": 80,
+   "y": 1487.4375,
+   "w": 1280,
+   "h": 519
+  }
+ ],
+ "scale": 2,
+ "width": 1440,
+ "height": 2206.4375,
+ "params": {}
+}

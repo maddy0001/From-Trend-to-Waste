@@ -1,0 +1,112 @@
+{
+ "block": {
+  "x": 0,
+  "y": 0,
+  "w": 1440,
+  "h": 2089.6875
+ },
+ "panel": {
+  "x": 80,
+  "y": 285.578125,
+  "w": 1280,
+  "h": 1644.109375
+ },
+ "tablist": {
+  "x": 80,
+  "y": 245.578125,
+  "w": 1280,
+  "h": 40
+ },
+ "title": {
+  "x": 80,
+  "y": 96,
+  "w": 1280,
+  "h": 88.796875
+ },
+ "elements": [
+  {
+   "testid": "stHeading",
+   "text": "Week-2 watchlist (VISUELLE 2.0, unseen 2019 seasons)",
+   "x": 80,
+   "y": 301.578125,
+   "w": 1280,
+   "h": 61.59375
+  },
+  {
+   "testid": "stAlert",
+   "text": "Who uses it: merchandise planners and pricing\nDecision it supports: which new products to stop replenishing and mark down early, two weeks after launch",
+   "x": 80,
+   "y": 363.171875,
+   "w": 1280,
+   "h": 80
+  },
+  {
+   "testid": "stSlider",
+   "text": "Flag products whose predicted 12-week sell-through is below\n\n60%\n\n30%\n\n90%",
+   "x": 80,
+   "y": 459.171875,
+   "w": 1280,
+   "h": 68
+  },
+  {
+   "testid": "stMultiSelect",
+   "text": "Season\n\nAW19\nSS19",
+   "x": 80,
+   "y": 543.171875,
+   "w": 1280,
+   "h": 68
+  },
+  {
+   "testid": "stMetric",
+   "text": "Products flagged\n\n193 of 1,900",
+   "x": 80,
+   "y": 627.171875,
+   "w": 416,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Predicted unsold units (flagged)\n\n69,293",
+   "x": 512,
+   "y": 627.171875,
+   "w": 416,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Actual unsold units (flagged)\n\n55,444",
+   "x": 944,
+   "y": 627.171875,
+   "w": 416,
+   "h": 76
+  },
+  {
+   "testid": "stDataFrame",
+   "text": "",
+   "x": 80,
+   "y": 719.171875,
+   "w": 1280,
+   "h": 400
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "Action for each flagged product: cut its remaining deliveries. \"Mark down from week\" is the first week the forecast falls below half of the peak so far (None = ",
+   "x": 80,
+   "y": 1142.765625,
+   "w": 1280,
+   "h": 44.78125
+  },
+  {
+   "testid": "stImage",
+   "text": "",
+   "x": 80,
+   "y": 1203.546875,
+   "w": 1280,
+   "h": 726.140625
+  }
+ ],
+ "scale": 2,
+ "width": 1440,
+ "height": 2129.6875,
+ "params": {}
+}

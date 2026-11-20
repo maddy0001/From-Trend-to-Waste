@@ -1,0 +1,26 @@
+{
+  "target": "sell-through below 60% after 12 weeks",
+  "n_train": 3450,
+  "n_test": 1896,
+  "test_base_rate": 0.10390295358649788,
+  "train_base_rate": 0.18782608695652173,
+  "auc_product_only": 0.626893096267437,
+  "auc_with_plan": 0.6437513258022785,
+  "auc_with_plan_gb": 0.6940018464130886,
+  "auc_after_2_weeks_lr": 0.6363283269047483,
+  "auc_after_2_weeks_gb": 0.7129305682948763,
+  "auc_tree": 0.6091026970179532,
+  "p10_product_only": 0.15343915343915343,
+  "p10_with_plan": 0.1746031746031746,
+  "p10_after_2_weeks": 0.2698412698412698,
+  "or_deepest_vs_q2": 1.295751975484213,
+  "or_deepest_ci": [
+    1.0473237032742975,
+    1.6031081667703955
+  ],
+  "reference_levels": {
+    "category": "long sleeve",
+    "color": "black",
+    "fabric": "georgette"
+  }
+}

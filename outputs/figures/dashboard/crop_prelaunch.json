@@ -1,0 +1,36 @@
+{
+ "aspect": 2.0744935318525752,
+ "markers": [
+  {
+   "fx": 0.018072289156626505,
+   "fy": 0.45735904320234316,
+   "fw": 0.2319277108433735,
+   "fh": 0.10622406639004149,
+   "text": "Category"
+  },
+  {
+   "fx": 0.018072289156626505,
+   "fy": 0.5885770075665121,
+   "fw": 0.2319277108433735,
+   "fh": 0.1386868440322187,
+   "text": "Price position within its category (0 = cheapest, 1 = priciest)\n\n0.90\n\n0.00\n\n1.00"
+  },
+  {
+   "fx": 0.018072289156626505,
+   "fy": 0.7522577495728582,
+   "fw": 0.963855421686747,
+   "fh": 0.16089821820844522,
+   "text": "Probability this product ends with high leftover\n\n75%\n\n+300% vs average product"
+  },
+  {
+   "fx": 0.018072289156626505,
+   "fy": 0.9381498657554308,
+   "fw": 0.963855421686747,
+   "fh": 0.03998047351720771,
+   "text": "Suggested action: buy a shallow first order and plan replenishment only on strong week-1-2 sales."
+  }
+ ],
+ "metrics": [
+  "Probability this product ends with high leftover\n\n75%\n\n+300% vs average product"
+ ]
+}

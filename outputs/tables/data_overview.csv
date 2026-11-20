@@ -1,0 +1,7 @@
+dataset,rows,columns,period,one row is,used_for
+VISUELLE sales (sales.csv),"106,850",21,"2017-2019, 6 seasons","one product in one shop, 12 weekly sales","lifecycles, stock, forecasting, simulation"
+VISUELLE prices (price_discount_series.csv),"106,850",15,2017-2019,"one product in one shop, 12 weekly discounts","markdowns, revenue, financial statement"
+VISUELLE deliveries (restocks.csv),"949,766",5,2016-2022,one delivery,"stock available, leftover"
+VISUELLE customers (customer_data.csv),"3,184,162",5,Dec 2016 - Jun 2021,"one purchase line (customer, shop, product, time)","segments, CLTV, trends"
+VISUELLE Google Trends (vis2_gtrends_data.csv),220,97,2015-10 - 2019-12,"one week, search interest per term",market-interest test
+Our survey (Google Form),122,-,2026-09-27 to 2026-10-10,one respondent (29 questions),"use, disposal, conjoint"

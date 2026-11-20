@@ -1,0 +1,152 @@
+{
+ "block": {
+  "x": 0,
+  "y": 0,
+  "w": 1440,
+  "h": 1552.875
+ },
+ "panel": {
+  "x": 80,
+  "y": 285.578125,
+  "w": 1280,
+  "h": 1107.296875
+ },
+ "tablist": {
+  "x": 80,
+  "y": 245.578125,
+  "w": 1280,
+  "h": 40
+ },
+ "title": {
+  "x": 80,
+  "y": 96,
+  "w": 1280,
+  "h": 88.796875
+ },
+ "elements": [
+  {
+   "testid": "stHeading",
+   "text": "What if the retailer had acted at week 2? (VISUELLE 2.0, 2019 seasons)",
+   "x": 80,
+   "y": 301.578125,
+   "w": 1280,
+   "h": 61.59375
+  },
+  {
+   "testid": "stAlert",
+   "text": "Who uses it: management, finance and sustainability teams\nDecision it supports: which week-2 rule to adopt: how much to cut and whether to mark down",
+   "x": 80,
+   "y": 363.171875,
+   "w": 1280,
+   "h": 80
+  },
+  {
+   "testid": "stSelectbox",
+   "text": "Flag if predicted sell-through below",
+   "x": 80,
+   "y": 459.171875,
+   "w": 308,
+   "h": 68
+  },
+  {
+   "testid": "stSelectbox",
+   "text": "Policy",
+   "x": 404,
+   "y": 459.171875,
+   "w": 308,
+   "h": 68
+  },
+  {
+   "testid": "stSlider",
+   "text": "Cut to later deliveries\n\n30%\n\n10%\n\n40%",
+   "x": 728,
+   "y": 459.171875,
+   "w": 308,
+   "h": 68
+  },
+  {
+   "testid": "stSlider",
+   "text": "Markdown level from week 4\n\n20%\n\n20%\n\n30%",
+   "x": 1052,
+   "y": 459.171875,
+   "w": 308,
+   "h": 68
+  },
+  {
+   "testid": "stRadio",
+   "text": "Markdown uplift estimate\n\nFE (conservative)\n\nFirst-difference",
+   "x": 80,
+   "y": 543.171875,
+   "w": 255.609375,
+   "h": 68
+  },
+  {
+   "testid": "stMetric",
+   "text": "Unsold stock\n\n-11.9%",
+   "x": 80,
+   "y": 627.171875,
+   "w": 308,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Units sold\n\n0.8%",
+   "x": 404,
+   "y": 627.171875,
+   "w": 308,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Revenue\n\n-0.7%",
+   "x": 728,
+   "y": 627.171875,
+   "w": 308,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Units kept out of leftover\n\n33,585",
+   "x": 1052,
+   "y": 627.171875,
+   "w": 308,
+   "h": 76
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "\u2248 8-17 tonnes of textiles kept out of the unsold pile and 27-420 t CO\u2082e (estimate range: 0.25-0.5 kg per garment \u00d7 3.169-25.0 kg CO\u2082e per kg).",
+   "x": 80,
+   "y": 719.171875,
+   "w": 1280,
+   "h": 25.59375
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "Gross profit rises if unit cost exceeds 14% of full price, which holds for any real retailer. The Financial statements tab shows the profit effect for assumed u",
+   "x": 80,
+   "y": 760.765625,
+   "w": 1280,
+   "h": 25.59375
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "Demand = observed sales (stock-outs are rare: 2.0% of shop-weeks). Leftover stock's later clearance value is not modelled. Markdown uplift is estimated from obs",
+   "x": 80,
+   "y": 802.359375,
+   "w": 1280,
+   "h": 44.78125
+  },
+  {
+   "testid": "stImage",
+   "text": "",
+   "x": 80,
+   "y": 863.140625,
+   "w": 1280,
+   "h": 529.734375
+  }
+ ],
+ "scale": 2,
+ "width": 1440,
+ "height": 1592.875,
+ "params": {}
+}

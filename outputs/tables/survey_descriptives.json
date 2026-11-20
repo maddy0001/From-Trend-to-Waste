@@ -1,0 +1,247 @@
+{
+  "source_file": "survey_responses_2026-10-10.csv",
+  "respondents": 122,
+  "distributions": {
+    "Q1": {
+      "18-24": 0.7377,
+      "25-34": 0.123,
+      "45+": 0.0738,
+      "35-44": 0.0656
+    },
+    "Q2": {
+      "Student": 0.4836,
+      "Working full-time": 0.3607,
+      "Part-time / self-employed": 0.0984,
+      "Not in paid work": 0.0574
+    },
+    "Q3": {
+      "Other city / town": 0.4918,
+      "Metro city": 0.4508,
+      "Rural": 0.0574
+    },
+    "Q4": {
+      "Rs 1,000-2,999": 0.4344,
+      "Under Rs 1,000": 0.3197,
+      "Rs 3,000-4,999": 0.1639,
+      "Rs 5,000+": 0.082
+    },
+    "Q5": {
+      "5-11 times a year": 0.3443,
+      "Monthly or more": 0.3279,
+      "2-4 times a year": 0.2787,
+      "Once a year or less": 0.0492
+    },
+    "Q6": {
+      "Mostly online": 0.4344,
+      "Mostly in stores": 0.3197,
+      "Both equally": 0.2459
+    },
+    "Q9": {
+      "3-5": 0.3429,
+      "1-2": 0.3333,
+      "6 or more": 0.3238
+    },
+    "Q10": {
+      "11-50": 0.459,
+      "5-10": 0.2213,
+      "More than 50": 0.1803,
+      "Fewer than 5": 0.1393
+    },
+    "Q11": {
+      "More than 3 years": 0.3033,
+      "1-2 years": 0.2459,
+      "2-3 years": 0.2295,
+      "6-12 months": 0.1557,
+      "Less than 6 months": 0.0656
+    },
+    "Q12": {
+      "10-25%": 0.4426,
+      "26-50%": 0.2213,
+      "Less than 10%": 0.2049,
+      "More than 50%": 0.1311
+    }
+  },
+  "share_age_18_24": 0.7377049180327869,
+  "share_students": 0.48360655737704916,
+  "share_buys_fast_fashion": 0.680327868852459,
+  "share_buys_second_hand": 0.05737704918032787,
+  "motive_means_1to5": {
+    "Trend": 3.040983606557377,
+    "Discount": 3.942622950819672,
+    "Novelty": 3.401639344262295,
+    "Quality": 3.7540983606557377,
+    "Environment": 2.7295081967213113
+  },
+  "motive_share_4or5": {
+    "Trend": 0.4098360655737705,
+    "Discount": 0.6967213114754098,
+    "Novelty": 0.5245901639344263,
+    "Quality": 0.639344262295082,
+    "Environment": 0.319672131147541
+  },
+  "top_motive": "Discount",
+  "attitude_means_1to5": {
+    "Knows clothes use water/energy": 3.9918032786885247,
+    "Fast fashion harms environment": 4.352459016393443,
+    "Would buy fewer if they lasted longer": 4.147540983606557,
+    "Would pay more for longer-lasting": 3.3442622950819674,
+    "Brands should produce fewer items": 4.049180327868853
+  },
+  "attitude_share_agree_4or5": {
+    "Knows clothes use water/energy": 0.6967213114754098,
+    "Fast fashion harms environment": 0.8278688524590164,
+    "Would buy fewer if they lasted longer": 0.7786885245901639,
+    "Would pay more for longer-lasting": 0.5163934426229508,
+    "Brands should produce fewer items": 0.7131147540983607
+  },
+  "mean_keep_years": 2.2889344262295084,
+  "median_keep_years": 2.5,
+  "share_keep_under_1_year": 0.22131147540983606,
+  "share_keep_over_3_years": 0.30327868852459017,
+  "wrap_benchmarks_years": {
+    "WRAP 2012 (UK)": 2.2,
+    "WRAP later update (UK)": 3.3
+  },
+  "mean_wears_fast_fashion": 24.147540983606557,
+  "share_wears_under_10": 0.36065573770491804,
+  "mean_unworn_share": 0.25377049180327865,
+  "share_unworn_over_25pct": 0.3524590163934426,
+  "share_unplanned_3plus_of_answered": 0.6666666666666666,
+  "disposal_share_often_or_always": {
+    "Sell / resell": 0.11475409836065574,
+    "Donate": 0.5655737704918032,
+    "Hand down": 0.5163934426229508,
+    "Recycle / take-back": 0.11475409836065574,
+    "Throw away": 0.12295081967213115,
+    "Keep unused": 0.4262295081967213
+  },
+  "disposal_share_never": {
+    "Sell / resell": 0.5327868852459017,
+    "Donate": 0.10655737704918032,
+    "Hand down": 0.13934426229508196,
+    "Recycle / take-back": 0.4672131147540984,
+    "Throw away": 0.5,
+    "Keep unused": 0.18032786885245902
+  },
+  "top_disposal": "Donate",
+  "conjoint_respondents": 121,
+  "conjoint_importance": {
+    "Price": 0.23485487807984168,
+    "Style (trendy)": 0.23792501056173904,
+    "Lifespan": 0.3142494666382611,
+    "Sustainability label": 0.21297064472015867
+  },
+  "conjoint_part_worths": {
+    "price_high": {
+      "part_worth": -1.0950413223140483,
+      "ci_low": -1.330270273289508,
+      "ci_high": -0.8598123713385887,
+      "p_value": 7.236576167222137e-20
+    },
+    "trendy": {
+      "part_worth": 0.8305785123966944,
+      "ci_low": 0.5271113921840608,
+      "ci_high": 1.134045632609328,
+      "p_value": 8.124105515789698e-08
+    },
+    "long_life": {
+      "part_worth": 1.6652892561983499,
+      "ci_low": 1.3119061520776958,
+      "ci_high": 2.018672360319004,
+      "p_value": 2.5547479106130254e-20
+    },
+    "certified": {
+      "part_worth": 1.1528925619834716,
+      "ci_low": 0.8838102372747405,
+      "ci_high": 1.4219748866922026,
+      "p_value": 4.559535728251015e-17
+    }
+  },
+  "wtp_rs": {
+    "trendy": 530.9433962264152,
+    "long_life": 1064.528301886792,
+    "certified": 736.9811320754712
+  },
+  "wtp_rs_ci95": {
+    "trendy": [
+      330.7390481792449,
+      784.2621527777776
+    ],
+    "long_life": [
+      775.283151989119,
+      1449.5971228835806
+    ],
+    "certified": [
+      543.1190111391774,
+      991.2999896215312
+    ]
+  },
+  "bootstrap_reps": 2000,
+  "by_form_version": {
+    "v1 original": {
+      "respondents": 22,
+      "keep_years": 2.682,
+      "trend": 2.182,
+      "quality": 3.773
+    },
+    "v2 edited": {
+      "respondents": 100,
+      "keep_years": 2.202,
+      "trend": 3.23,
+      "quality": 3.75
+    }
+  },
+  "direct_long_life_vs_cheap": {
+    "P6_vs_P1": {
+      "profiles": "timeless, no label",
+      "mean_rating_difference": 0.5785123966942148,
+      "share_rated_long_life_higher": 0.4793388429752066,
+      "share_equal": 0.1652892561983471,
+      "share_rated_cheap_higher": 0.35537190082644626
+    },
+    "P8_vs_P3": {
+      "profiles": "trendy, certified",
+      "mean_rating_difference": 0.5619834710743802,
+      "share_rated_long_life_higher": 0.5041322314049587,
+      "share_equal": 0.1652892561983471,
+      "share_rated_cheap_higher": 0.3305785123966942
+    }
+  },
+  "mean_rating_by_profile": {
+    "P1": 4.743801652892562,
+    "P2": 4.867768595041323,
+    "P3": 6.735537190082645,
+    "P4": 4.520661157024794,
+    "P5": 7.603305785123967,
+    "P6": 5.322314049586777,
+    "P7": 7.305785123966942,
+    "P8": 7.297520661157025
+  },
+  "rank_corr_age_vs_trend": {
+    "rho": -0.12340463195608783,
+    "p_value": 0.17567288666094358
+  },
+  "rank_corr_frequency_vs_trend": {
+    "rho": 0.275140445298747,
+    "p_value": 0.0021609917644510356
+  },
+  "rank_corr_frequency_vs_discount": {
+    "rho": 0.09991721076482184,
+    "p_value": 0.27351523238140385
+  },
+  "rank_corr_age_vs_discount": {
+    "rho": 0.0436152407420519,
+    "p_value": 0.6333522710700283
+  },
+  "robustness_v2_only": {
+    "respondents": 100,
+    "rank_corr_frequency_vs_trend": {
+      "rho": 0.19870886716114114,
+      "p_value": 0.04748853708316741
+    },
+    "rank_corr_age_vs_trend": {
+      "rho": -0.010929457091704788,
+      "p_value": 0.9140562352713286
+    }
+  }
+}

@@ -1,0 +1,6131 @@
+{
+ "lifecycle_curves": [
+  {
+   "group": "All products",
+   "cluster": "Fast fade",
+   "week": 1,
+   "products": 1219,
+   "share_of_products": 0.26008107531470026,
+   "pct_of_12w_sales": 16.474429497918635
+  },
+  {
+   "group": "All products",
+   "cluster": "Fast fade",
+   "week": 2,
+   "products": 1219,
+   "share_of_products": 0.26008107531470026,
+   "pct_of_12w_sales": 15.466536830188943
+  },
+  {
+   "group": "All products",
+   "cluster": "Fast fade",
+   "week": 3,
+   "products": 1219,
+   "share_of_products": 0.26008107531470026,
+   "pct_of_12w_sales": 14.231940146435566
+  },
+  {
+   "group": "All products",
+   "cluster": "Fast fade",
+   "week": 4,
+   "products": 1219,
+   "share_of_products": 0.26008107531470026,
+   "pct_of_12w_sales": 12.954338023971612
+  },
+  {
+   "group": "All products",
+   "cluster": "Fast fade",
+   "week": 5,
+   "products": 1219,
+   "share_of_products": 0.26008107531470026,
+   "pct_of_12w_sales": 11.265837119754723
+  },
+  {
+   "group": "All products",
+   "cluster": "Fast fade",
+   "week": 6,
+   "products": 1219,
+   "share_of_products": 0.26008107531470026,
+   "pct_of_12w_sales": 9.092319268448247
+  },
+  {
+   "group": "All products",
+   "cluster": "Fast fade",
+   "week": 7,
+   "products": 1219,
+   "share_of_products": 0.26008107531470026,
+   "pct_of_12w_sales": 6.883083049739493
+  },
+  {
+   "group": "All products",
+   "cluster": "Fast fade",
+   "week": 8,
+   "products": 1219,
+   "share_of_products": 0.26008107531470026,
+   "pct_of_12w_sales": 4.804812195114206
+  },
+  {
+   "group": "All products",
+   "cluster": "Fast fade",
+   "week": 9,
+   "products": 1219,
+   "share_of_products": 0.26008107531470026,
+   "pct_of_12w_sales": 3.287565159074328
+  },
+  {
+   "group": "All products",
+   "cluster": "Fast fade",
+   "week": 10,
+   "products": 1219,
+   "share_of_products": 0.26008107531470026,
+   "pct_of_12w_sales": 2.3861873475419833
+  },
+  {
+   "group": "All products",
+   "cluster": "Fast fade",
+   "week": 11,
+   "products": 1219,
+   "share_of_products": 0.26008107531470026,
+   "pct_of_12w_sales": 1.7415134649109487
+  },
+  {
+   "group": "All products",
+   "cluster": "Fast fade",
+   "week": 12,
+   "products": 1219,
+   "share_of_products": 0.26008107531470026,
+   "pct_of_12w_sales": 1.4114378969013197
+  },
+  {
+   "group": "All products",
+   "cluster": "Late bloomer",
+   "week": 1,
+   "products": 1020,
+   "share_of_products": 0.21762321314273522,
+   "pct_of_12w_sales": 12.00226706462234
+  },
+  {
+   "group": "All products",
+   "cluster": "Late bloomer",
+   "week": 2,
+   "products": 1020,
+   "share_of_products": 0.21762321314273522,
+   "pct_of_12w_sales": 6.902541834923294
+  },
+  {
+   "group": "All products",
+   "cluster": "Late bloomer",
+   "week": 3,
+   "products": 1020,
+   "share_of_products": 0.21762321314273522,
+   "pct_of_12w_sales": 6.884806396533747
+  },
+  {
+   "group": "All products",
+   "cluster": "Late bloomer",
+   "week": 4,
+   "products": 1020,
+   "share_of_products": 0.21762321314273522,
+   "pct_of_12w_sales": 7.145852383602033
+  },
+  {
+   "group": "All products",
+   "cluster": "Late bloomer",
+   "week": 5,
+   "products": 1020,
+   "share_of_products": 0.21762321314273522,
+   "pct_of_12w_sales": 7.551481595390238
+  },
+  {
+   "group": "All products",
+   "cluster": "Late bloomer",
+   "week": 6,
+   "products": 1020,
+   "share_of_products": 0.21762321314273522,
+   "pct_of_12w_sales": 8.081917559501633
+  },
+  {
+   "group": "All products",
+   "cluster": "Late bloomer",
+   "week": 7,
+   "products": 1020,
+   "share_of_products": 0.21762321314273522,
+   "pct_of_12w_sales": 8.526577004689498
+  },
+  {
+   "group": "All products",
+   "cluster": "Late bloomer",
+   "week": 8,
+   "products": 1020,
+   "share_of_products": 0.21762321314273522,
+   "pct_of_12w_sales": 9.086721155443145
+  },
+  {
+   "group": "All products",
+   "cluster": "Late bloomer",
+   "week": 9,
+   "products": 1020,
+   "share_of_products": 0.21762321314273522,
+   "pct_of_12w_sales": 9.290060398977309
+  },
+  {
+   "group": "All products",
+   "cluster": "Late bloomer",
+   "week": 10,
+   "products": 1020,
+   "share_of_products": 0.21762321314273522,
+   "pct_of_12w_sales": 9.162839050681152
+  },
+  {
+   "group": "All products",
+   "cluster": "Late bloomer",
+   "week": 11,
+   "products": 1020,
+   "share_of_products": 0.21762321314273522,
+   "pct_of_12w_sales": 8.334825502192038
+  },
+  {
+   "group": "All products",
+   "cluster": "Late bloomer",
+   "week": 12,
+   "products": 1020,
+   "share_of_products": 0.21762321314273522,
+   "pct_of_12w_sales": 7.030110053443575
+  },
+  {
+   "group": "All products",
+   "cluster": "Mid-season peak",
+   "week": 1,
+   "products": 1267,
+   "share_of_products": 0.27032216769788775,
+   "pct_of_12w_sales": 12.973039242062983
+  },
+  {
+   "group": "All products",
+   "cluster": "Mid-season peak",
+   "week": 2,
+   "products": 1267,
+   "share_of_products": 0.27032216769788775,
+   "pct_of_12w_sales": 9.59568205847435
+  },
+  {
+   "group": "All products",
+   "cluster": "Mid-season peak",
+   "week": 3,
+   "products": 1267,
+   "share_of_products": 0.27032216769788775,
+   "pct_of_12w_sales": 9.87158301273417
+  },
+  {
+   "group": "All products",
+   "cluster": "Mid-season peak",
+   "week": 4,
+   "products": 1267,
+   "share_of_products": 0.27032216769788775,
+   "pct_of_12w_sales": 10.423915142073907
+  },
+  {
+   "group": "All products",
+   "cluster": "Mid-season peak",
+   "week": 5,
+   "products": 1267,
+   "share_of_products": 0.27032216769788775,
+   "pct_of_12w_sales": 10.740565664053282
+  },
+  {
+   "group": "All products",
+   "cluster": "Mid-season peak",
+   "week": 6,
+   "products": 1267,
+   "share_of_products": 0.27032216769788775,
+   "pct_of_12w_sales": 11.367928962760942
+  },
+  {
+   "group": "All products",
+   "cluster": "Mid-season peak",
+   "week": 7,
+   "products": 1267,
+   "share_of_products": 0.27032216769788775,
+   "pct_of_12w_sales": 10.765433141248955
+  },
+  {
+   "group": "All products",
+   "cluster": "Mid-season peak",
+   "week": 8,
+   "products": 1267,
+   "share_of_products": 0.27032216769788775,
+   "pct_of_12w_sales": 8.617692788007773
+  },
+  {
+   "group": "All products",
+   "cluster": "Mid-season peak",
+   "week": 9,
+   "products": 1267,
+   "share_of_products": 0.27032216769788775,
+   "pct_of_12w_sales": 6.315079214598905
+  },
+  {
+   "group": "All products",
+   "cluster": "Mid-season peak",
+   "week": 10,
+   "products": 1267,
+   "share_of_products": 0.27032216769788775,
+   "pct_of_12w_sales": 4.204157633470934
+  },
+  {
+   "group": "All products",
+   "cluster": "Mid-season peak",
+   "week": 11,
+   "products": 1267,
+   "share_of_products": 0.27032216769788775,
+   "pct_of_12w_sales": 2.8695096822253108
+  },
+  {
+   "group": "All products",
+   "cluster": "Mid-season peak",
+   "week": 12,
+   "products": 1267,
+   "share_of_products": 0.27032216769788775,
+   "pct_of_12w_sales": 2.255413458288488
+  },
+  {
+   "group": "All products",
+   "cluster": "Steady decline",
+   "week": 1,
+   "products": 1181,
+   "share_of_products": 0.25197354384467674,
+   "pct_of_12w_sales": 16.338140455771434
+  },
+  {
+   "group": "All products",
+   "cluster": "Steady decline",
+   "week": 2,
+   "products": 1181,
+   "share_of_products": 0.25197354384467674,
+   "pct_of_12w_sales": 12.282575261411935
+  },
+  {
+   "group": "All products",
+   "cluster": "Steady decline",
+   "week": 3,
+   "products": 1181,
+   "share_of_products": 0.25197354384467674,
+   "pct_of_12w_sales": 10.604990574007491
+  },
+  {
+   "group": "All products",
+   "cluster": "Steady decline",
+   "week": 4,
+   "products": 1181,
+   "share_of_products": 0.25197354384467674,
+   "pct_of_12w_sales": 9.51331681109082
+  },
+  {
+   "group": "All products",
+   "cluster": "Steady decline",
+   "week": 5,
+   "products": 1181,
+   "share_of_products": 0.25197354384467674,
+   "pct_of_12w_sales": 8.638704510311014
+  },
+  {
+   "group": "All products",
+   "cluster": "Steady decline",
+   "week": 6,
+   "products": 1181,
+   "share_of_products": 0.25197354384467674,
+   "pct_of_12w_sales": 7.484670733634421
+  },
+  {
+   "group": "All products",
+   "cluster": "Steady decline",
+   "week": 7,
+   "products": 1181,
+   "share_of_products": 0.25197354384467674,
+   "pct_of_12w_sales": 7.052184379877337
+  },
+  {
+   "group": "All products",
+   "cluster": "Steady decline",
+   "week": 8,
+   "products": 1181,
+   "share_of_products": 0.25197354384467674,
+   "pct_of_12w_sales": 6.559197227254998
+  },
+  {
+   "group": "All products",
+   "cluster": "Steady decline",
+   "week": 9,
+   "products": 1181,
+   "share_of_products": 0.25197354384467674,
+   "pct_of_12w_sales": 6.460665951619414
+  },
+  {
+   "group": "All products",
+   "cluster": "Steady decline",
+   "week": 10,
+   "products": 1181,
+   "share_of_products": 0.25197354384467674,
+   "pct_of_12w_sales": 5.857526721090613
+  },
+  {
+   "group": "All products",
+   "cluster": "Steady decline",
+   "week": 11,
+   "products": 1181,
+   "share_of_products": 0.25197354384467674,
+   "pct_of_12w_sales": 4.973913810505018
+  },
+  {
+   "group": "All products",
+   "cluster": "Steady decline",
+   "week": 12,
+   "products": 1181,
+   "share_of_products": 0.25197354384467674,
+   "pct_of_12w_sales": 4.234113563425497
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Fast fade",
+   "week": 1,
+   "products": 322,
+   "share_of_products": 0.3123181377303589,
+   "pct_of_12w_sales": 16.401068586623506
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Fast fade",
+   "week": 2,
+   "products": 322,
+   "share_of_products": 0.3123181377303589,
+   "pct_of_12w_sales": 15.603134190060642
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Fast fade",
+   "week": 3,
+   "products": 322,
+   "share_of_products": 0.3123181377303589,
+   "pct_of_12w_sales": 14.128402425537326
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Fast fade",
+   "week": 4,
+   "products": 322,
+   "share_of_products": 0.3123181377303589,
+   "pct_of_12w_sales": 13.526130379952367
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Fast fade",
+   "week": 5,
+   "products": 322,
+   "share_of_products": 0.3123181377303589,
+   "pct_of_12w_sales": 11.390312473924322
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Fast fade",
+   "week": 6,
+   "products": 322,
+   "share_of_products": 0.3123181377303589,
+   "pct_of_12w_sales": 9.285468304752591
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Fast fade",
+   "week": 7,
+   "products": 322,
+   "share_of_products": 0.3123181377303589,
+   "pct_of_12w_sales": 6.874613961201205
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Fast fade",
+   "week": 8,
+   "products": 322,
+   "share_of_products": 0.3123181377303589,
+   "pct_of_12w_sales": 4.41743539163824
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Fast fade",
+   "week": 9,
+   "products": 322,
+   "share_of_products": 0.3123181377303589,
+   "pct_of_12w_sales": 2.979677651424127
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Fast fade",
+   "week": 10,
+   "products": 322,
+   "share_of_products": 0.3123181377303589,
+   "pct_of_12w_sales": 2.3254264132678535
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Fast fade",
+   "week": 11,
+   "products": 322,
+   "share_of_products": 0.3123181377303589,
+   "pct_of_12w_sales": 1.701365619220128
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Fast fade",
+   "week": 12,
+   "products": 322,
+   "share_of_products": 0.3123181377303589,
+   "pct_of_12w_sales": 1.3669646023977027
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Late bloomer",
+   "week": 1,
+   "products": 190,
+   "share_of_products": 0.1842870999030068,
+   "pct_of_12w_sales": 12.550901591396944
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Late bloomer",
+   "week": 2,
+   "products": 190,
+   "share_of_products": 0.1842870999030068,
+   "pct_of_12w_sales": 6.707939788099712
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Late bloomer",
+   "week": 3,
+   "products": 190,
+   "share_of_products": 0.1842870999030068,
+   "pct_of_12w_sales": 6.672868111043311
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Late bloomer",
+   "week": 4,
+   "products": 190,
+   "share_of_products": 0.1842870999030068,
+   "pct_of_12w_sales": 7.2786479057389215
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Late bloomer",
+   "week": 5,
+   "products": 190,
+   "share_of_products": 0.1842870999030068,
+   "pct_of_12w_sales": 7.311772121640901
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Late bloomer",
+   "week": 6,
+   "products": 190,
+   "share_of_products": 0.1842870999030068,
+   "pct_of_12w_sales": 7.608692879626568
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Late bloomer",
+   "week": 7,
+   "products": 190,
+   "share_of_products": 0.1842870999030068,
+   "pct_of_12w_sales": 8.601237873055249
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Late bloomer",
+   "week": 8,
+   "products": 190,
+   "share_of_products": 0.1842870999030068,
+   "pct_of_12w_sales": 8.821792414408797
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Late bloomer",
+   "week": 9,
+   "products": 190,
+   "share_of_products": 0.1842870999030068,
+   "pct_of_12w_sales": 9.296502761117296
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Late bloomer",
+   "week": 10,
+   "products": 190,
+   "share_of_products": 0.1842870999030068,
+   "pct_of_12w_sales": 9.663189086461443
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Late bloomer",
+   "week": 11,
+   "products": 190,
+   "share_of_products": 0.1842870999030068,
+   "pct_of_12w_sales": 8.293981520363154
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Late bloomer",
+   "week": 12,
+   "products": 190,
+   "share_of_products": 0.1842870999030068,
+   "pct_of_12w_sales": 7.192473947047706
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Mid-season peak",
+   "week": 1,
+   "products": 281,
+   "share_of_products": 0.2725509214354995,
+   "pct_of_12w_sales": 13.200872211645793
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Mid-season peak",
+   "week": 2,
+   "products": 281,
+   "share_of_products": 0.2725509214354995,
+   "pct_of_12w_sales": 9.458092957783514
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Mid-season peak",
+   "week": 3,
+   "products": 281,
+   "share_of_products": 0.2725509214354995,
+   "pct_of_12w_sales": 9.937441002895119
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Mid-season peak",
+   "week": 4,
+   "products": 281,
+   "share_of_products": 0.2725509214354995,
+   "pct_of_12w_sales": 10.701095514035963
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Mid-season peak",
+   "week": 5,
+   "products": 281,
+   "share_of_products": 0.2725509214354995,
+   "pct_of_12w_sales": 10.895126809470261
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Mid-season peak",
+   "week": 6,
+   "products": 281,
+   "share_of_products": 0.2725509214354995,
+   "pct_of_12w_sales": 11.296370317895445
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Mid-season peak",
+   "week": 7,
+   "products": 281,
+   "share_of_products": 0.2725509214354995,
+   "pct_of_12w_sales": 10.72000115638188
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Mid-season peak",
+   "week": 8,
+   "products": 281,
+   "share_of_products": 0.2725509214354995,
+   "pct_of_12w_sales": 8.483404803982388
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Mid-season peak",
+   "week": 9,
+   "products": 281,
+   "share_of_products": 0.2725509214354995,
+   "pct_of_12w_sales": 6.195936688024809
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Mid-season peak",
+   "week": 10,
+   "products": 281,
+   "share_of_products": 0.2725509214354995,
+   "pct_of_12w_sales": 4.199019853357484
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Mid-season peak",
+   "week": 11,
+   "products": 281,
+   "share_of_products": 0.2725509214354995,
+   "pct_of_12w_sales": 2.6872042479362888
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Mid-season peak",
+   "week": 12,
+   "products": 281,
+   "share_of_products": 0.2725509214354995,
+   "pct_of_12w_sales": 2.2254344365910588
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Steady decline",
+   "week": 1,
+   "products": 238,
+   "share_of_products": 0.23084384093113483,
+   "pct_of_12w_sales": 16.776785371383284
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Steady decline",
+   "week": 2,
+   "products": 238,
+   "share_of_products": 0.23084384093113483,
+   "pct_of_12w_sales": 12.20849821221353
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Steady decline",
+   "week": 3,
+   "products": 238,
+   "share_of_products": 0.23084384093113483,
+   "pct_of_12w_sales": 10.581827066224418
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Steady decline",
+   "week": 4,
+   "products": 238,
+   "share_of_products": 0.23084384093113483,
+   "pct_of_12w_sales": 9.499232668621337
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Steady decline",
+   "week": 5,
+   "products": 238,
+   "share_of_products": 0.23084384093113483,
+   "pct_of_12w_sales": 8.772693775396673
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Steady decline",
+   "week": 6,
+   "products": 238,
+   "share_of_products": 0.23084384093113483,
+   "pct_of_12w_sales": 7.509080686033445
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Steady decline",
+   "week": 7,
+   "products": 238,
+   "share_of_products": 0.23084384093113483,
+   "pct_of_12w_sales": 6.992312834280772
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Steady decline",
+   "week": 8,
+   "products": 238,
+   "share_of_products": 0.23084384093113483,
+   "pct_of_12w_sales": 6.3274824580498725
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Steady decline",
+   "week": 9,
+   "products": 238,
+   "share_of_products": 0.23084384093113483,
+   "pct_of_12w_sales": 6.556325671012667
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Steady decline",
+   "week": 10,
+   "products": 238,
+   "share_of_products": 0.23084384093113483,
+   "pct_of_12w_sales": 6.1689729984037065
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Steady decline",
+   "week": 11,
+   "products": 238,
+   "share_of_products": 0.23084384093113483,
+   "pct_of_12w_sales": 4.561139402799607
+  },
+  {
+   "group": "long sleeve",
+   "cluster": "Steady decline",
+   "week": 12,
+   "products": 238,
+   "share_of_products": 0.23084384093113483,
+   "pct_of_12w_sales": 4.045648855580683
+  },
+  {
+   "group": "culottes",
+   "cluster": "Fast fade",
+   "week": 1,
+   "products": 214,
+   "share_of_products": 0.2538552787663108,
+   "pct_of_12w_sales": 16.433159366996364
+  },
+  {
+   "group": "culottes",
+   "cluster": "Fast fade",
+   "week": 2,
+   "products": 214,
+   "share_of_products": 0.2538552787663108,
+   "pct_of_12w_sales": 14.919127240602306
+  },
+  {
+   "group": "culottes",
+   "cluster": "Fast fade",
+   "week": 3,
+   "products": 214,
+   "share_of_products": 0.2538552787663108,
+   "pct_of_12w_sales": 13.819256053598721
+  },
+  {
+   "group": "culottes",
+   "cluster": "Fast fade",
+   "week": 4,
+   "products": 214,
+   "share_of_products": 0.2538552787663108,
+   "pct_of_12w_sales": 12.844098468423319
+  },
+  {
+   "group": "culottes",
+   "cluster": "Fast fade",
+   "week": 5,
+   "products": 214,
+   "share_of_products": 0.2538552787663108,
+   "pct_of_12w_sales": 11.273311356183513
+  },
+  {
+   "group": "culottes",
+   "cluster": "Fast fade",
+   "week": 6,
+   "products": 214,
+   "share_of_products": 0.2538552787663108,
+   "pct_of_12w_sales": 9.11240813701887
+  },
+  {
+   "group": "culottes",
+   "cluster": "Fast fade",
+   "week": 7,
+   "products": 214,
+   "share_of_products": 0.2538552787663108,
+   "pct_of_12w_sales": 7.064613100913464
+  },
+  {
+   "group": "culottes",
+   "cluster": "Fast fade",
+   "week": 8,
+   "products": 214,
+   "share_of_products": 0.2538552787663108,
+   "pct_of_12w_sales": 4.856102933435231
+  },
+  {
+   "group": "culottes",
+   "cluster": "Fast fade",
+   "week": 9,
+   "products": 214,
+   "share_of_products": 0.2538552787663108,
+   "pct_of_12w_sales": 3.5625513372884594
+  },
+  {
+   "group": "culottes",
+   "cluster": "Fast fade",
+   "week": 10,
+   "products": 214,
+   "share_of_products": 0.2538552787663108,
+   "pct_of_12w_sales": 2.5120525938554934
+  },
+  {
+   "group": "culottes",
+   "cluster": "Fast fade",
+   "week": 11,
+   "products": 214,
+   "share_of_products": 0.2538552787663108,
+   "pct_of_12w_sales": 1.9131873164425792
+  },
+  {
+   "group": "culottes",
+   "cluster": "Fast fade",
+   "week": 12,
+   "products": 214,
+   "share_of_products": 0.2538552787663108,
+   "pct_of_12w_sales": 1.6901320952416767
+  },
+  {
+   "group": "culottes",
+   "cluster": "Late bloomer",
+   "week": 1,
+   "products": 165,
+   "share_of_products": 0.19572953736654805,
+   "pct_of_12w_sales": 12.151506887102162
+  },
+  {
+   "group": "culottes",
+   "cluster": "Late bloomer",
+   "week": 2,
+   "products": 165,
+   "share_of_products": 0.19572953736654805,
+   "pct_of_12w_sales": 7.09519512898225
+  },
+  {
+   "group": "culottes",
+   "cluster": "Late bloomer",
+   "week": 3,
+   "products": 165,
+   "share_of_products": 0.19572953736654805,
+   "pct_of_12w_sales": 7.066882898289576
+  },
+  {
+   "group": "culottes",
+   "cluster": "Late bloomer",
+   "week": 4,
+   "products": 165,
+   "share_of_products": 0.19572953736654805,
+   "pct_of_12w_sales": 7.181168800053281
+  },
+  {
+   "group": "culottes",
+   "cluster": "Late bloomer",
+   "week": 5,
+   "products": 165,
+   "share_of_products": 0.19572953736654805,
+   "pct_of_12w_sales": 7.690209857621641
+  },
+  {
+   "group": "culottes",
+   "cluster": "Late bloomer",
+   "week": 6,
+   "products": 165,
+   "share_of_products": 0.19572953736654805,
+   "pct_of_12w_sales": 8.295694037485909
+  },
+  {
+   "group": "culottes",
+   "cluster": "Late bloomer",
+   "week": 7,
+   "products": 165,
+   "share_of_products": 0.19572953736654805,
+   "pct_of_12w_sales": 8.402719291277968
+  },
+  {
+   "group": "culottes",
+   "cluster": "Late bloomer",
+   "week": 8,
+   "products": 165,
+   "share_of_products": 0.19572953736654805,
+   "pct_of_12w_sales": 9.257877260132535
+  },
+  {
+   "group": "culottes",
+   "cluster": "Late bloomer",
+   "week": 9,
+   "products": 165,
+   "share_of_products": 0.19572953736654805,
+   "pct_of_12w_sales": 9.110896136154127
+  },
+  {
+   "group": "culottes",
+   "cluster": "Late bloomer",
+   "week": 10,
+   "products": 165,
+   "share_of_products": 0.19572953736654805,
+   "pct_of_12w_sales": 8.835828380926124
+  },
+  {
+   "group": "culottes",
+   "cluster": "Late bloomer",
+   "week": 11,
+   "products": 165,
+   "share_of_products": 0.19572953736654805,
+   "pct_of_12w_sales": 8.10683571731026
+  },
+  {
+   "group": "culottes",
+   "cluster": "Late bloomer",
+   "week": 12,
+   "products": 165,
+   "share_of_products": 0.19572953736654805,
+   "pct_of_12w_sales": 6.805185604664173
+  },
+  {
+   "group": "culottes",
+   "cluster": "Mid-season peak",
+   "week": 1,
+   "products": 225,
+   "share_of_products": 0.2669039145907473,
+   "pct_of_12w_sales": 12.95881944608151
+  },
+  {
+   "group": "culottes",
+   "cluster": "Mid-season peak",
+   "week": 2,
+   "products": 225,
+   "share_of_products": 0.2669039145907473,
+   "pct_of_12w_sales": 9.493904232434625
+  },
+  {
+   "group": "culottes",
+   "cluster": "Mid-season peak",
+   "week": 3,
+   "products": 225,
+   "share_of_products": 0.2669039145907473,
+   "pct_of_12w_sales": 9.779503913514215
+  },
+  {
+   "group": "culottes",
+   "cluster": "Mid-season peak",
+   "week": 4,
+   "products": 225,
+   "share_of_products": 0.2669039145907473,
+   "pct_of_12w_sales": 9.987765613363393
+  },
+  {
+   "group": "culottes",
+   "cluster": "Mid-season peak",
+   "week": 5,
+   "products": 225,
+   "share_of_products": 0.2669039145907473,
+   "pct_of_12w_sales": 10.650329859636477
+  },
+  {
+   "group": "culottes",
+   "cluster": "Mid-season peak",
+   "week": 6,
+   "products": 225,
+   "share_of_products": 0.2669039145907473,
+   "pct_of_12w_sales": 11.153492073356432
+  },
+  {
+   "group": "culottes",
+   "cluster": "Mid-season peak",
+   "week": 7,
+   "products": 225,
+   "share_of_products": 0.2669039145907473,
+   "pct_of_12w_sales": 10.686972195622534
+  },
+  {
+   "group": "culottes",
+   "cluster": "Mid-season peak",
+   "week": 8,
+   "products": 225,
+   "share_of_products": 0.2669039145907473,
+   "pct_of_12w_sales": 8.66478212753002
+  },
+  {
+   "group": "culottes",
+   "cluster": "Mid-season peak",
+   "week": 9,
+   "products": 225,
+   "share_of_products": 0.2669039145907473,
+   "pct_of_12w_sales": 6.526529283617342
+  },
+  {
+   "group": "culottes",
+   "cluster": "Mid-season peak",
+   "week": 10,
+   "products": 225,
+   "share_of_products": 0.2669039145907473,
+   "pct_of_12w_sales": 4.491827601615049
+  },
+  {
+   "group": "culottes",
+   "cluster": "Mid-season peak",
+   "week": 11,
+   "products": 225,
+   "share_of_products": 0.2669039145907473,
+   "pct_of_12w_sales": 3.101763595331986
+  },
+  {
+   "group": "culottes",
+   "cluster": "Mid-season peak",
+   "week": 12,
+   "products": 225,
+   "share_of_products": 0.2669039145907473,
+   "pct_of_12w_sales": 2.5043100578964133
+  },
+  {
+   "group": "culottes",
+   "cluster": "Steady decline",
+   "week": 1,
+   "products": 239,
+   "share_of_products": 0.2835112692763938,
+   "pct_of_12w_sales": 15.870111975060661
+  },
+  {
+   "group": "culottes",
+   "cluster": "Steady decline",
+   "week": 2,
+   "products": 239,
+   "share_of_products": 0.2835112692763938,
+   "pct_of_12w_sales": 12.064649133080453
+  },
+  {
+   "group": "culottes",
+   "cluster": "Steady decline",
+   "week": 3,
+   "products": 239,
+   "share_of_products": 0.2835112692763938,
+   "pct_of_12w_sales": 10.856816795948836
+  },
+  {
+   "group": "culottes",
+   "cluster": "Steady decline",
+   "week": 4,
+   "products": 239,
+   "share_of_products": 0.2835112692763938,
+   "pct_of_12w_sales": 9.58536164414037
+  },
+  {
+   "group": "culottes",
+   "cluster": "Steady decline",
+   "week": 5,
+   "products": 239,
+   "share_of_products": 0.2835112692763938,
+   "pct_of_12w_sales": 8.811823583274272
+  },
+  {
+   "group": "culottes",
+   "cluster": "Steady decline",
+   "week": 6,
+   "products": 239,
+   "share_of_products": 0.2835112692763938,
+   "pct_of_12w_sales": 7.5927735939852425
+  },
+  {
+   "group": "culottes",
+   "cluster": "Steady decline",
+   "week": 7,
+   "products": 239,
+   "share_of_products": 0.2835112692763938,
+   "pct_of_12w_sales": 7.091875320780934
+  },
+  {
+   "group": "culottes",
+   "cluster": "Steady decline",
+   "week": 8,
+   "products": 239,
+   "share_of_products": 0.2835112692763938,
+   "pct_of_12w_sales": 6.525184608435838
+  },
+  {
+   "group": "culottes",
+   "cluster": "Steady decline",
+   "week": 9,
+   "products": 239,
+   "share_of_products": 0.2835112692763938,
+   "pct_of_12w_sales": 6.331650071234166
+  },
+  {
+   "group": "culottes",
+   "cluster": "Steady decline",
+   "week": 10,
+   "products": 239,
+   "share_of_products": 0.2835112692763938,
+   "pct_of_12w_sales": 5.79273251510231
+  },
+  {
+   "group": "culottes",
+   "cluster": "Steady decline",
+   "week": 11,
+   "products": 239,
+   "share_of_products": 0.2835112692763938,
+   "pct_of_12w_sales": 5.225468597027862
+  },
+  {
+   "group": "culottes",
+   "cluster": "Steady decline",
+   "week": 12,
+   "products": 239,
+   "share_of_products": 0.2835112692763938,
+   "pct_of_12w_sales": 4.251552161929052
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Fast fade",
+   "week": 1,
+   "products": 101,
+   "share_of_products": 0.2576530612244898,
+   "pct_of_12w_sales": 16.839912398990563
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Fast fade",
+   "week": 2,
+   "products": 101,
+   "share_of_products": 0.2576530612244898,
+   "pct_of_12w_sales": 15.641493059362627
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Fast fade",
+   "week": 3,
+   "products": 101,
+   "share_of_products": 0.2576530612244898,
+   "pct_of_12w_sales": 14.047240732230993
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Fast fade",
+   "week": 4,
+   "products": 101,
+   "share_of_products": 0.2576530612244898,
+   "pct_of_12w_sales": 12.225524071621575
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Fast fade",
+   "week": 5,
+   "products": 101,
+   "share_of_products": 0.2576530612244898,
+   "pct_of_12w_sales": 11.03092982876416
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Fast fade",
+   "week": 6,
+   "products": 101,
+   "share_of_products": 0.2576530612244898,
+   "pct_of_12w_sales": 9.263154852786668
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Fast fade",
+   "week": 7,
+   "products": 101,
+   "share_of_products": 0.2576530612244898,
+   "pct_of_12w_sales": 7.018667292719546
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Fast fade",
+   "week": 8,
+   "products": 101,
+   "share_of_products": 0.2576530612244898,
+   "pct_of_12w_sales": 5.279133145398025
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Fast fade",
+   "week": 9,
+   "products": 101,
+   "share_of_products": 0.2576530612244898,
+   "pct_of_12w_sales": 3.5062989392409447
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Fast fade",
+   "week": 10,
+   "products": 101,
+   "share_of_products": 0.2576530612244898,
+   "pct_of_12w_sales": 2.210583229161249
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Fast fade",
+   "week": 11,
+   "products": 101,
+   "share_of_products": 0.2576530612244898,
+   "pct_of_12w_sales": 1.6512766472403992
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Fast fade",
+   "week": 12,
+   "products": 101,
+   "share_of_products": 0.2576530612244898,
+   "pct_of_12w_sales": 1.2857858024832407
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Late bloomer",
+   "week": 1,
+   "products": 76,
+   "share_of_products": 0.19387755102040816,
+   "pct_of_12w_sales": 11.72090606771089
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Late bloomer",
+   "week": 2,
+   "products": 76,
+   "share_of_products": 0.19387755102040816,
+   "pct_of_12w_sales": 6.704009046314123
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Late bloomer",
+   "week": 3,
+   "products": 76,
+   "share_of_products": 0.19387755102040816,
+   "pct_of_12w_sales": 6.800328611758843
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Late bloomer",
+   "week": 4,
+   "products": 76,
+   "share_of_products": 0.19387755102040816,
+   "pct_of_12w_sales": 6.945513361375945
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Late bloomer",
+   "week": 5,
+   "products": 76,
+   "share_of_products": 0.19387755102040816,
+   "pct_of_12w_sales": 7.212474882009562
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Late bloomer",
+   "week": 6,
+   "products": 76,
+   "share_of_products": 0.19387755102040816,
+   "pct_of_12w_sales": 8.20583937031032
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Late bloomer",
+   "week": 7,
+   "products": 76,
+   "share_of_products": 0.19387755102040816,
+   "pct_of_12w_sales": 9.299278042043593
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Late bloomer",
+   "week": 8,
+   "products": 76,
+   "share_of_products": 0.19387755102040816,
+   "pct_of_12w_sales": 9.278578490541529
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Late bloomer",
+   "week": 9,
+   "products": 76,
+   "share_of_products": 0.19387755102040816,
+   "pct_of_12w_sales": 8.938877666093243
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Late bloomer",
+   "week": 10,
+   "products": 76,
+   "share_of_products": 0.19387755102040816,
+   "pct_of_12w_sales": 9.0769644425106
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Late bloomer",
+   "week": 11,
+   "products": 76,
+   "share_of_products": 0.19387755102040816,
+   "pct_of_12w_sales": 8.589270245212761
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Late bloomer",
+   "week": 12,
+   "products": 76,
+   "share_of_products": 0.19387755102040816,
+   "pct_of_12w_sales": 7.227959774118589
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Mid-season peak",
+   "week": 1,
+   "products": 111,
+   "share_of_products": 0.28316326530612246,
+   "pct_of_12w_sales": 13.449358813883153
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Mid-season peak",
+   "week": 2,
+   "products": 111,
+   "share_of_products": 0.28316326530612246,
+   "pct_of_12w_sales": 9.748833283135932
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Mid-season peak",
+   "week": 3,
+   "products": 111,
+   "share_of_products": 0.28316326530612246,
+   "pct_of_12w_sales": 9.726506219160607
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Mid-season peak",
+   "week": 4,
+   "products": 111,
+   "share_of_products": 0.28316326530612246,
+   "pct_of_12w_sales": 10.127364470750571
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Mid-season peak",
+   "week": 5,
+   "products": 111,
+   "share_of_products": 0.28316326530612246,
+   "pct_of_12w_sales": 10.555611967174897
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Mid-season peak",
+   "week": 6,
+   "products": 111,
+   "share_of_products": 0.28316326530612246,
+   "pct_of_12w_sales": 11.004917230181638
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Mid-season peak",
+   "week": 7,
+   "products": 111,
+   "share_of_products": 0.28316326530612246,
+   "pct_of_12w_sales": 10.53184419691546
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Mid-season peak",
+   "week": 8,
+   "products": 111,
+   "share_of_products": 0.28316326530612246,
+   "pct_of_12w_sales": 8.85802419825169
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Mid-season peak",
+   "week": 9,
+   "products": 111,
+   "share_of_products": 0.28316326530612246,
+   "pct_of_12w_sales": 6.434937569740846
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Mid-season peak",
+   "week": 10,
+   "products": 111,
+   "share_of_products": 0.28316326530612246,
+   "pct_of_12w_sales": 4.322590488799738
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Mid-season peak",
+   "week": 11,
+   "products": 111,
+   "share_of_products": 0.28316326530612246,
+   "pct_of_12w_sales": 2.8699180423158435
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Mid-season peak",
+   "week": 12,
+   "products": 111,
+   "share_of_products": 0.28316326530612246,
+   "pct_of_12w_sales": 2.370093519689621
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Steady decline",
+   "week": 1,
+   "products": 104,
+   "share_of_products": 0.2653061224489796,
+   "pct_of_12w_sales": 16.03456571818684
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Steady decline",
+   "week": 2,
+   "products": 104,
+   "share_of_products": 0.2653061224489796,
+   "pct_of_12w_sales": 12.731511894575315
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Steady decline",
+   "week": 3,
+   "products": 104,
+   "share_of_products": 0.2653061224489796,
+   "pct_of_12w_sales": 10.00646064148781
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Steady decline",
+   "week": 4,
+   "products": 104,
+   "share_of_products": 0.2653061224489796,
+   "pct_of_12w_sales": 9.671065256613549
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Steady decline",
+   "week": 5,
+   "products": 104,
+   "share_of_products": 0.2653061224489796,
+   "pct_of_12w_sales": 8.361222624368086
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Steady decline",
+   "week": 6,
+   "products": 104,
+   "share_of_products": 0.2653061224489796,
+   "pct_of_12w_sales": 7.5962703606118485
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Steady decline",
+   "week": 7,
+   "products": 104,
+   "share_of_products": 0.2653061224489796,
+   "pct_of_12w_sales": 6.845323511921738
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Steady decline",
+   "week": 8,
+   "products": 104,
+   "share_of_products": 0.2653061224489796,
+   "pct_of_12w_sales": 7.027878479265944
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Steady decline",
+   "week": 9,
+   "products": 104,
+   "share_of_products": 0.2653061224489796,
+   "pct_of_12w_sales": 7.048757511546265
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Steady decline",
+   "week": 10,
+   "products": 104,
+   "share_of_products": 0.2653061224489796,
+   "pct_of_12w_sales": 6.561681181210869
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Steady decline",
+   "week": 11,
+   "products": 104,
+   "share_of_products": 0.2653061224489796,
+   "pct_of_12w_sales": 4.808732686570909
+  },
+  {
+   "group": "sleeveless",
+   "cluster": "Steady decline",
+   "week": 12,
+   "products": 104,
+   "share_of_products": 0.2653061224489796,
+   "pct_of_12w_sales": 3.306530133640828
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Fast fade",
+   "week": 1,
+   "products": 85,
+   "share_of_products": 0.24216524216524216,
+   "pct_of_12w_sales": 16.709369991202827
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Fast fade",
+   "week": 2,
+   "products": 85,
+   "share_of_products": 0.24216524216524216,
+   "pct_of_12w_sales": 14.771172646103507
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Fast fade",
+   "week": 3,
+   "products": 85,
+   "share_of_products": 0.24216524216524216,
+   "pct_of_12w_sales": 14.219990596535096
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Fast fade",
+   "week": 4,
+   "products": 85,
+   "share_of_products": 0.24216524216524216,
+   "pct_of_12w_sales": 12.423162182438459
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Fast fade",
+   "week": 5,
+   "products": 85,
+   "share_of_products": 0.24216524216524216,
+   "pct_of_12w_sales": 11.263001913941133
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Fast fade",
+   "week": 6,
+   "products": 85,
+   "share_of_products": 0.24216524216524216,
+   "pct_of_12w_sales": 8.882477969130873
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Fast fade",
+   "week": 7,
+   "products": 85,
+   "share_of_products": 0.24216524216524216,
+   "pct_of_12w_sales": 7.320532456630041
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Fast fade",
+   "week": 8,
+   "products": 85,
+   "share_of_products": 0.24216524216524216,
+   "pct_of_12w_sales": 5.3001018698451805
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Fast fade",
+   "week": 9,
+   "products": 85,
+   "share_of_products": 0.24216524216524216,
+   "pct_of_12w_sales": 3.4940870472578665
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Fast fade",
+   "week": 10,
+   "products": 85,
+   "share_of_products": 0.24216524216524216,
+   "pct_of_12w_sales": 2.620514621799769
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Fast fade",
+   "week": 11,
+   "products": 85,
+   "share_of_products": 0.24216524216524216,
+   "pct_of_12w_sales": 1.7585278482718945
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Fast fade",
+   "week": 12,
+   "products": 85,
+   "share_of_products": 0.24216524216524216,
+   "pct_of_12w_sales": 1.2370608568433545
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Late bloomer",
+   "week": 1,
+   "products": 73,
+   "share_of_products": 0.20797720797720798,
+   "pct_of_12w_sales": 12.288994580521614
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Late bloomer",
+   "week": 2,
+   "products": 73,
+   "share_of_products": 0.20797720797720798,
+   "pct_of_12w_sales": 6.836176854523561
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Late bloomer",
+   "week": 3,
+   "products": 73,
+   "share_of_products": 0.20797720797720798,
+   "pct_of_12w_sales": 6.406923677819531
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Late bloomer",
+   "week": 4,
+   "products": 73,
+   "share_of_products": 0.20797720797720798,
+   "pct_of_12w_sales": 6.735013560261466
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Late bloomer",
+   "week": 5,
+   "products": 73,
+   "share_of_products": 0.20797720797720798,
+   "pct_of_12w_sales": 7.741872956396002
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Late bloomer",
+   "week": 6,
+   "products": 73,
+   "share_of_products": 0.20797720797720798,
+   "pct_of_12w_sales": 8.012073227753373
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Late bloomer",
+   "week": 7,
+   "products": 73,
+   "share_of_products": 0.20797720797720798,
+   "pct_of_12w_sales": 8.342163597171831
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Late bloomer",
+   "week": 8,
+   "products": 73,
+   "share_of_products": 0.20797720797720798,
+   "pct_of_12w_sales": 9.712774661003833
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Late bloomer",
+   "week": 9,
+   "products": 73,
+   "share_of_products": 0.20797720797720798,
+   "pct_of_12w_sales": 9.644114787129702
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Late bloomer",
+   "week": 10,
+   "products": 73,
+   "share_of_products": 0.20797720797720798,
+   "pct_of_12w_sales": 8.983684155293087
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Late bloomer",
+   "week": 11,
+   "products": 73,
+   "share_of_products": 0.20797720797720798,
+   "pct_of_12w_sales": 8.39158568982999
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Late bloomer",
+   "week": 12,
+   "products": 73,
+   "share_of_products": 0.20797720797720798,
+   "pct_of_12w_sales": 6.9046222522960115
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Mid-season peak",
+   "week": 1,
+   "products": 102,
+   "share_of_products": 0.2905982905982906,
+   "pct_of_12w_sales": 13.258702768472938
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Mid-season peak",
+   "week": 2,
+   "products": 102,
+   "share_of_products": 0.2905982905982906,
+   "pct_of_12w_sales": 10.261852738305265
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Mid-season peak",
+   "week": 3,
+   "products": 102,
+   "share_of_products": 0.2905982905982906,
+   "pct_of_12w_sales": 10.154943487516327
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Mid-season peak",
+   "week": 4,
+   "products": 102,
+   "share_of_products": 0.2905982905982906,
+   "pct_of_12w_sales": 10.723758565447765
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Mid-season peak",
+   "week": 5,
+   "products": 102,
+   "share_of_products": 0.2905982905982906,
+   "pct_of_12w_sales": 11.082884772329457
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Mid-season peak",
+   "week": 6,
+   "products": 102,
+   "share_of_products": 0.2905982905982906,
+   "pct_of_12w_sales": 11.257012612875602
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Mid-season peak",
+   "week": 7,
+   "products": 102,
+   "share_of_products": 0.2905982905982906,
+   "pct_of_12w_sales": 10.733358565198667
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Mid-season peak",
+   "week": 8,
+   "products": 102,
+   "share_of_products": 0.2905982905982906,
+   "pct_of_12w_sales": 8.638070807088717
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Mid-season peak",
+   "week": 9,
+   "products": 102,
+   "share_of_products": 0.2905982905982906,
+   "pct_of_12w_sales": 6.077306929982661
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Mid-season peak",
+   "week": 10,
+   "products": 102,
+   "share_of_products": 0.2905982905982906,
+   "pct_of_12w_sales": 3.3344286503474194
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Mid-season peak",
+   "week": 11,
+   "products": 102,
+   "share_of_products": 0.2905982905982906,
+   "pct_of_12w_sales": 2.5592515620710103
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Mid-season peak",
+   "week": 12,
+   "products": 102,
+   "share_of_products": 0.2905982905982906,
+   "pct_of_12w_sales": 1.9184285403641725
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Steady decline",
+   "week": 1,
+   "products": 91,
+   "share_of_products": 0.25925925925925924,
+   "pct_of_12w_sales": 17.555254396771627
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Steady decline",
+   "week": 2,
+   "products": 91,
+   "share_of_products": 0.25925925925925924,
+   "pct_of_12w_sales": 12.524371664099682
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Steady decline",
+   "week": 3,
+   "products": 91,
+   "share_of_products": 0.25925925925925924,
+   "pct_of_12w_sales": 10.439989293377462
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Steady decline",
+   "week": 4,
+   "products": 91,
+   "share_of_products": 0.25925925925925924,
+   "pct_of_12w_sales": 8.82135894652697
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Steady decline",
+   "week": 5,
+   "products": 91,
+   "share_of_products": 0.25925925925925924,
+   "pct_of_12w_sales": 8.968955791309437
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Steady decline",
+   "week": 6,
+   "products": 91,
+   "share_of_products": 0.25925925925925924,
+   "pct_of_12w_sales": 7.7462501906226136
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Steady decline",
+   "week": 7,
+   "products": 91,
+   "share_of_products": 0.25925925925925924,
+   "pct_of_12w_sales": 7.387757815891476
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Steady decline",
+   "week": 8,
+   "products": 91,
+   "share_of_products": 0.25925925925925924,
+   "pct_of_12w_sales": 6.212433072313287
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Steady decline",
+   "week": 9,
+   "products": 91,
+   "share_of_products": 0.25925925925925924,
+   "pct_of_12w_sales": 6.344747279115334
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Steady decline",
+   "week": 10,
+   "products": 91,
+   "share_of_products": 0.25925925925925924,
+   "pct_of_12w_sales": 5.435525773137422
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Steady decline",
+   "week": 11,
+   "products": 91,
+   "share_of_products": 0.25925925925925924,
+   "pct_of_12w_sales": 4.768222093414748
+  },
+  {
+   "group": "solid color top",
+   "cluster": "Steady decline",
+   "week": 12,
+   "products": 91,
+   "share_of_products": 0.25925925925925924,
+   "pct_of_12w_sales": 3.7951336834199427
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Fast fade",
+   "week": 1,
+   "products": 96,
+   "share_of_products": 0.34657039711191334,
+   "pct_of_12w_sales": 16.215062063353432
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Fast fade",
+   "week": 2,
+   "products": 96,
+   "share_of_products": 0.34657039711191334,
+   "pct_of_12w_sales": 16.164657271372313
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Fast fade",
+   "week": 3,
+   "products": 96,
+   "share_of_products": 0.34657039711191334,
+   "pct_of_12w_sales": 14.550377035520775
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Fast fade",
+   "week": 4,
+   "products": 96,
+   "share_of_products": 0.34657039711191334,
+   "pct_of_12w_sales": 13.255023240637499
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Fast fade",
+   "week": 5,
+   "products": 96,
+   "share_of_products": 0.34657039711191334,
+   "pct_of_12w_sales": 10.756900595144888
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Fast fade",
+   "week": 6,
+   "products": 96,
+   "share_of_products": 0.34657039711191334,
+   "pct_of_12w_sales": 8.872033081846368
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Fast fade",
+   "week": 7,
+   "products": 96,
+   "share_of_products": 0.34657039711191334,
+   "pct_of_12w_sales": 6.50079198390985
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Fast fade",
+   "week": 8,
+   "products": 96,
+   "share_of_products": 0.34657039711191334,
+   "pct_of_12w_sales": 4.665412382001423
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Fast fade",
+   "week": 9,
+   "products": 96,
+   "share_of_products": 0.34657039711191334,
+   "pct_of_12w_sales": 3.4542944691449398
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Fast fade",
+   "week": 10,
+   "products": 96,
+   "share_of_products": 0.34657039711191334,
+   "pct_of_12w_sales": 2.3406369040244854
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Fast fade",
+   "week": 11,
+   "products": 96,
+   "share_of_products": 0.34657039711191334,
+   "pct_of_12w_sales": 1.7105444279420592
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Fast fade",
+   "week": 12,
+   "products": 96,
+   "share_of_products": 0.34657039711191334,
+   "pct_of_12w_sales": 1.5142665451019646
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Late bloomer",
+   "week": 1,
+   "products": 46,
+   "share_of_products": 0.16606498194945848,
+   "pct_of_12w_sales": 11.960458802949056
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Late bloomer",
+   "week": 2,
+   "products": 46,
+   "share_of_products": 0.16606498194945848,
+   "pct_of_12w_sales": 7.319938494895011
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Late bloomer",
+   "week": 3,
+   "products": 46,
+   "share_of_products": 0.16606498194945848,
+   "pct_of_12w_sales": 7.120416893499258
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Late bloomer",
+   "week": 4,
+   "products": 46,
+   "share_of_products": 0.16606498194945848,
+   "pct_of_12w_sales": 7.412908844513069
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Late bloomer",
+   "week": 5,
+   "products": 46,
+   "share_of_products": 0.16606498194945848,
+   "pct_of_12w_sales": 7.534959518759801
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Late bloomer",
+   "week": 6,
+   "products": 46,
+   "share_of_products": 0.16606498194945848,
+   "pct_of_12w_sales": 7.873364334631202
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Late bloomer",
+   "week": 7,
+   "products": 46,
+   "share_of_products": 0.16606498194945848,
+   "pct_of_12w_sales": 8.431446383361026
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Late bloomer",
+   "week": 8,
+   "products": 46,
+   "share_of_products": 0.16606498194945848,
+   "pct_of_12w_sales": 8.529157574044866
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Late bloomer",
+   "week": 9,
+   "products": 46,
+   "share_of_products": 0.16606498194945848,
+   "pct_of_12w_sales": 9.370055928511677
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Late bloomer",
+   "week": 10,
+   "products": 46,
+   "share_of_products": 0.16606498194945848,
+   "pct_of_12w_sales": 9.151367632764785
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Late bloomer",
+   "week": 11,
+   "products": 46,
+   "share_of_products": 0.16606498194945848,
+   "pct_of_12w_sales": 8.230539767304181
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Late bloomer",
+   "week": 12,
+   "products": 46,
+   "share_of_products": 0.16606498194945848,
+   "pct_of_12w_sales": 7.065385824766065
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Mid-season peak",
+   "week": 1,
+   "products": 57,
+   "share_of_products": 0.20577617328519857,
+   "pct_of_12w_sales": 12.736585920137614
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Mid-season peak",
+   "week": 2,
+   "products": 57,
+   "share_of_products": 0.20577617328519857,
+   "pct_of_12w_sales": 10.34791666744037
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Mid-season peak",
+   "week": 3,
+   "products": 57,
+   "share_of_products": 0.20577617328519857,
+   "pct_of_12w_sales": 9.89847625168205
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Mid-season peak",
+   "week": 4,
+   "products": 57,
+   "share_of_products": 0.20577617328519857,
+   "pct_of_12w_sales": 10.944916139998467
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Mid-season peak",
+   "week": 5,
+   "products": 57,
+   "share_of_products": 0.20577617328519857,
+   "pct_of_12w_sales": 10.860339121946499
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Mid-season peak",
+   "week": 6,
+   "products": 57,
+   "share_of_products": 0.20577617328519857,
+   "pct_of_12w_sales": 11.322130767212267
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Mid-season peak",
+   "week": 7,
+   "products": 57,
+   "share_of_products": 0.20577617328519857,
+   "pct_of_12w_sales": 10.427615287229361
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Mid-season peak",
+   "week": 8,
+   "products": 57,
+   "share_of_products": 0.20577617328519857,
+   "pct_of_12w_sales": 8.134729901386677
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Mid-season peak",
+   "week": 9,
+   "products": 57,
+   "share_of_products": 0.20577617328519857,
+   "pct_of_12w_sales": 6.153224805856833
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Mid-season peak",
+   "week": 10,
+   "products": 57,
+   "share_of_products": 0.20577617328519857,
+   "pct_of_12w_sales": 4.282647288329726
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Mid-season peak",
+   "week": 11,
+   "products": 57,
+   "share_of_products": 0.20577617328519857,
+   "pct_of_12w_sales": 2.9212284435505476
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Mid-season peak",
+   "week": 12,
+   "products": 57,
+   "share_of_products": 0.20577617328519857,
+   "pct_of_12w_sales": 1.9701894052295852
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Steady decline",
+   "week": 1,
+   "products": 78,
+   "share_of_products": 0.2815884476534296,
+   "pct_of_12w_sales": 15.983072357530743
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Steady decline",
+   "week": 2,
+   "products": 78,
+   "share_of_products": 0.2815884476534296,
+   "pct_of_12w_sales": 12.58632242116769
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Steady decline",
+   "week": 3,
+   "products": 78,
+   "share_of_products": 0.2815884476534296,
+   "pct_of_12w_sales": 11.124832098499233
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Steady decline",
+   "week": 4,
+   "products": 78,
+   "share_of_products": 0.2815884476534296,
+   "pct_of_12w_sales": 9.847057330239876
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Steady decline",
+   "week": 5,
+   "products": 78,
+   "share_of_products": 0.2815884476534296,
+   "pct_of_12w_sales": 8.094718735426707
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Steady decline",
+   "week": 6,
+   "products": 78,
+   "share_of_products": 0.2815884476534296,
+   "pct_of_12w_sales": 7.257585568708562
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Steady decline",
+   "week": 7,
+   "products": 78,
+   "share_of_products": 0.2815884476534296,
+   "pct_of_12w_sales": 6.7132806936360465
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Steady decline",
+   "week": 8,
+   "products": 78,
+   "share_of_products": 0.2815884476534296,
+   "pct_of_12w_sales": 6.966693142551753
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Steady decline",
+   "week": 9,
+   "products": 78,
+   "share_of_products": 0.2815884476534296,
+   "pct_of_12w_sales": 6.5120883916010035
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Steady decline",
+   "week": 10,
+   "products": 78,
+   "share_of_products": 0.2815884476534296,
+   "pct_of_12w_sales": 5.719657472742691
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Steady decline",
+   "week": 11,
+   "products": 78,
+   "share_of_products": 0.2815884476534296,
+   "pct_of_12w_sales": 4.742173050660894
+  },
+  {
+   "group": "doll dress",
+   "cluster": "Steady decline",
+   "week": 12,
+   "products": 78,
+   "share_of_products": 0.2815884476534296,
+   "pct_of_12w_sales": 4.4525187372348025
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Fast fade",
+   "week": 1,
+   "products": 62,
+   "share_of_products": 0.23134328358208955,
+   "pct_of_12w_sales": 16.24915717942764
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Fast fade",
+   "week": 2,
+   "products": 62,
+   "share_of_products": 0.23134328358208955,
+   "pct_of_12w_sales": 16.309247886603803
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Fast fade",
+   "week": 3,
+   "products": 62,
+   "share_of_products": 0.23134328358208955,
+   "pct_of_12w_sales": 14.164338268808615
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Fast fade",
+   "week": 4,
+   "products": 62,
+   "share_of_products": 0.23134328358208955,
+   "pct_of_12w_sales": 12.73217262817946
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Fast fade",
+   "week": 5,
+   "products": 62,
+   "share_of_products": 0.23134328358208955,
+   "pct_of_12w_sales": 11.551757414587096
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Fast fade",
+   "week": 6,
+   "products": 62,
+   "share_of_products": 0.23134328358208955,
+   "pct_of_12w_sales": 9.084688184597548
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Fast fade",
+   "week": 7,
+   "products": 62,
+   "share_of_products": 0.23134328358208955,
+   "pct_of_12w_sales": 6.738408375738195
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Fast fade",
+   "week": 8,
+   "products": 62,
+   "share_of_products": 0.23134328358208955,
+   "pct_of_12w_sales": 4.6936423546480315
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Fast fade",
+   "week": 9,
+   "products": 62,
+   "share_of_products": 0.23134328358208955,
+   "pct_of_12w_sales": 3.5769935697257735
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Fast fade",
+   "week": 10,
+   "products": 62,
+   "share_of_products": 0.23134328358208955,
+   "pct_of_12w_sales": 2.502015502388499
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Fast fade",
+   "week": 11,
+   "products": 62,
+   "share_of_products": 0.23134328358208955,
+   "pct_of_12w_sales": 1.4345938657987987
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Fast fade",
+   "week": 12,
+   "products": 62,
+   "share_of_products": 0.23134328358208955,
+   "pct_of_12w_sales": 0.9629847694965386
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Late bloomer",
+   "week": 1,
+   "products": 79,
+   "share_of_products": 0.2947761194029851,
+   "pct_of_12w_sales": 11.704432751529325
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Late bloomer",
+   "week": 2,
+   "products": 79,
+   "share_of_products": 0.2947761194029851,
+   "pct_of_12w_sales": 7.233127276454672
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Late bloomer",
+   "week": 3,
+   "products": 79,
+   "share_of_products": 0.2947761194029851,
+   "pct_of_12w_sales": 7.045717193568245
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Late bloomer",
+   "week": 4,
+   "products": 79,
+   "share_of_products": 0.2947761194029851,
+   "pct_of_12w_sales": 7.378593725564215
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Late bloomer",
+   "week": 5,
+   "products": 79,
+   "share_of_products": 0.2947761194029851,
+   "pct_of_12w_sales": 7.925941957548783
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Late bloomer",
+   "week": 6,
+   "products": 79,
+   "share_of_products": 0.2947761194029851,
+   "pct_of_12w_sales": 8.153655999832159
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Late bloomer",
+   "week": 7,
+   "products": 79,
+   "share_of_products": 0.2947761194029851,
+   "pct_of_12w_sales": 8.23032577509441
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Late bloomer",
+   "week": 8,
+   "products": 79,
+   "share_of_products": 0.2947761194029851,
+   "pct_of_12w_sales": 8.447705173005172
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Late bloomer",
+   "week": 9,
+   "products": 79,
+   "share_of_products": 0.2947761194029851,
+   "pct_of_12w_sales": 8.686671208256195
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Late bloomer",
+   "week": 10,
+   "products": 79,
+   "share_of_products": 0.2947761194029851,
+   "pct_of_12w_sales": 9.07942792866854
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Late bloomer",
+   "week": 11,
+   "products": 79,
+   "share_of_products": 0.2947761194029851,
+   "pct_of_12w_sales": 8.519688549233813
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Late bloomer",
+   "week": 12,
+   "products": 79,
+   "share_of_products": 0.2947761194029851,
+   "pct_of_12w_sales": 7.594712461244464
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Mid-season peak",
+   "week": 1,
+   "products": 63,
+   "share_of_products": 0.23507462686567165,
+   "pct_of_12w_sales": 13.56680209674562
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Mid-season peak",
+   "week": 2,
+   "products": 63,
+   "share_of_products": 0.23507462686567165,
+   "pct_of_12w_sales": 9.908974967418022
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Mid-season peak",
+   "week": 3,
+   "products": 63,
+   "share_of_products": 0.23507462686567165,
+   "pct_of_12w_sales": 9.344872775681731
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Mid-season peak",
+   "week": 4,
+   "products": 63,
+   "share_of_products": 0.23507462686567165,
+   "pct_of_12w_sales": 9.814476525829901
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Mid-season peak",
+   "week": 5,
+   "products": 63,
+   "share_of_products": 0.23507462686567165,
+   "pct_of_12w_sales": 9.99634497606582
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Mid-season peak",
+   "week": 6,
+   "products": 63,
+   "share_of_products": 0.23507462686567165,
+   "pct_of_12w_sales": 11.40025682374064
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Mid-season peak",
+   "week": 7,
+   "products": 63,
+   "share_of_products": 0.23507462686567165,
+   "pct_of_12w_sales": 11.216386165697843
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Mid-season peak",
+   "week": 8,
+   "products": 63,
+   "share_of_products": 0.23507462686567165,
+   "pct_of_12w_sales": 8.47346933189123
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Mid-season peak",
+   "week": 9,
+   "products": 63,
+   "share_of_products": 0.23507462686567165,
+   "pct_of_12w_sales": 6.448795175746305
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Mid-season peak",
+   "week": 10,
+   "products": 63,
+   "share_of_products": 0.23507462686567165,
+   "pct_of_12w_sales": 4.3874074485294825
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Mid-season peak",
+   "week": 11,
+   "products": 63,
+   "share_of_products": 0.23507462686567165,
+   "pct_of_12w_sales": 3.0451350699601796
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Mid-season peak",
+   "week": 12,
+   "products": 63,
+   "share_of_products": 0.23507462686567165,
+   "pct_of_12w_sales": 2.3970786426932147
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Steady decline",
+   "week": 1,
+   "products": 64,
+   "share_of_products": 0.23880597014925373,
+   "pct_of_12w_sales": 16.90423990203818
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Steady decline",
+   "week": 2,
+   "products": 64,
+   "share_of_products": 0.23880597014925373,
+   "pct_of_12w_sales": 11.93362999502771
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Steady decline",
+   "week": 3,
+   "products": 64,
+   "share_of_products": 0.23880597014925373,
+   "pct_of_12w_sales": 10.664808552540103
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Steady decline",
+   "week": 4,
+   "products": 64,
+   "share_of_products": 0.23880597014925373,
+   "pct_of_12w_sales": 10.44567596755587
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Steady decline",
+   "week": 5,
+   "products": 64,
+   "share_of_products": 0.23880597014925373,
+   "pct_of_12w_sales": 7.8033120012777974
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Steady decline",
+   "week": 6,
+   "products": 64,
+   "share_of_products": 0.23880597014925373,
+   "pct_of_12w_sales": 7.237162036803585
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Steady decline",
+   "week": 7,
+   "products": 64,
+   "share_of_products": 0.23880597014925373,
+   "pct_of_12w_sales": 7.202557689605984
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Steady decline",
+   "week": 8,
+   "products": 64,
+   "share_of_products": 0.23880597014925373,
+   "pct_of_12w_sales": 6.372135887664668
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Steady decline",
+   "week": 9,
+   "products": 64,
+   "share_of_products": 0.23880597014925373,
+   "pct_of_12w_sales": 6.250769395466705
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Steady decline",
+   "week": 10,
+   "products": 64,
+   "share_of_products": 0.23880597014925373,
+   "pct_of_12w_sales": 5.0850283658514615
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Steady decline",
+   "week": 11,
+   "products": 64,
+   "share_of_products": 0.23880597014925373,
+   "pct_of_12w_sales": 5.251621735072008
+  },
+  {
+   "group": "short sleeves",
+   "cluster": "Steady decline",
+   "week": 12,
+   "products": 64,
+   "share_of_products": 0.23880597014925373,
+   "pct_of_12w_sales": 4.84905847109593
+  }
+ ],
+ "markdown_curves": [
+  {
+   "group": "All products",
+   "type": "All products",
+   "week": 1,
+   "products": 4687,
+   "demand_pct_of_peak": 89.15350572683556,
+   "pct_on_markdown": 0.7467463196074248
+  },
+  {
+   "group": "All products",
+   "type": "All products",
+   "week": 2,
+   "products": 4687,
+   "demand_pct_of_peak": 68.56377458689757,
+   "pct_on_markdown": 0.8320887561339876
+  },
+  {
+   "group": "All products",
+   "type": "All products",
+   "week": 3,
+   "products": 4687,
+   "demand_pct_of_peak": 65.01053851139488,
+   "pct_on_markdown": 2.0695540857691483
+  },
+  {
+   "group": "All products",
+   "type": "All products",
+   "week": 4,
+   "products": 4687,
+   "demand_pct_of_peak": 63.22947475731503,
+   "pct_on_markdown": 5.056539364198848
+  },
+  {
+   "group": "All products",
+   "type": "All products",
+   "week": 5,
+   "products": 4687,
+   "demand_pct_of_peak": 60.80162281524153,
+   "pct_on_markdown": 9.771708982291443
+  },
+  {
+   "group": "All products",
+   "type": "All products",
+   "week": 6,
+   "products": 4687,
+   "demand_pct_of_peak": 57.79917614609128,
+   "pct_on_markdown": 16.57776829528483
+  },
+  {
+   "group": "All products",
+   "type": "All products",
+   "week": 7,
+   "products": 4687,
+   "demand_pct_of_peak": 53.64495132224083,
+   "pct_on_markdown": 23.81053979091103
+  },
+  {
+   "group": "All products",
+   "type": "All products",
+   "week": 8,
+   "products": 4687,
+   "demand_pct_of_peak": 47.115399939359264,
+   "pct_on_markdown": 30.787283976957543
+  },
+  {
+   "group": "All products",
+   "type": "All products",
+   "week": 9,
+   "products": 4687,
+   "demand_pct_of_peak": 41.09682807773235,
+   "pct_on_markdown": 37.70002133560913
+  },
+  {
+   "group": "All products",
+   "type": "All products",
+   "week": 10,
+   "products": 4687,
+   "demand_pct_of_peak": 34.76405898734654,
+   "pct_on_markdown": 44.5487518668658
+  },
+  {
+   "group": "All products",
+   "type": "All products",
+   "week": 11,
+   "products": 4687,
+   "demand_pct_of_peak": 28.856955520389544,
+   "pct_on_markdown": 50.07467463196075
+  },
+  {
+   "group": "All products",
+   "type": "All products",
+   "week": 12,
+   "products": 4687,
+   "demand_pct_of_peak": 24.03798041335432,
+   "pct_on_markdown": 54.91785790484318
+  },
+  {
+   "group": "All products",
+   "type": "Short-lived",
+   "week": 1,
+   "products": 176,
+   "demand_pct_of_peak": 73.9952541584686,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "All products",
+   "type": "Short-lived",
+   "week": 2,
+   "products": 176,
+   "demand_pct_of_peak": 75.27890251189349,
+   "pct_on_markdown": 3.4090909090909087
+  },
+  {
+   "group": "All products",
+   "type": "Short-lived",
+   "week": 3,
+   "products": 176,
+   "demand_pct_of_peak": 75.64744572337409,
+   "pct_on_markdown": 3.4090909090909087
+  },
+  {
+   "group": "All products",
+   "type": "Short-lived",
+   "week": 4,
+   "products": 176,
+   "demand_pct_of_peak": 73.72123521131996,
+   "pct_on_markdown": 10.795454545454545
+  },
+  {
+   "group": "All products",
+   "type": "Short-lived",
+   "week": 5,
+   "products": 176,
+   "demand_pct_of_peak": 59.02073640858465,
+   "pct_on_markdown": 13.636363636363635
+  },
+  {
+   "group": "All products",
+   "type": "Short-lived",
+   "week": 6,
+   "products": 176,
+   "demand_pct_of_peak": 48.182818939942216,
+   "pct_on_markdown": 23.295454545454543
+  },
+  {
+   "group": "All products",
+   "type": "Short-lived",
+   "week": 7,
+   "products": 176,
+   "demand_pct_of_peak": 28.02777591690174,
+   "pct_on_markdown": 25.568181818181817
+  },
+  {
+   "group": "All products",
+   "type": "Short-lived",
+   "week": 8,
+   "products": 176,
+   "demand_pct_of_peak": 16.120125551026387,
+   "pct_on_markdown": 29.545454545454547
+  },
+  {
+   "group": "All products",
+   "type": "Short-lived",
+   "week": 9,
+   "products": 176,
+   "demand_pct_of_peak": 9.975488804734365,
+   "pct_on_markdown": 32.95454545454545
+  },
+  {
+   "group": "All products",
+   "type": "Short-lived",
+   "week": 10,
+   "products": 176,
+   "demand_pct_of_peak": 6.966478508870298,
+   "pct_on_markdown": 40.340909090909086
+  },
+  {
+   "group": "All products",
+   "type": "Short-lived",
+   "week": 11,
+   "products": 176,
+   "demand_pct_of_peak": 6.339366349509984,
+   "pct_on_markdown": 44.31818181818182
+  },
+  {
+   "group": "All products",
+   "type": "Short-lived",
+   "week": 12,
+   "products": 176,
+   "demand_pct_of_peak": 3.953343212819107,
+   "pct_on_markdown": 47.159090909090914
+  },
+  {
+   "group": "All products",
+   "type": "Other",
+   "week": 1,
+   "products": 4511,
+   "demand_pct_of_peak": 89.74491611833024,
+   "pct_on_markdown": 0.7758811793393926
+  },
+  {
+   "group": "All products",
+   "type": "Other",
+   "week": 2,
+   "products": 4511,
+   "demand_pct_of_peak": 68.30177890638343,
+   "pct_on_markdown": 0.7315451119485702
+  },
+  {
+   "group": "All products",
+   "type": "Other",
+   "week": 3,
+   "products": 4511,
+   "demand_pct_of_peak": 64.59553171261227,
+   "pct_on_markdown": 2.0172910662824206
+  },
+  {
+   "group": "All products",
+   "type": "Other",
+   "week": 4,
+   "products": 4511,
+   "demand_pct_of_peak": 62.82013096660237,
+   "pct_on_markdown": 4.832631345599645
+  },
+  {
+   "group": "All products",
+   "type": "Other",
+   "week": 5,
+   "products": 4511,
+   "demand_pct_of_peak": 60.871105415013574,
+   "pct_on_markdown": 9.620926623808469
+  },
+  {
+   "group": "All products",
+   "type": "Other",
+   "week": 6,
+   "products": 4511,
+   "demand_pct_of_peak": 58.17436543189981,
+   "pct_on_markdown": 16.315672799822657
+  },
+  {
+   "group": "All products",
+   "type": "Other",
+   "week": 7,
+   "products": 4511,
+   "demand_pct_of_peak": 54.64442435955844,
+   "pct_on_markdown": 23.741964087785412
+  },
+  {
+   "group": "All products",
+   "type": "Other",
+   "week": 8,
+   "products": 4511,
+   "demand_pct_of_peak": 48.324703484548046,
+   "pct_on_markdown": 30.835734870317005
+  },
+  {
+   "group": "All products",
+   "type": "Other",
+   "week": 9,
+   "products": 4511,
+   "demand_pct_of_peak": 42.31105013759661,
+   "pct_on_markdown": 37.88516958545777
+  },
+  {
+   "group": "All products",
+   "type": "Other",
+   "week": 10,
+   "products": 4511,
+   "demand_pct_of_peak": 35.848602140574606,
+   "pct_on_markdown": 44.71292396364442
+  },
+  {
+   "group": "All products",
+   "type": "Other",
+   "week": 11,
+   "products": 4511,
+   "demand_pct_of_peak": 29.735495909233435,
+   "pct_on_markdown": 50.29926845488804
+  },
+  {
+   "group": "All products",
+   "type": "Other",
+   "week": 12,
+   "products": 4511,
+   "demand_pct_of_peak": 24.82159738238429,
+   "pct_on_markdown": 55.22057193526935
+  },
+  {
+   "group": "long sleeve",
+   "type": "All products",
+   "week": 1,
+   "products": 1031,
+   "demand_pct_of_peak": 89.29043627916748,
+   "pct_on_markdown": 1.066925315227934
+  },
+  {
+   "group": "long sleeve",
+   "type": "All products",
+   "week": 2,
+   "products": 1031,
+   "demand_pct_of_peak": 68.41563703812385,
+   "pct_on_markdown": 1.3579049466537343
+  },
+  {
+   "group": "long sleeve",
+   "type": "All products",
+   "week": 3,
+   "products": 1031,
+   "demand_pct_of_peak": 64.93976534169163,
+   "pct_on_markdown": 1.842870999030068
+  },
+  {
+   "group": "long sleeve",
+   "type": "All products",
+   "week": 4,
+   "products": 1031,
+   "demand_pct_of_peak": 64.73788220228526,
+   "pct_on_markdown": 5.33462657613967
+  },
+  {
+   "group": "long sleeve",
+   "type": "All products",
+   "week": 5,
+   "products": 1031,
+   "demand_pct_of_peak": 60.80412231984956,
+   "pct_on_markdown": 9.699321047526672
+  },
+  {
+   "group": "long sleeve",
+   "type": "All products",
+   "week": 6,
+   "products": 1031,
+   "demand_pct_of_peak": 56.4900922362032,
+   "pct_on_markdown": 15.615906886517944
+  },
+  {
+   "group": "long sleeve",
+   "type": "All products",
+   "week": 7,
+   "products": 1031,
+   "demand_pct_of_peak": 52.16397662954042,
+   "pct_on_markdown": 23.375363724539284
+  },
+  {
+   "group": "long sleeve",
+   "type": "All products",
+   "week": 8,
+   "products": 1031,
+   "demand_pct_of_peak": 43.477461199507566,
+   "pct_on_markdown": 28.22502424830262
+  },
+  {
+   "group": "long sleeve",
+   "type": "All products",
+   "week": 9,
+   "products": 1031,
+   "demand_pct_of_peak": 37.857296661952695,
+   "pct_on_markdown": 34.33559650824442
+  },
+  {
+   "group": "long sleeve",
+   "type": "All products",
+   "week": 10,
+   "products": 1031,
+   "demand_pct_of_peak": 32.815852986977724,
+   "pct_on_markdown": 42.38603297769156
+  },
+  {
+   "group": "long sleeve",
+   "type": "All products",
+   "week": 11,
+   "products": 1031,
+   "demand_pct_of_peak": 25.115374878362186,
+   "pct_on_markdown": 46.6537342386033
+  },
+  {
+   "group": "long sleeve",
+   "type": "All products",
+   "week": 12,
+   "products": 1031,
+   "demand_pct_of_peak": 21.49481235316821,
+   "pct_on_markdown": 51.21241513094083
+  },
+  {
+   "group": "long sleeve",
+   "type": "Short-lived",
+   "week": 1,
+   "products": 61,
+   "demand_pct_of_peak": 73.54889929929517,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "long sleeve",
+   "type": "Short-lived",
+   "week": 2,
+   "products": 61,
+   "demand_pct_of_peak": 75.72950170297058,
+   "pct_on_markdown": 8.19672131147541
+  },
+  {
+   "group": "long sleeve",
+   "type": "Short-lived",
+   "week": 3,
+   "products": 61,
+   "demand_pct_of_peak": 71.14427248182047,
+   "pct_on_markdown": 1.639344262295082
+  },
+  {
+   "group": "long sleeve",
+   "type": "Short-lived",
+   "week": 4,
+   "products": 61,
+   "demand_pct_of_peak": 79.97021636198157,
+   "pct_on_markdown": 8.19672131147541
+  },
+  {
+   "group": "long sleeve",
+   "type": "Short-lived",
+   "week": 5,
+   "products": 61,
+   "demand_pct_of_peak": 59.062644819392396,
+   "pct_on_markdown": 9.836065573770492
+  },
+  {
+   "group": "long sleeve",
+   "type": "Short-lived",
+   "week": 6,
+   "products": 61,
+   "demand_pct_of_peak": 49.29718024486588,
+   "pct_on_markdown": 22.950819672131146
+  },
+  {
+   "group": "long sleeve",
+   "type": "Short-lived",
+   "week": 7,
+   "products": 61,
+   "demand_pct_of_peak": 27.21586798222279,
+   "pct_on_markdown": 26.229508196721312
+  },
+  {
+   "group": "long sleeve",
+   "type": "Short-lived",
+   "week": 8,
+   "products": 61,
+   "demand_pct_of_peak": 14.384369615946985,
+   "pct_on_markdown": 29.508196721311474
+  },
+  {
+   "group": "long sleeve",
+   "type": "Short-lived",
+   "week": 9,
+   "products": 61,
+   "demand_pct_of_peak": 8.91538911198647,
+   "pct_on_markdown": 31.147540983606557
+  },
+  {
+   "group": "long sleeve",
+   "type": "Short-lived",
+   "week": 10,
+   "products": 61,
+   "demand_pct_of_peak": 7.380461092391393,
+   "pct_on_markdown": 40.98360655737705
+  },
+  {
+   "group": "long sleeve",
+   "type": "Short-lived",
+   "week": 11,
+   "products": 61,
+   "demand_pct_of_peak": 5.095961990163367,
+   "pct_on_markdown": 44.26229508196721
+  },
+  {
+   "group": "long sleeve",
+   "type": "Short-lived",
+   "week": 12,
+   "products": 61,
+   "demand_pct_of_peak": 3.9557075742580854,
+   "pct_on_markdown": 49.18032786885246
+  },
+  {
+   "group": "long sleeve",
+   "type": "Other",
+   "week": 1,
+   "products": 970,
+   "demand_pct_of_peak": 90.28036798614914,
+   "pct_on_markdown": 1.134020618556701
+  },
+  {
+   "group": "long sleeve",
+   "type": "Other",
+   "week": 2,
+   "products": 970,
+   "demand_pct_of_peak": 67.95569297157161,
+   "pct_on_markdown": 0.9278350515463918
+  },
+  {
+   "group": "long sleeve",
+   "type": "Other",
+   "week": 3,
+   "products": 970,
+   "demand_pct_of_peak": 64.54958499576601,
+   "pct_on_markdown": 1.8556701030927836
+  },
+  {
+   "group": "long sleeve",
+   "type": "Other",
+   "week": 4,
+   "products": 970,
+   "demand_pct_of_peak": 63.77997252832498,
+   "pct_on_markdown": 5.154639175257731
+  },
+  {
+   "group": "long sleeve",
+   "type": "Other",
+   "week": 5,
+   "products": 970,
+   "demand_pct_of_peak": 60.91363791523913,
+   "pct_on_markdown": 9.690721649484537
+  },
+  {
+   "group": "long sleeve",
+   "type": "Other",
+   "week": 6,
+   "products": 970,
+   "demand_pct_of_peak": 56.94243000060689,
+   "pct_on_markdown": 15.154639175257731
+  },
+  {
+   "group": "long sleeve",
+   "type": "Other",
+   "week": 7,
+   "products": 970,
+   "demand_pct_of_peak": 53.73287830736143,
+   "pct_on_markdown": 23.195876288659793
+  },
+  {
+   "group": "long sleeve",
+   "type": "Other",
+   "week": 8,
+   "products": 970,
+   "demand_pct_of_peak": 45.30702675270055,
+   "pct_on_markdown": 28.144329896907216
+  },
+  {
+   "group": "long sleeve",
+   "type": "Other",
+   "week": 9,
+   "products": 970,
+   "demand_pct_of_peak": 39.67735476561035,
+   "pct_on_markdown": 34.5360824742268
+  },
+  {
+   "group": "long sleeve",
+   "type": "Other",
+   "week": 10,
+   "products": 970,
+   "demand_pct_of_peak": 34.41539825045171,
+   "pct_on_markdown": 42.47422680412371
+  },
+  {
+   "group": "long sleeve",
+   "type": "Other",
+   "week": 11,
+   "products": 970,
+   "demand_pct_of_peak": 26.374327647620042,
+   "pct_on_markdown": 46.8041237113402
+  },
+  {
+   "group": "long sleeve",
+   "type": "Other",
+   "week": 12,
+   "products": 970,
+   "demand_pct_of_peak": 22.597786983594517,
+   "pct_on_markdown": 51.340206185567006
+  },
+  {
+   "group": "culottes",
+   "type": "All products",
+   "week": 1,
+   "products": 843,
+   "demand_pct_of_peak": 91.18461106068195,
+   "pct_on_markdown": 0.8303677342823249
+  },
+  {
+   "group": "culottes",
+   "type": "All products",
+   "week": 2,
+   "products": 843,
+   "demand_pct_of_peak": 69.84320216394656,
+   "pct_on_markdown": 0.2372479240806643
+  },
+  {
+   "group": "culottes",
+   "type": "All products",
+   "week": 3,
+   "products": 843,
+   "demand_pct_of_peak": 66.88292424926334,
+   "pct_on_markdown": 1.0676156583629894
+  },
+  {
+   "group": "culottes",
+   "type": "All products",
+   "week": 4,
+   "products": 843,
+   "demand_pct_of_peak": 64.07135416427224,
+   "pct_on_markdown": 3.084223013048636
+  },
+  {
+   "group": "culottes",
+   "type": "All products",
+   "week": 5,
+   "products": 843,
+   "demand_pct_of_peak": 62.452256547912235,
+   "pct_on_markdown": 6.524317912218268
+  },
+  {
+   "group": "culottes",
+   "type": "All products",
+   "week": 6,
+   "products": 843,
+   "demand_pct_of_peak": 58.93150459476322,
+   "pct_on_markdown": 11.387900355871885
+  },
+  {
+   "group": "culottes",
+   "type": "All products",
+   "week": 7,
+   "products": 843,
+   "demand_pct_of_peak": 54.504474874309494,
+   "pct_on_markdown": 18.386714116251483
+  },
+  {
+   "group": "culottes",
+   "type": "All products",
+   "week": 8,
+   "products": 843,
+   "demand_pct_of_peak": 48.28886226354068,
+   "pct_on_markdown": 23.250296559905102
+  },
+  {
+   "group": "culottes",
+   "type": "All products",
+   "week": 9,
+   "products": 843,
+   "demand_pct_of_peak": 41.99369730335886,
+   "pct_on_markdown": 29.774614472123368
+  },
+  {
+   "group": "culottes",
+   "type": "All products",
+   "week": 10,
+   "products": 843,
+   "demand_pct_of_peak": 35.2587632602346,
+   "pct_on_markdown": 37.2479240806643
+  },
+  {
+   "group": "culottes",
+   "type": "All products",
+   "week": 11,
+   "products": 843,
+   "demand_pct_of_peak": 29.821757045874985,
+   "pct_on_markdown": 42.94187425860024
+  },
+  {
+   "group": "culottes",
+   "type": "All products",
+   "week": 12,
+   "products": 843,
+   "demand_pct_of_peak": 24.74544761616309,
+   "pct_on_markdown": 48.63582443653618
+  },
+  {
+   "group": "culottes",
+   "type": "Short-lived",
+   "week": 1,
+   "products": 16,
+   "demand_pct_of_peak": 76.5878600327971,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "culottes",
+   "type": "Short-lived",
+   "week": 2,
+   "products": 16,
+   "demand_pct_of_peak": 71.69356922529488,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "culottes",
+   "type": "Short-lived",
+   "week": 3,
+   "products": 16,
+   "demand_pct_of_peak": 78.1101543862608,
+   "pct_on_markdown": 6.25
+  },
+  {
+   "group": "culottes",
+   "type": "Short-lived",
+   "week": 4,
+   "products": 16,
+   "demand_pct_of_peak": 66.76177510784996,
+   "pct_on_markdown": 12.5
+  },
+  {
+   "group": "culottes",
+   "type": "Short-lived",
+   "week": 5,
+   "products": 16,
+   "demand_pct_of_peak": 60.26603921101753,
+   "pct_on_markdown": 25.0
+  },
+  {
+   "group": "culottes",
+   "type": "Short-lived",
+   "week": 6,
+   "products": 16,
+   "demand_pct_of_peak": 48.69571753183094,
+   "pct_on_markdown": 25.0
+  },
+  {
+   "group": "culottes",
+   "type": "Short-lived",
+   "week": 7,
+   "products": 16,
+   "demand_pct_of_peak": 25.366083911008335,
+   "pct_on_markdown": 25.0
+  },
+  {
+   "group": "culottes",
+   "type": "Short-lived",
+   "week": 8,
+   "products": 16,
+   "demand_pct_of_peak": 19.401592823814866,
+   "pct_on_markdown": 25.0
+  },
+  {
+   "group": "culottes",
+   "type": "Short-lived",
+   "week": 9,
+   "products": 16,
+   "demand_pct_of_peak": 13.836060630973456,
+   "pct_on_markdown": 31.25
+  },
+  {
+   "group": "culottes",
+   "type": "Short-lived",
+   "week": 10,
+   "products": 16,
+   "demand_pct_of_peak": 5.006556075300848,
+   "pct_on_markdown": 31.25
+  },
+  {
+   "group": "culottes",
+   "type": "Short-lived",
+   "week": 11,
+   "products": 16,
+   "demand_pct_of_peak": 7.736559977296062,
+   "pct_on_markdown": 43.75
+  },
+  {
+   "group": "culottes",
+   "type": "Short-lived",
+   "week": 12,
+   "products": 16,
+   "demand_pct_of_peak": 5.725248489624088,
+   "pct_on_markdown": 37.5
+  },
+  {
+   "group": "culottes",
+   "type": "Other",
+   "week": 1,
+   "products": 827,
+   "demand_pct_of_peak": 91.46701494997596,
+   "pct_on_markdown": 0.8464328899637243
+  },
+  {
+   "group": "culottes",
+   "type": "Other",
+   "week": 2,
+   "products": 827,
+   "demand_pct_of_peak": 69.80740304304986,
+   "pct_on_markdown": 0.24183796856106407
+  },
+  {
+   "group": "culottes",
+   "type": "Other",
+   "week": 3,
+   "products": 827,
+   "demand_pct_of_peak": 66.66571060695141,
+   "pct_on_markdown": 0.9673518742442563
+  },
+  {
+   "group": "culottes",
+   "type": "Other",
+   "week": 4,
+   "products": 827,
+   "demand_pct_of_peak": 64.01930248942672,
+   "pct_on_markdown": 2.902055622732769
+  },
+  {
+   "group": "culottes",
+   "type": "Other",
+   "week": 5,
+   "products": 827,
+   "demand_pct_of_peak": 62.49455337667923,
+   "pct_on_markdown": 6.166868198307134
+  },
+  {
+   "group": "culottes",
+   "type": "Other",
+   "week": 6,
+   "products": 827,
+   "demand_pct_of_peak": 59.12953675075707,
+   "pct_on_markdown": 11.124546553808948
+  },
+  {
+   "group": "culottes",
+   "type": "Other",
+   "week": 7,
+   "products": 827,
+   "demand_pct_of_peak": 55.06821641652573,
+   "pct_on_markdown": 18.25876662636034
+  },
+  {
+   "group": "culottes",
+   "type": "Other",
+   "week": 8,
+   "products": 827,
+   "demand_pct_of_peak": 48.84774534822702,
+   "pct_on_markdown": 23.216444981862153
+  },
+  {
+   "group": "culottes",
+   "type": "Other",
+   "week": 9,
+   "products": 827,
+   "demand_pct_of_peak": 42.53846415554527,
+   "pct_on_markdown": 29.746070133010882
+  },
+  {
+   "group": "culottes",
+   "type": "Other",
+   "week": 10,
+   "products": 827,
+   "demand_pct_of_peak": 35.844053846642026,
+   "pct_on_markdown": 37.363966142684404
+  },
+  {
+   "group": "culottes",
+   "type": "Other",
+   "week": 11,
+   "products": 827,
+   "demand_pct_of_peak": 30.249040181421854,
+   "pct_on_markdown": 42.926239419588875
+  },
+  {
+   "group": "culottes",
+   "type": "Other",
+   "week": 12,
+   "products": 827,
+   "demand_pct_of_peak": 25.113432121634222,
+   "pct_on_markdown": 48.851269649334945
+  },
+  {
+   "group": "sleeveless",
+   "type": "All products",
+   "week": 1,
+   "products": 392,
+   "demand_pct_of_peak": 89.8210434754027,
+   "pct_on_markdown": 1.0204081632653061
+  },
+  {
+   "group": "sleeveless",
+   "type": "All products",
+   "week": 2,
+   "products": 392,
+   "demand_pct_of_peak": 69.58475726101571,
+   "pct_on_markdown": 1.7857142857142856
+  },
+  {
+   "group": "sleeveless",
+   "type": "All products",
+   "week": 3,
+   "products": 392,
+   "demand_pct_of_peak": 63.64806783037517,
+   "pct_on_markdown": 2.5510204081632653
+  },
+  {
+   "group": "sleeveless",
+   "type": "All products",
+   "week": 4,
+   "products": 392,
+   "demand_pct_of_peak": 61.7929522695645,
+   "pct_on_markdown": 5.612244897959184
+  },
+  {
+   "group": "sleeveless",
+   "type": "All products",
+   "week": 5,
+   "products": 392,
+   "demand_pct_of_peak": 59.32675080295714,
+   "pct_on_markdown": 11.989795918367346
+  },
+  {
+   "group": "sleeveless",
+   "type": "All products",
+   "week": 6,
+   "products": 392,
+   "demand_pct_of_peak": 57.64195368974019,
+   "pct_on_markdown": 22.95918367346939
+  },
+  {
+   "group": "sleeveless",
+   "type": "All products",
+   "week": 7,
+   "products": 392,
+   "demand_pct_of_peak": 53.965786437644134,
+   "pct_on_markdown": 30.102040816326532
+  },
+  {
+   "group": "sleeveless",
+   "type": "All products",
+   "week": 8,
+   "products": 392,
+   "demand_pct_of_peak": 48.88732749774748,
+   "pct_on_markdown": 38.265306122448976
+  },
+  {
+   "group": "sleeveless",
+   "type": "All products",
+   "week": 9,
+   "products": 392,
+   "demand_pct_of_peak": 41.481684912025045,
+   "pct_on_markdown": 44.38775510204081
+  },
+  {
+   "group": "sleeveless",
+   "type": "All products",
+   "week": 10,
+   "products": 392,
+   "demand_pct_of_peak": 34.961582973748875,
+   "pct_on_markdown": 49.48979591836735
+  },
+  {
+   "group": "sleeveless",
+   "type": "All products",
+   "week": 11,
+   "products": 392,
+   "demand_pct_of_peak": 27.90306528163564,
+   "pct_on_markdown": 53.316326530612244
+  },
+  {
+   "group": "sleeveless",
+   "type": "All products",
+   "week": 12,
+   "products": 392,
+   "demand_pct_of_peak": 22.253237429171065,
+   "pct_on_markdown": 57.14285714285714
+  },
+  {
+   "group": "sleeveless",
+   "type": "Short-lived",
+   "week": 1,
+   "products": 10,
+   "demand_pct_of_peak": 78.13935394107808,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "sleeveless",
+   "type": "Short-lived",
+   "week": 2,
+   "products": 10,
+   "demand_pct_of_peak": 69.3894438894439,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "sleeveless",
+   "type": "Short-lived",
+   "week": 3,
+   "products": 10,
+   "demand_pct_of_peak": 83.34057848281986,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "sleeveless",
+   "type": "Short-lived",
+   "week": 4,
+   "products": 10,
+   "demand_pct_of_peak": 73.42409936806489,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "sleeveless",
+   "type": "Short-lived",
+   "week": 5,
+   "products": 10,
+   "demand_pct_of_peak": 63.830410968342,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "sleeveless",
+   "type": "Short-lived",
+   "week": 6,
+   "products": 10,
+   "demand_pct_of_peak": 51.554818744473906,
+   "pct_on_markdown": 20.0
+  },
+  {
+   "group": "sleeveless",
+   "type": "Short-lived",
+   "week": 7,
+   "products": 10,
+   "demand_pct_of_peak": 33.0970705539671,
+   "pct_on_markdown": 20.0
+  },
+  {
+   "group": "sleeveless",
+   "type": "Short-lived",
+   "week": 8,
+   "products": 10,
+   "demand_pct_of_peak": 26.787477369373924,
+   "pct_on_markdown": 20.0
+  },
+  {
+   "group": "sleeveless",
+   "type": "Short-lived",
+   "week": 9,
+   "products": 10,
+   "demand_pct_of_peak": 10.102626300902163,
+   "pct_on_markdown": 30.0
+  },
+  {
+   "group": "sleeveless",
+   "type": "Short-lived",
+   "week": 10,
+   "products": 10,
+   "demand_pct_of_peak": 4.402422768802079,
+   "pct_on_markdown": 30.0
+  },
+  {
+   "group": "sleeveless",
+   "type": "Short-lived",
+   "week": 11,
+   "products": 10,
+   "demand_pct_of_peak": 4.62004662004662,
+   "pct_on_markdown": 30.0
+  },
+  {
+   "group": "sleeveless",
+   "type": "Short-lived",
+   "week": 12,
+   "products": 10,
+   "demand_pct_of_peak": 2.420585161964472,
+   "pct_on_markdown": 30.0
+  },
+  {
+   "group": "sleeveless",
+   "type": "Other",
+   "week": 1,
+   "products": 382,
+   "demand_pct_of_peak": 90.1268468663536,
+   "pct_on_markdown": 1.0471204188481675
+  },
+  {
+   "group": "sleeveless",
+   "type": "Other",
+   "week": 2,
+   "products": 382,
+   "demand_pct_of_peak": 69.58987017650188,
+   "pct_on_markdown": 1.832460732984293
+  },
+  {
+   "group": "sleeveless",
+   "type": "Other",
+   "week": 3,
+   "products": 382,
+   "demand_pct_of_peak": 63.132557080311166,
+   "pct_on_markdown": 2.6178010471204187
+  },
+  {
+   "group": "sleeveless",
+   "type": "Other",
+   "week": 4,
+   "products": 382,
+   "demand_pct_of_peak": 61.48847197902785,
+   "pct_on_markdown": 5.7591623036649215
+  },
+  {
+   "group": "sleeveless",
+   "type": "Other",
+   "week": 5,
+   "products": 382,
+   "demand_pct_of_peak": 59.208853939988956,
+   "pct_on_markdown": 12.30366492146597
+  },
+  {
+   "group": "sleeveless",
+   "type": "Other",
+   "week": 6,
+   "products": 382,
+   "demand_pct_of_peak": 57.801302772077015,
+   "pct_on_markdown": 23.036649214659686
+  },
+  {
+   "group": "sleeveless",
+   "type": "Other",
+   "week": 7,
+   "products": 382,
+   "demand_pct_of_peak": 54.51208790056762,
+   "pct_on_markdown": 30.36649214659686
+  },
+  {
+   "group": "sleeveless",
+   "type": "Other",
+   "week": 8,
+   "products": 382,
+   "demand_pct_of_peak": 49.46585760582009,
+   "pct_on_markdown": 38.7434554973822
+  },
+  {
+   "group": "sleeveless",
+   "type": "Other",
+   "week": 9,
+   "products": 382,
+   "demand_pct_of_peak": 42.30312623692356,
+   "pct_on_markdown": 44.76439790575916
+  },
+  {
+   "group": "sleeveless",
+   "type": "Other",
+   "week": 10,
+   "products": 382,
+   "demand_pct_of_peak": 35.76156098958517,
+   "pct_on_markdown": 50.0
+  },
+  {
+   "group": "sleeveless",
+   "type": "Other",
+   "week": 11,
+   "products": 382,
+   "demand_pct_of_peak": 28.512568387959963,
+   "pct_on_markdown": 53.92670157068062
+  },
+  {
+   "group": "sleeveless",
+   "type": "Other",
+   "week": 12,
+   "products": 382,
+   "demand_pct_of_peak": 22.77241680789375,
+   "pct_on_markdown": 57.85340314136126
+  },
+  {
+   "group": "solid color top",
+   "type": "All products",
+   "week": 1,
+   "products": 351,
+   "demand_pct_of_peak": 89.88256085341429,
+   "pct_on_markdown": 0.5698005698005698
+  },
+  {
+   "group": "solid color top",
+   "type": "All products",
+   "week": 2,
+   "products": 351,
+   "demand_pct_of_peak": 67.98118191136213,
+   "pct_on_markdown": 0.5698005698005698
+  },
+  {
+   "group": "solid color top",
+   "type": "All products",
+   "week": 3,
+   "products": 351,
+   "demand_pct_of_peak": 63.1292227347511,
+   "pct_on_markdown": 1.4245014245014245
+  },
+  {
+   "group": "solid color top",
+   "type": "All products",
+   "week": 4,
+   "products": 351,
+   "demand_pct_of_peak": 60.45427476535558,
+   "pct_on_markdown": 5.128205128205128
+  },
+  {
+   "group": "solid color top",
+   "type": "All products",
+   "week": 5,
+   "products": 351,
+   "demand_pct_of_peak": 61.03413166367567,
+   "pct_on_markdown": 10.256410256410255
+  },
+  {
+   "group": "solid color top",
+   "type": "All products",
+   "week": 6,
+   "products": 351,
+   "demand_pct_of_peak": 56.897999681041675,
+   "pct_on_markdown": 15.384615384615385
+  },
+  {
+   "group": "solid color top",
+   "type": "All products",
+   "week": 7,
+   "products": 351,
+   "demand_pct_of_peak": 53.71838744664926,
+   "pct_on_markdown": 19.08831908831909
+  },
+  {
+   "group": "solid color top",
+   "type": "All products",
+   "week": 8,
+   "products": 351,
+   "demand_pct_of_peak": 47.48127697261655,
+   "pct_on_markdown": 27.92022792022792
+  },
+  {
+   "group": "solid color top",
+   "type": "All products",
+   "week": 9,
+   "products": 351,
+   "demand_pct_of_peak": 40.60742739968288,
+   "pct_on_markdown": 33.903133903133906
+  },
+  {
+   "group": "solid color top",
+   "type": "All products",
+   "week": 10,
+   "products": 351,
+   "demand_pct_of_peak": 31.652756493111372,
+   "pct_on_markdown": 35.8974358974359
+  },
+  {
+   "group": "solid color top",
+   "type": "All products",
+   "week": 11,
+   "products": 351,
+   "demand_pct_of_peak": 27.358856157677263,
+   "pct_on_markdown": 41.88034188034188
+  },
+  {
+   "group": "solid color top",
+   "type": "All products",
+   "week": 12,
+   "products": 351,
+   "demand_pct_of_peak": 21.67191421877398,
+   "pct_on_markdown": 45.86894586894587
+  },
+  {
+   "group": "solid color top",
+   "type": "Short-lived",
+   "week": 1,
+   "products": 5,
+   "demand_pct_of_peak": 75.02164502164503,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "solid color top",
+   "type": "Short-lived",
+   "week": 2,
+   "products": 5,
+   "demand_pct_of_peak": 77.58730158730158,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "solid color top",
+   "type": "Short-lived",
+   "week": 3,
+   "products": 5,
+   "demand_pct_of_peak": 59.68831168831168,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "solid color top",
+   "type": "Short-lived",
+   "week": 4,
+   "products": 5,
+   "demand_pct_of_peak": 76.93362193362194,
+   "pct_on_markdown": 20.0
+  },
+  {
+   "group": "solid color top",
+   "type": "Short-lived",
+   "week": 5,
+   "products": 5,
+   "demand_pct_of_peak": 73.2929292929293,
+   "pct_on_markdown": 20.0
+  },
+  {
+   "group": "solid color top",
+   "type": "Short-lived",
+   "week": 6,
+   "products": 5,
+   "demand_pct_of_peak": 70.56709956709956,
+   "pct_on_markdown": 20.0
+  },
+  {
+   "group": "solid color top",
+   "type": "Short-lived",
+   "week": 7,
+   "products": 5,
+   "demand_pct_of_peak": 33.38961038961039,
+   "pct_on_markdown": 20.0
+  },
+  {
+   "group": "solid color top",
+   "type": "Short-lived",
+   "week": 8,
+   "products": 5,
+   "demand_pct_of_peak": 13.595959595959597,
+   "pct_on_markdown": 20.0
+  },
+  {
+   "group": "solid color top",
+   "type": "Short-lived",
+   "week": 9,
+   "products": 5,
+   "demand_pct_of_peak": 7.222222222222221,
+   "pct_on_markdown": 20.0
+  },
+  {
+   "group": "solid color top",
+   "type": "Short-lived",
+   "week": 10,
+   "products": 5,
+   "demand_pct_of_peak": 5.958152958152958,
+   "pct_on_markdown": 40.0
+  },
+  {
+   "group": "solid color top",
+   "type": "Short-lived",
+   "week": 11,
+   "products": 5,
+   "demand_pct_of_peak": 6.545454545454546,
+   "pct_on_markdown": 40.0
+  },
+  {
+   "group": "solid color top",
+   "type": "Short-lived",
+   "week": 12,
+   "products": 5,
+   "demand_pct_of_peak": 2.7373737373737375,
+   "pct_on_markdown": 40.0
+  },
+  {
+   "group": "solid color top",
+   "type": "Other",
+   "week": 1,
+   "products": 346,
+   "demand_pct_of_peak": 90.0973139723705,
+   "pct_on_markdown": 0.5780346820809248
+  },
+  {
+   "group": "solid color top",
+   "type": "Other",
+   "week": 2,
+   "products": 346,
+   "demand_pct_of_peak": 67.84236515303931,
+   "pct_on_markdown": 0.5780346820809248
+  },
+  {
+   "group": "solid color top",
+   "type": "Other",
+   "week": 3,
+   "products": 346,
+   "demand_pct_of_peak": 63.17894688282105,
+   "pct_on_markdown": 1.4450867052023122
+  },
+  {
+   "group": "solid color top",
+   "type": "Other",
+   "week": 4,
+   "products": 346,
+   "demand_pct_of_peak": 60.216133910322824,
+   "pct_on_markdown": 4.913294797687861
+  },
+  {
+   "group": "solid color top",
+   "type": "Other",
+   "week": 5,
+   "products": 346,
+   "demand_pct_of_peak": 60.856981408917676,
+   "pct_on_markdown": 10.115606936416185
+  },
+  {
+   "group": "solid color top",
+   "type": "Other",
+   "week": 6,
+   "products": 346,
+   "demand_pct_of_peak": 56.70046933586743,
+   "pct_on_markdown": 15.31791907514451
+  },
+  {
+   "group": "solid color top",
+   "type": "Other",
+   "week": 7,
+   "products": 346,
+   "demand_pct_of_peak": 54.01215590123075,
+   "pct_on_markdown": 19.07514450867052
+  },
+  {
+   "group": "solid color top",
+   "type": "Other",
+   "week": 8,
+   "products": 346,
+   "demand_pct_of_peak": 47.97094918904222,
+   "pct_on_markdown": 28.034682080924856
+  },
+  {
+   "group": "solid color top",
+   "type": "Other",
+   "week": 9,
+   "products": 346,
+   "demand_pct_of_peak": 41.089872561206874,
+   "pct_on_markdown": 34.104046242774565
+  },
+  {
+   "group": "solid color top",
+   "type": "Other",
+   "week": 10,
+   "products": 346,
+   "demand_pct_of_peak": 32.024065792749504,
+   "pct_on_markdown": 35.83815028901734
+  },
+  {
+   "group": "solid color top",
+   "type": "Other",
+   "week": 11,
+   "products": 346,
+   "demand_pct_of_peak": 27.659627857275858,
+   "pct_on_markdown": 41.90751445086705
+  },
+  {
+   "group": "solid color top",
+   "type": "Other",
+   "week": 12,
+   "products": 346,
+   "demand_pct_of_peak": 21.945534745961844,
+   "pct_on_markdown": 45.95375722543353
+  },
+  {
+   "group": "doll dress",
+   "type": "All products",
+   "week": 1,
+   "products": 277,
+   "demand_pct_of_peak": 88.69347694373064,
+   "pct_on_markdown": 0.7220216606498195
+  },
+  {
+   "group": "doll dress",
+   "type": "All products",
+   "week": 2,
+   "products": 277,
+   "demand_pct_of_peak": 74.87811168291277,
+   "pct_on_markdown": 0.36101083032490977
+  },
+  {
+   "group": "doll dress",
+   "type": "All products",
+   "week": 3,
+   "products": 277,
+   "demand_pct_of_peak": 69.04586614206201,
+   "pct_on_markdown": 2.166064981949458
+  },
+  {
+   "group": "doll dress",
+   "type": "All products",
+   "week": 4,
+   "products": 277,
+   "demand_pct_of_peak": 66.05356273906601,
+   "pct_on_markdown": 2.888086642599278
+  },
+  {
+   "group": "doll dress",
+   "type": "All products",
+   "week": 5,
+   "products": 277,
+   "demand_pct_of_peak": 59.24281012673293,
+   "pct_on_markdown": 4.693140794223827
+  },
+  {
+   "group": "doll dress",
+   "type": "All products",
+   "week": 6,
+   "products": 277,
+   "demand_pct_of_peak": 54.93224040213652,
+   "pct_on_markdown": 7.9422382671480145
+  },
+  {
+   "group": "doll dress",
+   "type": "All products",
+   "week": 7,
+   "products": 277,
+   "demand_pct_of_peak": 48.96957442956501,
+   "pct_on_markdown": 13.718411552346572
+  },
+  {
+   "group": "doll dress",
+   "type": "All products",
+   "week": 8,
+   "products": 277,
+   "demand_pct_of_peak": 42.69248161014459,
+   "pct_on_markdown": 20.577617328519857
+  },
+  {
+   "group": "doll dress",
+   "type": "All products",
+   "week": 9,
+   "products": 277,
+   "demand_pct_of_peak": 37.80077917920904,
+   "pct_on_markdown": 25.992779783393498
+  },
+  {
+   "group": "doll dress",
+   "type": "All products",
+   "week": 10,
+   "products": 277,
+   "demand_pct_of_peak": 31.47157523329462,
+   "pct_on_markdown": 33.2129963898917
+  },
+  {
+   "group": "doll dress",
+   "type": "All products",
+   "week": 11,
+   "products": 277,
+   "demand_pct_of_peak": 25.825238527983817,
+   "pct_on_markdown": 41.51624548736462
+  },
+  {
+   "group": "doll dress",
+   "type": "All products",
+   "week": 12,
+   "products": 277,
+   "demand_pct_of_peak": 22.42801595498766,
+   "pct_on_markdown": 46.931407942238266
+  },
+  {
+   "group": "doll dress",
+   "type": "Short-lived",
+   "week": 1,
+   "products": 13,
+   "demand_pct_of_peak": 74.14430503974336,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "doll dress",
+   "type": "Short-lived",
+   "week": 2,
+   "products": 13,
+   "demand_pct_of_peak": 73.97958687905566,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "doll dress",
+   "type": "Short-lived",
+   "week": 3,
+   "products": 13,
+   "demand_pct_of_peak": 73.40998402805201,
+   "pct_on_markdown": 7.6923076923076925
+  },
+  {
+   "group": "doll dress",
+   "type": "Short-lived",
+   "week": 4,
+   "products": 13,
+   "demand_pct_of_peak": 69.16096409934052,
+   "pct_on_markdown": 7.6923076923076925
+  },
+  {
+   "group": "doll dress",
+   "type": "Short-lived",
+   "week": 5,
+   "products": 13,
+   "demand_pct_of_peak": 47.480544776924866,
+   "pct_on_markdown": 7.6923076923076925
+  },
+  {
+   "group": "doll dress",
+   "type": "Short-lived",
+   "week": 6,
+   "products": 13,
+   "demand_pct_of_peak": 40.618910274465854,
+   "pct_on_markdown": 23.076923076923077
+  },
+  {
+   "group": "doll dress",
+   "type": "Short-lived",
+   "week": 7,
+   "products": 13,
+   "demand_pct_of_peak": 26.127215995534797,
+   "pct_on_markdown": 23.076923076923077
+  },
+  {
+   "group": "doll dress",
+   "type": "Short-lived",
+   "week": 8,
+   "products": 13,
+   "demand_pct_of_peak": 11.89414414041589,
+   "pct_on_markdown": 23.076923076923077
+  },
+  {
+   "group": "doll dress",
+   "type": "Short-lived",
+   "week": 9,
+   "products": 13,
+   "demand_pct_of_peak": 7.807611991251267,
+   "pct_on_markdown": 30.76923076923077
+  },
+  {
+   "group": "doll dress",
+   "type": "Short-lived",
+   "week": 10,
+   "products": 13,
+   "demand_pct_of_peak": 7.167447317962511,
+   "pct_on_markdown": 38.46153846153847
+  },
+  {
+   "group": "doll dress",
+   "type": "Short-lived",
+   "week": 11,
+   "products": 13,
+   "demand_pct_of_peak": 8.251202007058561,
+   "pct_on_markdown": 53.84615384615385
+  },
+  {
+   "group": "doll dress",
+   "type": "Short-lived",
+   "week": 12,
+   "products": 13,
+   "demand_pct_of_peak": 7.1970267944485755,
+   "pct_on_markdown": 61.53846153846154
+  },
+  {
+   "group": "doll dress",
+   "type": "Other",
+   "week": 1,
+   "products": 264,
+   "demand_pct_of_peak": 89.40991343900274,
+   "pct_on_markdown": 0.7575757575757576
+  },
+  {
+   "group": "doll dress",
+   "type": "Other",
+   "week": 2,
+   "products": 264,
+   "demand_pct_of_peak": 74.92235722249666,
+   "pct_on_markdown": 0.3787878787878788
+  },
+  {
+   "group": "doll dress",
+   "type": "Other",
+   "week": 3,
+   "products": 264,
+   "demand_pct_of_peak": 68.83096639767614,
+   "pct_on_markdown": 1.893939393939394
+  },
+  {
+   "group": "doll dress",
+   "type": "Other",
+   "week": 4,
+   "products": 264,
+   "demand_pct_of_peak": 65.9005467629919,
+   "pct_on_markdown": 2.6515151515151514
+  },
+  {
+   "group": "doll dress",
+   "type": "Other",
+   "week": 5,
+   "products": 264,
+   "demand_pct_of_peak": 59.82201258714013,
+   "pct_on_markdown": 4.545454545454546
+  },
+  {
+   "group": "doll dress",
+   "type": "Other",
+   "week": 6,
+   "products": 264,
+   "demand_pct_of_peak": 55.63706347660515,
+   "pct_on_markdown": 7.196969696969697
+  },
+  {
+   "group": "doll dress",
+   "type": "Other",
+   "week": 7,
+   "products": 264,
+   "demand_pct_of_peak": 50.09438753427106,
+   "pct_on_markdown": 13.257575757575758
+  },
+  {
+   "group": "doll dress",
+   "type": "Other",
+   "week": 8,
+   "products": 264,
+   "demand_pct_of_peak": 44.209066409790324,
+   "pct_on_markdown": 20.454545454545457
+  },
+  {
+   "group": "doll dress",
+   "type": "Other",
+   "week": 9,
+   "products": 264,
+   "demand_pct_of_peak": 39.277715442252415,
+   "pct_on_markdown": 25.757575757575758
+  },
+  {
+   "group": "doll dress",
+   "type": "Other",
+   "week": 10,
+   "products": 264,
+   "demand_pct_of_peak": 32.66836941094355,
+   "pct_on_markdown": 32.95454545454545
+  },
+  {
+   "group": "doll dress",
+   "type": "Other",
+   "week": 11,
+   "products": 264,
+   "demand_pct_of_peak": 26.690626689999075,
+   "pct_on_markdown": 40.909090909090914
+  },
+  {
+   "group": "doll dress",
+   "type": "Other",
+   "week": 12,
+   "products": 264,
+   "demand_pct_of_peak": 23.17802678486269,
+   "pct_on_markdown": 46.21212121212121
+  },
+  {
+   "group": "short sleeves",
+   "type": "All products",
+   "week": 1,
+   "products": 268,
+   "demand_pct_of_peak": 88.7579600982765,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "short sleeves",
+   "type": "All products",
+   "week": 2,
+   "products": 268,
+   "demand_pct_of_peak": 67.72181409250008,
+   "pct_on_markdown": 1.1194029850746268
+  },
+  {
+   "group": "short sleeves",
+   "type": "All products",
+   "week": 3,
+   "products": 268,
+   "demand_pct_of_peak": 62.22831322959577,
+   "pct_on_markdown": 1.8656716417910446
+  },
+  {
+   "group": "short sleeves",
+   "type": "All products",
+   "week": 4,
+   "products": 268,
+   "demand_pct_of_peak": 61.9670110695384,
+   "pct_on_markdown": 4.850746268656716
+  },
+  {
+   "group": "short sleeves",
+   "type": "All products",
+   "week": 5,
+   "products": 268,
+   "demand_pct_of_peak": 58.10129647376018,
+   "pct_on_markdown": 12.313432835820896
+  },
+  {
+   "group": "short sleeves",
+   "type": "All products",
+   "week": 6,
+   "products": 268,
+   "demand_pct_of_peak": 56.871487786636955,
+   "pct_on_markdown": 17.537313432835823
+  },
+  {
+   "group": "short sleeves",
+   "type": "All products",
+   "week": 7,
+   "products": 268,
+   "demand_pct_of_peak": 53.46375298818238,
+   "pct_on_markdown": 23.88059701492537
+  },
+  {
+   "group": "short sleeves",
+   "type": "All products",
+   "week": 8,
+   "products": 268,
+   "demand_pct_of_peak": 46.44172977434102,
+   "pct_on_markdown": 31.343283582089555
+  },
+  {
+   "group": "short sleeves",
+   "type": "All products",
+   "week": 9,
+   "products": 268,
+   "demand_pct_of_peak": 42.98094931604972,
+   "pct_on_markdown": 35.82089552238806
+  },
+  {
+   "group": "short sleeves",
+   "type": "All products",
+   "week": 10,
+   "products": 268,
+   "demand_pct_of_peak": 36.91500640372431,
+   "pct_on_markdown": 45.52238805970149
+  },
+  {
+   "group": "short sleeves",
+   "type": "All products",
+   "week": 11,
+   "products": 268,
+   "demand_pct_of_peak": 32.612305019527746,
+   "pct_on_markdown": 54.1044776119403
+  },
+  {
+   "group": "short sleeves",
+   "type": "All products",
+   "week": 12,
+   "products": 268,
+   "demand_pct_of_peak": 28.108554393703926,
+   "pct_on_markdown": 60.447761194029844
+  },
+  {
+   "group": "short sleeves",
+   "type": "Short-lived",
+   "week": 1,
+   "products": 5,
+   "demand_pct_of_peak": 69.95098039215686,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "short sleeves",
+   "type": "Short-lived",
+   "week": 2,
+   "products": 5,
+   "demand_pct_of_peak": 80.58823529411765,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "short sleeves",
+   "type": "Short-lived",
+   "week": 3,
+   "products": 5,
+   "demand_pct_of_peak": 79.31372549019609,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "short sleeves",
+   "type": "Short-lived",
+   "week": 4,
+   "products": 5,
+   "demand_pct_of_peak": 44.444444444444436,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "short sleeves",
+   "type": "Short-lived",
+   "week": 5,
+   "products": 5,
+   "demand_pct_of_peak": 52.38562091503268,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "short sleeves",
+   "type": "Short-lived",
+   "week": 6,
+   "products": 5,
+   "demand_pct_of_peak": 26.65032679738562,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "short sleeves",
+   "type": "Short-lived",
+   "week": 7,
+   "products": 5,
+   "demand_pct_of_peak": 29.003267973856207,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "short sleeves",
+   "type": "Short-lived",
+   "week": 8,
+   "products": 5,
+   "demand_pct_of_peak": 15.604575163398692,
+   "pct_on_markdown": 20.0
+  },
+  {
+   "group": "short sleeves",
+   "type": "Short-lived",
+   "week": 9,
+   "products": 5,
+   "demand_pct_of_peak": 5.751633986928105,
+   "pct_on_markdown": 20.0
+  },
+  {
+   "group": "short sleeves",
+   "type": "Short-lived",
+   "week": 10,
+   "products": 5,
+   "demand_pct_of_peak": 3.6111111111111107,
+   "pct_on_markdown": 40.0
+  },
+  {
+   "group": "short sleeves",
+   "type": "Short-lived",
+   "week": 11,
+   "products": 5,
+   "demand_pct_of_peak": 4.166666666666666,
+   "pct_on_markdown": 40.0
+  },
+  {
+   "group": "short sleeves",
+   "type": "Short-lived",
+   "week": 12,
+   "products": 5,
+   "demand_pct_of_peak": 0.0,
+   "pct_on_markdown": 40.0
+  },
+  {
+   "group": "short sleeves",
+   "type": "Other",
+   "week": 1,
+   "products": 263,
+   "demand_pct_of_peak": 89.1155072409784,
+   "pct_on_markdown": 0.0
+  },
+  {
+   "group": "short sleeves",
+   "type": "Other",
+   "week": 2,
+   "products": 263,
+   "demand_pct_of_peak": 67.4772053244085,
+   "pct_on_markdown": 1.1406844106463878
+  },
+  {
+   "group": "short sleeves",
+   "type": "Other",
+   "week": 3,
+   "products": 263,
+   "demand_pct_of_peak": 61.90349550601021,
+   "pct_on_markdown": 1.9011406844106464
+  },
+  {
+   "group": "short sleeves",
+   "type": "Other",
+   "week": 4,
+   "products": 263,
+   "demand_pct_of_peak": 62.30013971260102,
+   "pct_on_markdown": 4.942965779467681
+  },
+  {
+   "group": "short sleeves",
+   "type": "Other",
+   "week": 5,
+   "products": 263,
+   "demand_pct_of_peak": 58.20995950719606,
+   "pct_on_markdown": 12.547528517110266
+  },
+  {
+   "group": "short sleeves",
+   "type": "Other",
+   "week": 6,
+   "products": 263,
+   "demand_pct_of_peak": 57.446034573504846,
+   "pct_on_markdown": 17.870722433460077
+  },
+  {
+   "group": "short sleeves",
+   "type": "Other",
+   "week": 7,
+   "products": 263,
+   "demand_pct_of_peak": 53.928781220393915,
+   "pct_on_markdown": 24.334600760456272
+  },
+  {
+   "group": "short sleeves",
+   "type": "Other",
+   "week": 8,
+   "products": 263,
+   "demand_pct_of_peak": 47.02798746656427,
+   "pct_on_markdown": 31.55893536121673
+  },
+  {
+   "group": "short sleeves",
+   "type": "Other",
+   "week": 9,
+   "products": 263,
+   "demand_pct_of_peak": 43.688730976299176,
+   "pct_on_markdown": 36.12167300380228
+  },
+  {
+   "group": "short sleeves",
+   "type": "Other",
+   "week": 10,
+   "products": 263,
+   "demand_pct_of_peak": 37.54816030662571,
+   "pct_on_markdown": 45.627376425855516
+  },
+  {
+   "group": "short sleeves",
+   "type": "Other",
+   "week": 11,
+   "products": 263,
+   "demand_pct_of_peak": 33.15309662319431,
+   "pct_on_markdown": 54.372623574144484
+  },
+  {
+   "group": "short sleeves",
+   "type": "Other",
+   "week": 12,
+   "products": 263,
+   "demand_pct_of_peak": 28.64293755708233,
+   "pct_on_markdown": 60.836501901140686
+  }
+ ],
+ "groups": [
+  {
+   "group": "All products",
+   "products": 4687,
+   "short_lived_share": 0.03755067207168765
+  },
+  {
+   "group": "long sleeve",
+   "products": 1031,
+   "short_lived_share": 0.05916585838991271
+  },
+  {
+   "group": "culottes",
+   "products": 843,
+   "short_lived_share": 0.018979833926453145
+  },
+  {
+   "group": "sleeveless",
+   "products": 392,
+   "short_lived_share": 0.025510204081632654
+  },
+  {
+   "group": "solid color top",
+   "products": 351,
+   "short_lived_share": 0.014245014245014245
+  },
+  {
+   "group": "doll dress",
+   "products": 277,
+   "short_lived_share": 0.04693140794223827
+  },
+  {
+   "group": "short sleeves",
+   "products": 268,
+   "short_lived_share": 0.018656716417910446
+  }
+ ],
+ "by_freq": [
+  {
+   "freq_band": "Once a year or less",
+   "customers": 470297,
+   "units": 1144557,
+   "short_lived_share": 0.0379306909766473,
+   "markdown_share": 0.2331119626968378,
+   "high_leftover_share": 0.1961369929823872,
+   "spend_per_customer": 0.1997566725232715,
+   "share_of_customers": 0.7149402641784215,
+   "share_of_units": 0.3633182109064314
+  },
+  {
+   "freq_band": "2-4 times a year",
+   "customers": 165306,
+   "units": 1350189,
+   "short_lived_share": 0.0405317889996841,
+   "markdown_share": 0.272218109359213,
+   "high_leftover_share": 0.1718328865322764,
+   "spend_per_customer": 0.6524969322833265,
+   "share_of_customers": 0.251296341057413,
+   "share_of_units": 0.4285922429949261
+  },
+  {
+   "freq_band": "5-11 times a year",
+   "customers": 20651,
+   "units": 530048,
+   "short_lived_share": 0.0413891647592881,
+   "markdown_share": 0.3032830000802712,
+   "high_leftover_share": 0.1653841115714403,
+   "spend_per_customer": 2.0035602435787134,
+   "share_of_customers": 0.0313934203185403,
+   "share_of_units": 0.168253823142519
+  },
+  {
+   "freq_band": "Monthly or more",
+   "customers": 1559,
+   "units": 125494,
+   "short_lived_share": 0.0420183145902923,
+   "markdown_share": 0.3648621767802938,
+   "high_leftover_share": 0.162447297405028,
+   "spend_per_customer": 6.271043935647263,
+   "share_of_customers": 0.0023699744456251,
+   "share_of_units": 0.0398357229561233
+  }
+ ],
+ "vis_category_season": [
+  {
+   "season": "AW17",
+   "category": "culottes",
+   "delivered": 67068.0,
+   "sold": 45120.0,
+   "leftover": 22078.0
+  },
+  {
+   "season": "AW17",
+   "category": "doll dress",
+   "delivered": 28241.0,
+   "sold": 18836.0,
+   "leftover": 9475.0
+  },
+  {
+   "season": "AW17",
+   "category": "drop sleeve",
+   "delivered": 9769.0,
+   "sold": 6285.0,
+   "leftover": 3497.0
+  },
+  {
+   "season": "AW17",
+   "category": "gitana skirt",
+   "delivered": 24.0,
+   "sold": 20.0,
+   "leftover": 4.0
+  },
+  {
+   "season": "AW17",
+   "category": "jumpsuit",
+   "delivered": 689.0,
+   "sold": 452.0,
+   "leftover": 245.0
+  },
+  {
+   "season": "AW17",
+   "category": "kimono dress",
+   "delivered": 15670.0,
+   "sold": 11808.0,
+   "leftover": 3875.0
+  },
+  {
+   "season": "AW17",
+   "category": "long cardigan",
+   "delivered": 1024.0,
+   "sold": 533.0,
+   "leftover": 491.0
+  },
+  {
+   "season": "AW17",
+   "category": "long coat",
+   "delivered": 19328.0,
+   "sold": 13775.0,
+   "leftover": 5625.0
+  },
+  {
+   "season": "AW17",
+   "category": "long dress",
+   "delivered": 12649.0,
+   "sold": 9406.0,
+   "leftover": 3312.0
+  },
+  {
+   "season": "AW17",
+   "category": "long duster",
+   "delivered": 302.0,
+   "sold": 259.0,
+   "leftover": 43.0
+  },
+  {
+   "season": "AW17",
+   "category": "long sleeve",
+   "delivered": 58591.0,
+   "sold": 43538.0,
+   "leftover": 15490.0
+  },
+  {
+   "season": "AW17",
+   "category": "maxi",
+   "delivered": 8810.0,
+   "sold": 6076.0,
+   "leftover": 2734.0
+  },
+  {
+   "season": "AW17",
+   "category": "medium cardigan",
+   "delivered": 4452.0,
+   "sold": 3463.0,
+   "leftover": 1004.0
+  },
+  {
+   "season": "AW17",
+   "category": "medium coat",
+   "delivered": 1799.0,
+   "sold": 1306.0,
+   "leftover": 503.0
+  },
+  {
+   "season": "AW17",
+   "category": "miniskirt",
+   "delivered": 977.0,
+   "sold": 778.0,
+   "leftover": 200.0
+  },
+  {
+   "season": "AW17",
+   "category": "patterned top",
+   "delivered": 7010.0,
+   "sold": 4924.0,
+   "leftover": 2090.0
+  },
+  {
+   "season": "AW17",
+   "category": "printed shirt",
+   "delivered": 3612.0,
+   "sold": 2558.0,
+   "leftover": 1070.0
+  },
+  {
+   "season": "AW17",
+   "category": "sheath dress",
+   "delivered": 4884.0,
+   "sold": 3505.0,
+   "leftover": 1383.0
+  },
+  {
+   "season": "AW17",
+   "category": "shirt dress",
+   "delivered": 9089.0,
+   "sold": 6027.0,
+   "leftover": 3066.0
+  },
+  {
+   "season": "AW17",
+   "category": "short cardigan",
+   "delivered": 4648.0,
+   "sold": 2764.0,
+   "leftover": 1887.0
+  },
+  {
+   "season": "AW17",
+   "category": "short coat",
+   "delivered": 5533.0,
+   "sold": 4146.0,
+   "leftover": 1413.0
+  },
+  {
+   "season": "AW17",
+   "category": "short sleeves",
+   "delivered": 6541.0,
+   "sold": 4605.0,
+   "leftover": 1973.0
+  },
+  {
+   "season": "AW17",
+   "category": "sleeveless",
+   "delivered": 28028.0,
+   "sold": 19465.0,
+   "leftover": 8652.0
+  },
+  {
+   "season": "AW17",
+   "category": "solid color top",
+   "delivered": 20351.0,
+   "sold": 14993.0,
+   "leftover": 5411.0
+  },
+  {
+   "season": "AW17",
+   "category": "trapeze dress",
+   "delivered": 28743.0,
+   "sold": 19770.0,
+   "leftover": 8991.0
+  },
+  {
+   "season": "AW18",
+   "category": "culottes",
+   "delivered": 69985.0,
+   "sold": 45845.0,
+   "leftover": 24210.0
+  },
+  {
+   "season": "AW18",
+   "category": "doll dress",
+   "delivered": 36984.0,
+   "sold": 23070.0,
+   "leftover": 13947.0
+  },
+  {
+   "season": "AW18",
+   "category": "drop sleeve",
+   "delivered": 13348.0,
+   "sold": 8205.0,
+   "leftover": 5154.0
+  },
+  {
+   "season": "AW18",
+   "category": "gitana skirt",
+   "delivered": 2609.0,
+   "sold": 1763.0,
+   "leftover": 846.0
+  },
+  {
+   "season": "AW18",
+   "category": "jumpsuit",
+   "delivered": 6131.0,
+   "sold": 4338.0,
+   "leftover": 1825.0
+  },
+  {
+   "season": "AW18",
+   "category": "kimono dress",
+   "delivered": 32991.0,
+   "sold": 22585.0,
+   "leftover": 10430.0
+  },
+  {
+   "season": "AW18",
+   "category": "long cardigan",
+   "delivered": 396.0,
+   "sold": 276.0,
+   "leftover": 120.0
+  },
+  {
+   "season": "AW18",
+   "category": "long coat",
+   "delivered": 15487.0,
+   "sold": 10867.0,
+   "leftover": 4658.0
+  },
+  {
+   "season": "AW18",
+   "category": "long dress",
+   "delivered": 22463.0,
+   "sold": 15500.0,
+   "leftover": 6997.0
+  },
+  {
+   "season": "AW18",
+   "category": "long duster",
+   "delivered": 3480.0,
+   "sold": 2416.0,
+   "leftover": 1067.0
+  },
+  {
+   "season": "AW18",
+   "category": "long sleeve",
+   "delivered": 59762.0,
+   "sold": 42137.0,
+   "leftover": 17733.0
+  },
+  {
+   "season": "AW18",
+   "category": "maxi",
+   "delivered": 8663.0,
+   "sold": 5958.0,
+   "leftover": 2705.0
+  },
+  {
+   "season": "AW18",
+   "category": "medium cardigan",
+   "delivered": 2789.0,
+   "sold": 2076.0,
+   "leftover": 736.0
+  },
+  {
+   "season": "AW18",
+   "category": "medium coat",
+   "delivered": 7525.0,
+   "sold": 5150.0,
+   "leftover": 2397.0
+  },
+  {
+   "season": "AW18",
+   "category": "miniskirt",
+   "delivered": 5624.0,
+   "sold": 3654.0,
+   "leftover": 1970.0
+  },
+  {
+   "season": "AW18",
+   "category": "patterned top",
+   "delivered": 8982.0,
+   "sold": 5880.0,
+   "leftover": 3126.0
+  },
+  {
+   "season": "AW18",
+   "category": "printed shirt",
+   "delivered": 806.0,
+   "sold": 544.0,
+   "leftover": 262.0
+  },
+  {
+   "season": "AW18",
+   "category": "sheath dress",
+   "delivered": 3997.0,
+   "sold": 2914.0,
+   "leftover": 1100.0
+  },
+  {
+   "season": "AW18",
+   "category": "shirt dress",
+   "delivered": 12.0,
+   "sold": 9.0,
+   "leftover": 3.0
+  },
+  {
+   "season": "AW18",
+   "category": "short cardigan",
+   "delivered": 8066.0,
+   "sold": 5408.0,
+   "leftover": 2673.0
+  },
+  {
+   "season": "AW18",
+   "category": "short coat",
+   "delivered": 1022.0,
+   "sold": 770.0,
+   "leftover": 262.0
+  },
+  {
+   "season": "AW18",
+   "category": "short sleeves",
+   "delivered": 21675.0,
+   "sold": 13673.0,
+   "leftover": 8013.0
+  },
+  {
+   "season": "AW18",
+   "category": "shorts",
+   "delivered": 650.0,
+   "sold": 540.0,
+   "leftover": 111.0
+  },
+  {
+   "season": "AW18",
+   "category": "sleeveless",
+   "delivered": 15866.0,
+   "sold": 10824.0,
+   "leftover": 5059.0
+  },
+  {
+   "season": "AW18",
+   "category": "solid color top",
+   "delivered": 26294.0,
+   "sold": 17927.0,
+   "leftover": 8390.0
+  },
+  {
+   "season": "AW18",
+   "category": "trapeze dress",
+   "delivered": 15549.0,
+   "sold": 10969.0,
+   "leftover": 4585.0
+  },
+  {
+   "season": "AW19",
+   "category": "culottes",
+   "delivered": 74359.0,
+   "sold": 48594.0,
+   "leftover": 25889.0
+  },
+  {
+   "season": "AW19",
+   "category": "doll dress",
+   "delivered": 60164.0,
+   "sold": 39902.0,
+   "leftover": 20388.0
+  },
+  {
+   "season": "AW19",
+   "category": "drop sleeve",
+   "delivered": 11743.0,
+   "sold": 6970.0,
+   "leftover": 4779.0
+  },
+  {
+   "season": "AW19",
+   "category": "gitana skirt",
+   "delivered": 4528.0,
+   "sold": 2762.0,
+   "leftover": 1772.0
+  },
+  {
+   "season": "AW19",
+   "category": "jumpsuit",
+   "delivered": 4325.0,
+   "sold": 2635.0,
+   "leftover": 1692.0
+  },
+  {
+   "season": "AW19",
+   "category": "kimono dress",
+   "delivered": 34114.0,
+   "sold": 26922.0,
+   "leftover": 7242.0
+  },
+  {
+   "season": "AW19",
+   "category": "long cardigan",
+   "delivered": 2275.0,
+   "sold": 1561.0,
+   "leftover": 725.0
+  },
+  {
+   "season": "AW19",
+   "category": "long coat",
+   "delivered": 10700.0,
+   "sold": 7624.0,
+   "leftover": 3116.0
+  },
+  {
+   "season": "AW19",
+   "category": "long dress",
+   "delivered": 37004.0,
+   "sold": 25383.0,
+   "leftover": 11668.0
+  },
+  {
+   "season": "AW19",
+   "category": "long duster",
+   "delivered": 1778.0,
+   "sold": 1424.0,
+   "leftover": 369.0
+  },
+  {
+   "season": "AW19",
+   "category": "long sleeve",
+   "delivered": 93478.0,
+   "sold": 70721.0,
+   "leftover": 23138.0
+  },
+  {
+   "season": "AW19",
+   "category": "maxi",
+   "delivered": 8773.0,
+   "sold": 6707.0,
+   "leftover": 2075.0
+  },
+  {
+   "season": "AW19",
+   "category": "medium cardigan",
+   "delivered": 2355.0,
+   "sold": 1825.0,
+   "leftover": 532.0
+  },
+  {
+   "season": "AW19",
+   "category": "medium coat",
+   "delivered": 24317.0,
+   "sold": 16234.0,
+   "leftover": 8168.0
+  },
+  {
+   "season": "AW19",
+   "category": "miniskirt",
+   "delivered": 3860.0,
+   "sold": 2777.0,
+   "leftover": 1085.0
+  },
+  {
+   "season": "AW19",
+   "category": "patterned top",
+   "delivered": 10653.0,
+   "sold": 7916.0,
+   "leftover": 2743.0
+  },
+  {
+   "season": "AW19",
+   "category": "printed shirt",
+   "delivered": 2800.0,
+   "sold": 1953.0,
+   "leftover": 879.0
+  },
+  {
+   "season": "AW19",
+   "category": "sheath dress",
+   "delivered": 7550.0,
+   "sold": 4658.0,
+   "leftover": 2918.0
+  },
+  {
+   "season": "AW19",
+   "category": "shirt dress",
+   "delivered": 900.0,
+   "sold": 617.0,
+   "leftover": 283.0
+  },
+  {
+   "season": "AW19",
+   "category": "short cardigan",
+   "delivered": 6602.0,
+   "sold": 4501.0,
+   "leftover": 2128.0
+  },
+  {
+   "season": "AW19",
+   "category": "short coat",
+   "delivered": 2309.0,
+   "sold": 1778.0,
+   "leftover": 546.0
+  },
+  {
+   "season": "AW19",
+   "category": "short sleeves",
+   "delivered": 15695.0,
+   "sold": 11002.0,
+   "leftover": 4730.0
+  },
+  {
+   "season": "AW19",
+   "category": "shorts",
+   "delivered": 856.0,
+   "sold": 642.0,
+   "leftover": 214.0
+  },
+  {
+   "season": "AW19",
+   "category": "sleeveless",
+   "delivered": 23457.0,
+   "sold": 16527.0,
+   "leftover": 7013.0
+  },
+  {
+   "season": "AW19",
+   "category": "solid color top",
+   "delivered": 22354.0,
+   "sold": 15885.0,
+   "leftover": 6515.0
+  },
+  {
+   "season": "AW19",
+   "category": "trapeze dress",
+   "delivered": 15567.0,
+   "sold": 10754.0,
+   "leftover": 4872.0
+  },
+  {
+   "season": "SS17",
+   "category": "capris",
+   "delivered": 3678.0,
+   "sold": 2835.0,
+   "leftover": 844.0
+  },
+  {
+   "season": "SS17",
+   "category": "culottes",
+   "delivered": 65730.0,
+   "sold": 44086.0,
+   "leftover": 21768.0
+  },
+  {
+   "season": "SS17",
+   "category": "doll dress",
+   "delivered": 8517.0,
+   "sold": 5601.0,
+   "leftover": 2928.0
+  },
+  {
+   "season": "SS17",
+   "category": "drop sleeve",
+   "delivered": 9475.0,
+   "sold": 7122.0,
+   "leftover": 2363.0
+  },
+  {
+   "season": "SS17",
+   "category": "jumpsuit",
+   "delivered": 6440.0,
+   "sold": 4840.0,
+   "leftover": 1616.0
+  },
+  {
+   "season": "SS17",
+   "category": "kimono dress",
+   "delivered": 8443.0,
+   "sold": 4751.0,
+   "leftover": 3693.0
+  },
+  {
+   "season": "SS17",
+   "category": "long cardigan",
+   "delivered": 44.0,
+   "sold": 26.0,
+   "leftover": 18.0
+  },
+  {
+   "season": "SS17",
+   "category": "long coat",
+   "delivered": 568.0,
+   "sold": 430.0,
+   "leftover": 138.0
+  },
+  {
+   "season": "SS17",
+   "category": "long dress",
+   "delivered": 18198.0,
+   "sold": 14227.0,
+   "leftover": 3989.0
+  },
+  {
+   "season": "SS17",
+   "category": "long sleeve",
+   "delivered": 35512.0,
+   "sold": 21283.0,
+   "leftover": 14342.0
+  },
+  {
+   "season": "SS17",
+   "category": "maxi",
+   "delivered": 286.0,
+   "sold": 180.0,
+   "leftover": 107.0
+  },
+  {
+   "season": "SS17",
+   "category": "medium cardigan",
+   "delivered": 365.0,
+   "sold": 276.0,
+   "leftover": 89.0
+  },
+  {
+   "season": "SS17",
+   "category": "medium coat",
+   "delivered": 1288.0,
+   "sold": 749.0,
+   "leftover": 548.0
+  },
+  {
+   "season": "SS17",
+   "category": "miniskirt",
+   "delivered": 517.0,
+   "sold": 318.0,
+   "leftover": 199.0
+  },
+  {
+   "season": "SS17",
+   "category": "patterned top",
+   "delivered": 23499.0,
+   "sold": 15723.0,
+   "leftover": 7832.0
+  },
+  {
+   "season": "SS17",
+   "category": "printed shirt",
+   "delivered": 13099.0,
+   "sold": 8974.0,
+   "leftover": 4132.0
+  },
+  {
+   "season": "SS17",
+   "category": "sheath dress",
+   "delivered": 7897.0,
+   "sold": 5347.0,
+   "leftover": 2595.0
+  },
+  {
+   "season": "SS17",
+   "category": "shirt dress",
+   "delivered": 2805.0,
+   "sold": 1534.0,
+   "leftover": 1275.0
+  },
+  {
+   "season": "SS17",
+   "category": "short cardigan",
+   "delivered": 114.0,
+   "sold": 100.0,
+   "leftover": 23.0
+  },
+  {
+   "season": "SS17",
+   "category": "short coat",
+   "delivered": 9627.0,
+   "sold": 6176.0,
+   "leftover": 3505.0
+  },
+  {
+   "season": "SS17",
+   "category": "short sleeves",
+   "delivered": 19620.0,
+   "sold": 13640.0,
+   "leftover": 6052.0
+  },
+  {
+   "season": "SS17",
+   "category": "shorts",
+   "delivered": 2896.0,
+   "sold": 2353.0,
+   "leftover": 550.0
+  },
+  {
+   "season": "SS17",
+   "category": "sleeveless",
+   "delivered": 30552.0,
+   "sold": 20732.0,
+   "leftover": 9898.0
+  },
+  {
+   "season": "SS17",
+   "category": "solid color top",
+   "delivered": 16036.0,
+   "sold": 10340.0,
+   "leftover": 5779.0
+  },
+  {
+   "season": "SS17",
+   "category": "trapeze dress",
+   "delivered": 5274.0,
+   "sold": 3403.0,
+   "leftover": 1887.0
+  },
+  {
+   "season": "SS18",
+   "category": "capris",
+   "delivered": 5998.0,
+   "sold": 4497.0,
+   "leftover": 1503.0
+  },
+  {
+   "season": "SS18",
+   "category": "culottes",
+   "delivered": 77543.0,
+   "sold": 52447.0,
+   "leftover": 25185.0
+  },
+  {
+   "season": "SS18",
+   "category": "doll dress",
+   "delivered": 40231.0,
+   "sold": 26448.0,
+   "leftover": 13798.0
+  },
+  {
+   "season": "SS18",
+   "category": "drop sleeve",
+   "delivered": 14338.0,
+   "sold": 9472.0,
+   "leftover": 4886.0
+  },
+  {
+   "season": "SS18",
+   "category": "gitana skirt",
+   "delivered": 5961.0,
+   "sold": 4318.0,
+   "leftover": 1644.0
+  },
+  {
+   "season": "SS18",
+   "category": "jumpsuit",
+   "delivered": 8614.0,
+   "sold": 6117.0,
+   "leftover": 2498.0
+  },
+  {
+   "season": "SS18",
+   "category": "kimono dress",
+   "delivered": 11259.0,
+   "sold": 6842.0,
+   "leftover": 4431.0
+  },
+  {
+   "season": "SS18",
+   "category": "long coat",
+   "delivered": 1004.0,
+   "sold": 592.0,
+   "leftover": 412.0
+  },
+  {
+   "season": "SS18",
+   "category": "long dress",
+   "delivered": 35087.0,
+   "sold": 23652.0,
+   "leftover": 11473.0
+  },
+  {
+   "season": "SS18",
+   "category": "long sleeve",
+   "delivered": 39482.0,
+   "sold": 25858.0,
+   "leftover": 13692.0
+  },
+  {
+   "season": "SS18",
+   "category": "maxi",
+   "delivered": 2653.0,
+   "sold": 1857.0,
+   "leftover": 796.0
+  },
+  {
+   "season": "SS18",
+   "category": "medium cardigan",
+   "delivered": 331.0,
+   "sold": 227.0,
+   "leftover": 106.0
+  },
+  {
+   "season": "SS18",
+   "category": "medium coat",
+   "delivered": 2258.0,
+   "sold": 1293.0,
+   "leftover": 971.0
+  },
+  {
+   "season": "SS18",
+   "category": "miniskirt",
+   "delivered": 306.0,
+   "sold": 215.0,
+   "leftover": 94.0
+  },
+  {
+   "season": "SS18",
+   "category": "patterned top",
+   "delivered": 9556.0,
+   "sold": 6566.0,
+   "leftover": 3010.0
+  },
+  {
+   "season": "SS18",
+   "category": "printed shirt",
+   "delivered": 2319.0,
+   "sold": 1687.0,
+   "leftover": 653.0
+  },
+  {
+   "season": "SS18",
+   "category": "sheath dress",
+   "delivered": 1267.0,
+   "sold": 744.0,
+   "leftover": 523.0
+  },
+  {
+   "season": "SS18",
+   "category": "shirt dress",
+   "delivered": 1172.0,
+   "sold": 769.0,
+   "leftover": 410.0
+  },
+  {
+   "season": "SS18",
+   "category": "short cardigan",
+   "delivered": 1193.0,
+   "sold": 841.0,
+   "leftover": 354.0
+  },
+  {
+   "season": "SS18",
+   "category": "short coat",
+   "delivered": 13146.0,
+   "sold": 8694.0,
+   "leftover": 4503.0
+  },
+  {
+   "season": "SS18",
+   "category": "short sleeves",
+   "delivered": 38520.0,
+   "sold": 26195.0,
+   "leftover": 12369.0
+  },
+  {
+   "season": "SS18",
+   "category": "shorts",
+   "delivered": 479.0,
+   "sold": 403.0,
+   "leftover": 77.0
+  },
+  {
+   "season": "SS18",
+   "category": "sleeveless",
+   "delivered": 32118.0,
+   "sold": 22982.0,
+   "leftover": 9183.0
+  },
+  {
+   "season": "SS18",
+   "category": "solid color top",
+   "delivered": 26906.0,
+   "sold": 17718.0,
+   "leftover": 9238.0
+  },
+  {
+   "season": "SS18",
+   "category": "trapeze dress",
+   "delivered": 10369.0,
+   "sold": 6180.0,
+   "leftover": 4194.0
+  },
+  {
+   "season": "SS19",
+   "category": "capris",
+   "delivered": 5183.0,
+   "sold": 3984.0,
+   "leftover": 1200.0
+  },
+  {
+   "season": "SS19",
+   "category": "culottes",
+   "delivered": 94706.0,
+   "sold": 62779.0,
+   "leftover": 32052.0
+  },
+  {
+   "season": "SS19",
+   "category": "doll dress",
+   "delivered": 43854.0,
+   "sold": 30423.0,
+   "leftover": 13468.0
+  },
+  {
+   "season": "SS19",
+   "category": "drop sleeve",
+   "delivered": 16286.0,
+   "sold": 12029.0,
+   "leftover": 4282.0
+  },
+  {
+   "season": "SS19",
+   "category": "gitana skirt",
+   "delivered": 2344.0,
+   "sold": 1845.0,
+   "leftover": 510.0
+  },
+  {
+   "season": "SS19",
+   "category": "jumpsuit",
+   "delivered": 7875.0,
+   "sold": 6115.0,
+   "leftover": 1769.0
+  },
+  {
+   "season": "SS19",
+   "category": "kimono dress",
+   "delivered": 14886.0,
+   "sold": 9908.0,
+   "leftover": 4982.0
+  },
+  {
+   "season": "SS19",
+   "category": "long cardigan",
+   "delivered": 1702.0,
+   "sold": 1329.0,
+   "leftover": 373.0
+  },
+  {
+   "season": "SS19",
+   "category": "long coat",
+   "delivered": 2895.0,
+   "sold": 1962.0,
+   "leftover": 938.0
+  },
+  {
+   "season": "SS19",
+   "category": "long dress",
+   "delivered": 43689.0,
+   "sold": 31684.0,
+   "leftover": 12060.0
+  },
+  {
+   "season": "SS19",
+   "category": "long sleeve",
+   "delivered": 62888.0,
+   "sold": 44243.0,
+   "leftover": 18779.0
+  },
+  {
+   "season": "SS19",
+   "category": "maxi",
+   "delivered": 3696.0,
+   "sold": 2327.0,
+   "leftover": 1370.0
+  },
+  {
+   "season": "SS19",
+   "category": "medium cardigan",
+   "delivered": 50.0,
+   "sold": 33.0,
+   "leftover": 17.0
+  },
+  {
+   "season": "SS19",
+   "category": "medium coat",
+   "delivered": 1332.0,
+   "sold": 1021.0,
+   "leftover": 314.0
+  },
+  {
+   "season": "SS19",
+   "category": "miniskirt",
+   "delivered": 1590.0,
+   "sold": 1056.0,
+   "leftover": 535.0
+  },
+  {
+   "season": "SS19",
+   "category": "patterned top",
+   "delivered": 11036.0,
+   "sold": 7930.0,
+   "leftover": 3131.0
+  },
+  {
+   "season": "SS19",
+   "category": "printed shirt",
+   "delivered": 27531.0,
+   "sold": 17722.0,
+   "leftover": 9810.0
+  },
+  {
+   "season": "SS19",
+   "category": "sheath dress",
+   "delivered": 3602.0,
+   "sold": 2124.0,
+   "leftover": 1480.0
+  },
+  {
+   "season": "SS19",
+   "category": "short cardigan",
+   "delivered": 216.0,
+   "sold": 128.0,
+   "leftover": 88.0
+  },
+  {
+   "season": "SS19",
+   "category": "short coat",
+   "delivered": 538.0,
+   "sold": 330.0,
+   "leftover": 208.0
+  },
+  {
+   "season": "SS19",
+   "category": "short sleeves",
+   "delivered": 37402.0,
+   "sold": 25291.0,
+   "leftover": 12138.0
+  },
+  {
+   "season": "SS19",
+   "category": "shorts",
+   "delivered": 2812.0,
+   "sold": 2326.0,
+   "leftover": 508.0
+  },
+  {
+   "season": "SS19",
+   "category": "sleeveless",
+   "delivered": 28872.0,
+   "sold": 20778.0,
+   "leftover": 8135.0
+  },
+  {
+   "season": "SS19",
+   "category": "solid color top",
+   "delivered": 17881.0,
+   "sold": 13017.0,
+   "leftover": 4894.0
+  },
+  {
+   "season": "SS19",
+   "category": "trapeze dress",
+   "delivered": 7470.0,
+   "sold": 4517.0,
+   "leftover": 2962.0
+  }
+ ],
+ "relationships": {
+  "deliveries_per_shop": {
+   "rho": -0.5416545256328823,
+   "p": 0.0,
+   "deciles": [
+    {
+     "dec": 1,
+     "x": 9.923076923076923,
+     "sell_through": 0.8466340558147054,
+     "products": 535
+    },
+    {
+     "dec": 2,
+     "x": 11.545454545454545,
+     "sell_through": 0.7840619284339113,
+     "products": 535
+    },
+    {
+     "dec": 3,
+     "x": 12.8,
+     "sell_through": 0.7506950646796083,
+     "products": 534
+    },
+    {
+     "dec": 4,
+     "x": 13.789473684210526,
+     "sell_through": 0.7239885205382791,
+     "products": 535
+    },
+    {
+     "dec": 5,
+     "x": 14.823529411764707,
+     "sell_through": 0.7074760703164451,
+     "products": 534
+    },
+    {
+     "dec": 6,
+     "x": 16.0,
+     "sell_through": 0.6919606701222387,
+     "products": 535
+    },
+    {
+     "dec": 7,
+     "x": 17.5,
+     "sell_through": 0.6724621679267,
+     "products": 534
+    },
+    {
+     "dec": 8,
+     "x": 19.533333333333335,
+     "sell_through": 0.6606007047137815,
+     "products": 535
+    },
+    {
+     "dec": 9,
+     "x": 22.77046783625731,
+     "sell_through": 0.6470522026937819,
+     "products": 534
+    },
+    {
+     "dec": 10,
+     "x": 30.307692307692307,
+     "sell_through": 0.6350372793355393,
+     "products": 535
+    }
+   ]
+  },
+  "early_share": {
+   "rho": 0.511313837416133,
+   "p": 0.0,
+   "deciles": [
+    {
+     "dec": 1,
+     "x": 0.09841269841269841,
+     "sell_through": 0.6233725916832468,
+     "products": 535
+    },
+    {
+     "dec": 2,
+     "x": 0.12432432432432433,
+     "sell_through": 0.6483954027505608,
+     "products": 535
+    },
+    {
+     "dec": 3,
+     "x": 0.14170633942585842,
+     "sell_through": 0.6673390987192207,
+     "products": 534
+    },
+    {
+     "dec": 4,
+     "x": 0.1566265060240964,
+     "sell_through": 0.6844522410287205,
+     "products": 535
+    },
+    {
+     "dec": 5,
+     "x": 0.1724137931034483,
+     "sell_through": 0.7066269035940023,
+     "products": 534
+    },
+    {
+     "dec": 6,
+     "x": 0.1875,
+     "sell_through": 0.7091616495630815,
+     "products": 535
+    },
+    {
+     "dec": 7,
+     "x": 0.203125,
+     "sell_through": 0.736178211093624,
+     "products": 534
+    },
+    {
+     "dec": 8,
+     "x": 0.2222222222222222,
+     "sell_through": 0.7474516862719538,
+     "products": 535
+    },
+    {
+     "dec": 9,
+     "x": 0.2486412642150347,
+     "sell_through": 0.7782013402763315,
+     "products": 534
+    },
+    {
+     "dec": 10,
+     "x": 0.29411764705882354,
+     "sell_through": 0.8189963808055887,
+     "products": 535
+    }
+   ]
+  }
+ },
+ "stats": {
+  "products": 5355,
+  "shops": 110,
+  "lc_products": 4687,
+  "lc_k": 4,
+  "cluster_shares": {
+   "Steady decline": 0.25197354384467674,
+   "Fast fade": 0.26008107531470026,
+   "Mid-season peak": 0.27032216769788775,
+   "Late bloomer": 0.21762321314273522
+  },
+  "peak_first3": 0.6970343503307019,
+  "first_md_week": 8.0,
+  "weeks_peak_to_md": 6.0,
+  "demand_at_md": 0.5333333333333333,
+  "md_after_half": 0.4361904761904762,
+  "sl_md_after_half": 0.5930232558139535,
+  "sl_share": 0.03755067207168765,
+  "customers": 657813,
+  "purchase_lines": 3184162,
+  "top20_units": 0.6074863631515595,
+  "top10_units": 0.4416678729055883,
+  "md_lo": 0.23311196269683782,
+  "md_hi": 0.3648621767802938,
+  "sl_lo": 0.03793069097664731,
+  "sl_hi": 0.04201831459029235,
+  "rho_md": 0.16785031043671256,
+  "one_day": 0.545033314939048,
+  "vis_leftover": 0.3155142797171044,
+  "stockout": 0.01981828107939479,
+  "cat_left_lo": 0.28306039795738686,
+  "cat_left_lo_name": "jumpsuit",
+  "cat_left_hi": 0.34325063582705506,
+  "cat_left_hi_name": "short cardigan",
+  "q5_n": 5346,
+  "dps_rho": -0.5416545256328823,
+  "early_rho": 0.511313837416133,
+  "dps_d1_st": 0.8466340558147054,
+  "dps_d10_st": 0.6350372793355393,
+  "early_d1_st": 0.6233725916832468,
+  "early_d10_st": 0.8189963808055887,
+  "survey_n": 122
+ },
+ "cleaning": [
+  [
+   "VISUELLE 2.0",
+   "Missing values",
+   "sales: 0 empty cells; discounts: 1 empty cell; customer purchases: 0 empty cells",
+   "The one empty discount is read as no discount (vis_forecast.py)"
+  ],
+  [
+   "VISUELLE 2.0",
+   "Outliers",
+   "3,386 negative weekly sales cells (0.3%): returns",
+   "Clipped to 0, since we model demand, not returns (vis_forecast.py)"
+  ],
+  [
+   "VISUELLE 2.0",
+   "Outliers",
+   "16 customer IDs buy in more than 10 shops (57,170 units, up to 69 shops)",
+   "Excluded: shop or generic cards, not real customers (vis_customers.py)"
+  ],
+  [
+   "VISUELLE 2.0",
+   "Inconsistencies",
+   "1.4% of purchase lines are for products not in the sales file; customers bought in 129 shops vs 110 in the sales file",
+   "Kept for frequency and spend; product-based measures (short-lived, markdown) use matched lines only"
+  ],
+  [
+   "VISUELLE 2.0",
+   "Date alignment",
+   "86,784 deliveries (686,883 units) arrive before the product's release date",
+   "Counted as opening stock in week 1 (vis_forecast.py)"
+  ],
+  [
+   "VISUELLE 2.0",
+   "Scope filters",
+   "62,711 units delivered after week 12",
+   "Excluded: the analysis window is each product's first 12 weeks"
+  ],
+  [
+   "Survey",
+   "Inconsistencies",
+   "answer options edited mid-collection: 22 original + 100 edited responses",
+   "Both mapped to common bands; unmapped answers: 0 (survey_analysis.py)"
+  ]
+ ],
+ "n_checks": 18,
+ "overview": [
+  {
+   "dataset": "VISUELLE sales (sales.csv)",
+   "rows": "106,850",
+   "columns": "21",
+   "period": "2017-2019, 6 seasons",
+   "one row is": "one product in one shop, 12 weekly sales",
+   "used_for": "lifecycles, stock, forecasting, simulation"
+  },
+  {
+   "dataset": "VISUELLE prices (price_discount_series.csv)",
+   "rows": "106,850",
+   "columns": "15",
+   "period": "2017-2019",
+   "one row is": "one product in one shop, 12 weekly discounts",
+   "used_for": "markdowns, revenue, financial statement"
+  },
+  {
+   "dataset": "VISUELLE deliveries (restocks.csv)",
+   "rows": "949,766",
+   "columns": "5",
+   "period": "2016-2022",
+   "one row is": "one delivery",
+   "used_for": "stock available, leftover"
+  },
+  {
+   "dataset": "VISUELLE customers (customer_data.csv)",
+   "rows": "3,184,162",
+   "columns": "5",
+   "period": "Dec 2016 - Jun 2021",
+   "one row is": "one purchase line (customer, shop, product, time)",
+   "used_for": "segments, CLTV, trends"
+  },
+  {
+   "dataset": "VISUELLE Google Trends (vis2_gtrends_data.csv)",
+   "rows": "220",
+   "columns": "97",
+   "period": "2015-10 - 2019-12",
+   "one row is": "one week, search interest per term",
+   "used_for": "market-interest test"
+  },
+  {
+   "dataset": "Our survey (Google Form)",
+   "rows": "122",
+   "columns": "-",
+   "period": "2026-09-27 to 2026-10-10",
+   "one row is": "one respondent (29 questions)",
+   "used_for": "use, disposal, conjoint"
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+dataset,check,what_we_found,how_handled
+VISUELLE 2.0,Missing values,sales: 0 empty cells; discounts: 1 empty cell; customer purchases: 0 empty cells,The one empty discount is read as no discount (vis_forecast.py)
+VISUELLE 2.0,Missing values,Google Trends: 0 empty cells in 96 search terms,A product gets no Google Trends feature if its term has under 8 weeks of data before release
+VISUELLE 2.0,Duplicates,"duplicate product-shop rows: sales 0, prices 0, restocks 0",None found
+VISUELLE 2.0,Duplicates,"1 identical customer purchase line (same customer, shop, product, second)",Kept: each line is a separate scan of the same item at the till
+VISUELLE 2.0,Outliers,"3,386 negative weekly sales cells (0.3%): returns","Clipped to 0, since we model demand, not returns (vis_forecast.py)"
+VISUELLE 2.0,Outliers,discounts outside 0-100%: 0,None found
+VISUELLE 2.0,Outliers,"16 customer IDs buy in more than 10 shops (57,170 units, up to 69 shops)","Excluded: shop or generic cards, not real customers (vis_customers.py)"
+VISUELLE 2.0,Inconsistencies,1.4% of purchase lines are for products not in the sales file; customers bought in 129 shops vs 110 in the sales file,"Kept for frequency and spend; product-based measures (short-lived, markdown) use matched lines only"
+VISUELLE 2.0,Date alignment,"86,784 deliveries (686,883 units) arrive before the product's release date",Counted as opening stock in week 1 (vis_forecast.py)
+VISUELLE 2.0,Scope filters,"62,711 units delivered after week 12",Excluded: the analysis window is each product's first 12 weeks
+VISUELLE 2.0,Scope filters,"24,651 purchase lines after February 2020 (the data holds only SS17-AW19 products; COVID closures follow)",Excluded from the customer analysis
+VISUELLE 2.0,Scope filters,668 products sold fewer than 30 units in 12 weeks,"Left out of lifecycle clustering only (unstable curve shape); 4,687 products clustered"
+Survey,Consent,"122 responses, 122 consented",Only consenting responses are analysed
+Survey,Duplicates,0 identical answer rows,None found
+Survey,Missing values,Q9 (unplanned purchases) blank for 17 people,Q9 shares reported for those who answered
+Survey,Inconsistencies,answer options edited mid-collection: 22 original + 100 edited responses,Both mapped to common bands; unmapped answers: 0 (survey_analysis.py)
+Survey,Outliers,1 respondent gave all 8 conjoint options the same rating,Excluded from the conjoint only (no preference information)
+Survey,Privacy,6 free-text comments,Never shown; no names or emails collected

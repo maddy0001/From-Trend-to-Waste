@@ -1,0 +1,45 @@
+{
+  "purchase_lines_raw": 3184162,
+  "purchase_lines_in_window": 3159511,
+  "card_ids_excluded": 16,
+  "units_on_excluded_cards": 57170,
+  "purchase_lines_used": 3103090,
+  "share_lines_matched_to_shop_sales": 0.5037224186214386,
+  "share_lines_with_known_discount": 0.4206600517548637,
+  "share_lines_with_known_product": 0.9861753929148043,
+  "customers": 657813,
+  "k": 4,
+  "silhouette_by_k": {
+    "3": 0.3234635115613899,
+    "4": 0.3123063309160875,
+    "5": 0.27152902570917087,
+    "6": 0.28306273055912795,
+    "7": 0.27884243033406236
+  },
+  "share_units_top10pct_customers": 0.4416678729055883,
+  "share_units_top20pct_customers": 0.6074863631515595,
+  "share_one_purchase_day": 0.545033314939048,
+  "median_purchase_days": 1.0,
+  "markdown_share_all_known_lines": 0.2679611382729177,
+  "short_lived_share_all_known_units": 0.03942334806810529,
+  "spearman_frequency_vs_short_lived_share": {
+    "rho": 0.19373760054880923,
+    "p": 0.0
+  },
+  "spearman_frequency_vs_markdown_share": {
+    "rho": 0.16785031043671256,
+    "p": 0.0
+  },
+  "spearman_frequency_vs_high_leftover_share": {
+    "rho": -0.00792775039282395,
+    "p": 6.873944512117201e-06
+  },
+  "top_cltv_segment": "Frequent, active",
+  "top_cltv_segment_share_customers": 0.15183494397343927,
+  "top_cltv_segment_share_units": 0.49798240668789645,
+  "top_cltv_segment_share_spend": 0.48622900097449423,
+  "markdown_share_lowest_band": 0.23311196269683782,
+  "markdown_share_highest_band": 0.3648621767802938,
+  "short_lived_share_lowest_band": 0.03793069097664731,
+  "short_lived_share_highest_band": 0.04201831459029235
+}

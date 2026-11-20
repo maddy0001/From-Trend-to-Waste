@@ -1,0 +1,33 @@
+{
+ "aspect": 1.7557428524210874,
+ "markers": [
+  {
+   "fx": 0.018072289156626505,
+   "fy": 0.378615104941332,
+   "fw": 0.963855421686747,
+   "fh": 0.08990249545529665,
+   "text": "Assumed unit cost (share of full price)\n\n50%\n\n40%\n\n60%"
+  },
+  {
+   "fx": 0.018072289156626505,
+   "fy": 0.4896711287390514,
+   "fw": 0.18312311746987953,
+   "fh": 0.10047925962650801,
+   "text": "Sell-through\n\n69%"
+  },
+  {
+   "fx": 0.018072289156626505,
+   "fy": 0.6113039167079821,
+   "fw": 0.963855421686747,
+   "fh": 0.3728309370352008,
+   "text": ""
+  }
+ ],
+ "metrics": [
+  "Sell-through\n\n69%",
+  "Markdown cost / full-price sales\n\n10.1%",
+  "Unsold stock / revenue\n\n52%",
+  "Margin on goods sold\n\n44%",
+  "Margin if unsold stock is lost\n\n19%"
+ ]
+}

@@ -1,0 +1,248 @@
+{
+ "block": {
+  "x": 0,
+  "y": 0,
+  "w": 1440,
+  "h": 3168.109375
+ },
+ "panel": {
+  "x": 80,
+  "y": 285.578125,
+  "w": 1280,
+  "h": 2722.53125
+ },
+ "tablist": {
+  "x": 80,
+  "y": 245.578125,
+  "w": 1280,
+  "h": 40
+ },
+ "title": {
+  "x": 80,
+  "y": 96,
+  "w": 1280,
+  "h": 88.796875
+ },
+ "elements": [
+  {
+   "testid": "stHeading",
+   "text": "Data overview, cleaning and exploratory analysis",
+   "x": 80,
+   "y": 301.578125,
+   "w": 1280,
+   "h": 61.59375
+  },
+  {
+   "testid": "stAlert",
+   "text": "Who uses it: analysts, and anyone checking the numbers\nDecision it supports: whether the data can be trusted, and what it looks like before modelling",
+   "x": 80,
+   "y": 363.171875,
+   "w": 1280,
+   "h": 80
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "1 \u00b7 The datasets",
+   "x": 80,
+   "y": 459.171875,
+   "w": 1280,
+   "h": 25.59375
+  },
+  {
+   "testid": "stDataFrame",
+   "text": "",
+   "x": 80,
+   "y": 500.765625,
+   "w": 1280,
+   "h": 247
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "2 \u00b7 Cleaning log: missing values, duplicates, outliers, inconsistencies",
+   "x": 80,
+   "y": 771.359375,
+   "w": 1280,
+   "h": 25.59375
+  },
+  {
+   "testid": "stMultiSelect",
+   "text": "Dataset\n\nVISUELLE 2.0\nSurvey",
+   "x": 80,
+   "y": 812.953125,
+   "w": 632,
+   "h": 68
+  },
+  {
+   "testid": "stMultiSelect",
+   "text": "Type of check\n\nMissing values\nDuplicates\nOutliers\nInconsistencies\nDate alignment\nScope filters\nConsent\nPrivacy",
+   "x": 728,
+   "y": 812.953125,
+   "w": 632,
+   "h": 68
+  },
+  {
+   "testid": "stDataFrame",
+   "text": "",
+   "x": 80,
+   "y": 896.953125,
+   "w": 1280,
+   "h": 400
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "3 \u00b7 Explore the data (pick a dataset, filter it, and choose a variable)",
+   "x": 80,
+   "y": 1320.546875,
+   "w": 1280,
+   "h": 25.59375
+  },
+  {
+   "testid": "stSelectbox",
+   "text": "Dataset to explore",
+   "x": 80,
+   "y": 1362.140625,
+   "w": 1280,
+   "h": 68
+  },
+  {
+   "testid": "stSelectbox",
+   "text": "Filter by",
+   "x": 80,
+   "y": 1446.140625,
+   "w": 416,
+   "h": 68
+  },
+  {
+   "testid": "stSelectbox",
+   "text": "Variable",
+   "x": 944,
+   "y": 1446.140625,
+   "w": 416,
+   "h": 68
+  },
+  {
+   "testid": "stMetric",
+   "text": "Rows\n\n5,355",
+   "x": 80,
+   "y": 1530.140625,
+   "w": 243.1875,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Missing\n\n0.2%",
+   "x": 339.1875,
+   "y": 1530.140625,
+   "w": 243.203125,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Mean\n\n0.72",
+   "x": 598.390625,
+   "y": 1530.140625,
+   "w": 243.203125,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Median\n\n0.72",
+   "x": 857.59375,
+   "y": 1530.140625,
+   "w": 243.203125,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Std. deviation\n\n0.13",
+   "x": 1116.796875,
+   "y": 1530.140625,
+   "w": 243.203125,
+   "h": 76
+  },
+  {
+   "testid": "stCheckbox",
+   "text": "Log scale (for skewed variables)",
+   "x": 80,
+   "y": 1630.140625,
+   "w": 208.15625,
+   "h": 24
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "Distribution of Sell-through",
+   "x": 80,
+   "y": 1670.140625,
+   "w": 632,
+   "h": 25.59375
+  },
+  {
+   "testid": "stVegaLiteChart",
+   "text": "0.333\n0.386\n0.439\n0.492\n0.545\n0.598\n0.651\n0.704\n0.757\n0.81\n0.864\n0.917\n0.97\n1.023\n1.076\n1.129\n1.182\n1.235\n1.288\n1.341\n1.394\n1.447\n1.5\n1.553\n1.606\n1.659\n1.712\n1.",
+   "x": 80,
+   "y": 1711.734375,
+   "w": 632,
+   "h": 350
+  },
+  {
+   "testid": "stSelectbox",
+   "text": "Compare the average by",
+   "x": 728,
+   "y": 1622.140625,
+   "w": 632,
+   "h": 68
+  },
+  {
+   "testid": "stVegaLiteChart",
+   "text": "0.00\n0.05\n0.10\n0.15\n0.20\n0.25\n0.30\n0.35\n0.40\n0.45\n0.50\n0.55\n0.60\n0.65\n0.70\n0.75\n0.80\nmean\nAW17\nAW18\nAW19\nSS17\nSS18\nSS19\nSeason",
+   "x": 728,
+   "y": 1706.140625,
+   "w": 632,
+   "h": 197
+  },
+  {
+   "testid": "stDataFrame",
+   "text": "",
+   "x": 728,
+   "y": 1919.140625,
+   "w": 632,
+   "h": 254.59375
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "Summary statistics (all numeric variables, after the filter)",
+   "x": 80,
+   "y": 2189.734375,
+   "w": 1280,
+   "h": 25.59375
+  },
+  {
+   "testid": "stDataFrame",
+   "text": "",
+   "x": 80,
+   "y": 2231.328125,
+   "w": 1280,
+   "h": 352
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "Correlations (Spearman rank, between numeric variables)",
+   "x": 80,
+   "y": 2606.921875,
+   "w": 1280,
+   "h": 25.59375
+  },
+  {
+   "testid": "stDataFrame",
+   "text": "",
+   "x": 80,
+   "y": 2648.515625,
+   "w": 1280,
+   "h": 352
+  }
+ ],
+ "scale": 2,
+ "width": 1440,
+ "height": 3208.109375,
+ "params": {}
+}

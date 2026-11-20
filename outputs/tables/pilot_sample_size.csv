@@ -1,0 +1,7 @@
+design,effect_as_share_of_simulated,effect_pp,units_per_arm,units_per_arm_ancova
+Randomise shops,0.5,1.4085216711111186,172,168.0
+Randomise shops,0.75,2.112782506666678,77,75.0
+Randomise shops,1.0,2.817043342222237,44,43.0
+Randomise flagged products,0.5,7.027599974277362,28,
+Randomise flagged products,0.75,10.541399961416044,13,
+Randomise flagged products,1.0,14.055199948554725,8,

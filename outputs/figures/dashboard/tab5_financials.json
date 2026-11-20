@@ -1,0 +1,160 @@
+{
+ "block": {
+  "x": 0,
+  "y": 0,
+  "w": 1440,
+  "h": 2017.359375
+ },
+ "panel": {
+  "x": 80,
+  "y": 285.578125,
+  "w": 1280,
+  "h": 1571.78125
+ },
+ "tablist": {
+  "x": 80,
+  "y": 245.578125,
+  "w": 1280,
+  "h": 40
+ },
+ "title": {
+  "x": 80,
+  "y": 96,
+  "w": 1280,
+  "h": 88.796875
+ },
+ "elements": [
+  {
+   "testid": "stHeading",
+   "text": "Financial statements built from the data (Module 4)",
+   "x": 80,
+   "y": 301.578125,
+   "w": 1280,
+   "h": 61.59375
+  },
+  {
+   "testid": "stAlert",
+   "text": "Who uses it: finance and management\nDecision it supports: how much excess stock costs, and what the week-2 rule is worth",
+   "x": 80,
+   "y": 363.171875,
+   "w": 1280,
+   "h": 80
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "Nuna Lie publishes no accounts, so these statements are built from the dataset's deliveries, sales, prices and discounts (each product's first 12 weeks in every",
+   "x": 80,
+   "y": 459.171875,
+   "w": 1280,
+   "h": 44.78125
+  },
+  {
+   "testid": "stSlider",
+   "text": "Assumed unit cost (share of full price)\n\n50%\n\n40%\n\n60%",
+   "x": 80,
+   "y": 519.953125,
+   "w": 1280,
+   "h": 68
+  },
+  {
+   "testid": "stMetric",
+   "text": "Sell-through\n\n69%",
+   "x": 80,
+   "y": 603.953125,
+   "w": 243.1875,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Markdown cost / full-price sales\n\n10.1%",
+   "x": 339.1875,
+   "y": 603.953125,
+   "w": 243.203125,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Unsold stock / revenue\n\n52%",
+   "x": 598.390625,
+   "y": 603.953125,
+   "w": 243.203125,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Margin on goods sold\n\n44%",
+   "x": 857.59375,
+   "y": 603.953125,
+   "w": 243.203125,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Margin if unsold stock is lost\n\n19%",
+   "x": 1116.796875,
+   "y": 603.953125,
+   "w": 243.203125,
+   "h": 76
+  },
+  {
+   "testid": "stDataFrame",
+   "text": "",
+   "x": 80,
+   "y": 695.953125,
+   "w": 1280,
+   "h": 282
+  },
+  {
+   "testid": "stImage",
+   "text": "",
+   "x": 80,
+   "y": 1001.546875,
+   "w": 1280,
+   "h": 683.828125
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "The week-2 rule in the statement (2019 seasons)",
+   "x": 80,
+   "y": 1701.375,
+   "w": 1280,
+   "h": 25.59375
+  },
+  {
+   "testid": "stMetric",
+   "text": "Revenue\n\n-0.7%",
+   "x": 80,
+   "y": 1742.96875,
+   "w": 416,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Stock bought (full price)\n\n-3.1%",
+   "x": 512,
+   "y": 1742.96875,
+   "w": 416,
+   "h": 76
+  },
+  {
+   "testid": "stMetric",
+   "text": "Gross profit after unsold stock\n\n8.7%",
+   "x": 944,
+   "y": 1742.96875,
+   "w": 416,
+   "h": 76
+  },
+  {
+   "testid": "stMarkdown",
+   "text": "Gross profit after unsold stock = net revenue \u2212 assumed cost \u00d7 all stock bought. The later clearance value of leftover stock is not in the data, so this is a ca",
+   "x": 80,
+   "y": 1834.96875,
+   "w": 1280,
+   "h": 22.390625
+  }
+ ],
+ "scale": 2,
+ "width": 1440,
+ "height": 2057.359375,
+ "params": {}
+}

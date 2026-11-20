@@ -1,0 +1,18 @@
+{
+  "rows_in_file": 122,
+  "consented": 122,
+  "did_not_consent": 0,
+  "duplicate_answer_rows": 0,
+  "first_response": "2026-09-27 21:14:48",
+  "last_response": "2026-10-10 22:07:00",
+  "form_versions": {
+    "v2 edited": 100,
+    "v1 original": 22
+  },
+  "unmapped": {},
+  "q9_unanswered": 17,
+  "free_text_comments_not_shown": 6,
+  "conjoint_incomplete": 0,
+  "conjoint_all_same_rating_excluded": 1,
+  "margin_of_error_95_for_a_share": 0.08872503112166816
+}

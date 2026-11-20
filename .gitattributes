@@ -1,0 +1,11 @@
+# Keep text files with LF in the repo; Windows checkouts convert as needed
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.png binary
+*.pdf binary
+*.pptx binary
+*.joblib binary
+*.zip binary

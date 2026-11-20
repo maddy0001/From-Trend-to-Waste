@@ -1,0 +1,22 @@
+# From Trend to Waste: Python dependencies (tested with Python 3.13 on Windows/macOS/Linux)
+# The saved risk model (outputs/models/vis_risk_logit.joblib) was trained with scikit-learn 1.9.1,
+# so keep that pin or the dashboards may warn about a version mismatch.
+
+# Analysis pipeline
+numpy
+pandas
+pyarrow            # parquet files in data/processed/
+polars==1.44.2
+scipy
+scikit-learn==1.9.1
+statsmodels==0.15.0
+joblib
+matplotlib
+
+# Dashboards
+streamlit
+altair
+pillow
+
+# Optional: dashboard screenshots for the deck (also needs Google Chrome)
+websockets

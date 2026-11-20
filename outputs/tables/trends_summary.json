@@ -1,0 +1,27 @@
+{
+  "window": "05 Jun 2017 - 23 Dec 2019",
+  "weeks": 134,
+  "trend_slope_units_per_week": 73.32963503285565,
+  "trend_pct_per_year_of_mean": 0.18855195295690838,
+  "yoy_growth_jun_dec": 0.4133049448629236,
+  "seasonal_peak_month": 7,
+  "seasonal_peak_index": 1.4303256186754834,
+  "seasonal_trough_month": 3,
+  "seasonal_trough_index": 0.726076363272035,
+  "google_trends": {
+    "prelaunch_total_sales": {
+      "with Google Trends": {
+        "wape": 0.3360854819695176,
+        "spearman": 0.9904616385868514
+      },
+      "without Google Trends": {
+        "wape": 0.33492572013815725,
+        "spearman": 0.9904874879624259
+      }
+    },
+    "week2_weekly_wape": {
+      "with Google Trends": 0.393808893212227,
+      "without Google Trends": 0.3885848542487297
+    }
+  }
+}

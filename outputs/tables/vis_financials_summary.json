@@ -1,0 +1,45 @@
+{
+  "money_units": "index units (VISUELLE prices are normalised)",
+  "cost_ratios_assumed": [
+    0.4,
+    0.5,
+    0.6
+  ],
+  "all": {
+    "units_delivered": 2334430.0,
+    "units_sold": 1602545.0,
+    "units_unsold": 736546.0,
+    "full_price_value_delivered": 192107.7765892718,
+    "full_price_value_sold": 131437.8910675943,
+    "net_revenue": 118168.65334522848,
+    "markdown_cost": 13269.237722365811,
+    "closing_stock_value": 61014.87935581396,
+    "sell_through": 0.6864823532939518,
+    "markdown_rate": 0.10095443265703243,
+    "stock_to_sales": 0.5163372656668908,
+    "inventory_turnover_12w": 1.833419233715204,
+    "days_of_inventory": 45.81603511913862,
+    "gross_margin_cost40": 0.555083730425192,
+    "margin_after_unsold_cost40": 0.34971662568403505,
+    "gross_margin_cost50": 0.44385466303148996,
+    "margin_after_unsold_cost50": 0.18714578210504382,
+    "gross_margin_cost60": 0.33262559563778793,
+    "margin_after_unsold_cost60": 0.024574938526052546
+  },
+  "stock_to_sales_range": [
+    0.47787092719032653,
+    0.593040497054035
+  ],
+  "markdown_rate_range": [
+    0.09415545541617446,
+    0.1344978862638752
+  ],
+  "policy_gross_profit_change": {
+    "cost40": 0.03523205325225498,
+    "cost50": 0.08691219513499293,
+    "cost60": 0.5171915944997394
+  },
+  "policy_revenue_change": -0.006718600604728064,
+  "policy_full_price_value_delivered_change": -0.030557134077550452,
+  "breakeven_cost_to_price": 0.13792467958706733
+}
